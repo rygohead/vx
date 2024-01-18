@@ -1,0 +1,902 @@
+Vector,Fuente,Descripción
+6,Fuente 1,Declaración Jurada sobre Nomina Sence (F4500)
+7,Fuente 1,F1879
+9,Fuente 1,F29
+10,Fuente 1,F1879
+11,Fuente 1,F29
+12,Fuente 1,F50
+14,Fuente 1,F29
+16,Fuente 1,F29
+17,Fuente 1,F29
+18,Fuente 1,F1887
+19,Fuente 1,F1812
+19,Fuente 4,F1887
+20,Fuente 1,F29bis
+21,Fuente 1,Vector Renta
+22,Fuente 1,F29
+24,Fuente 1,CVC
+25,Fuente 1,F1832
+26,Fuente 1,"Nómina Donaciones a Universidades e Inst. Profesionales, Ley Nº 18.681, de 1987 (DONAUNIV.DAT)"
+27,Fuente 1,F1832
+29,Fuente 1,CVC
+31,Fuente 1,F22
+32,Fuente 1,F29
+33,Fuente 1,"Nómina Superficie de Explotación Forestal Acogidos al D.L. Nº 701, de 1974 (FORESTAL.DAT)"
+34,Fuente 1,F1870
+35,Fuente 1,CVC
+35,Fuente 4,Vector Renta
+36,Fuente 1,F22
+37,Fuente 1,F22
+38,Fuente 1,F22
+42,Fuente 1,CVC
+42,Fuente 4,Nómina SDF
+44,Fuente 1,F18XX
+46,Fuente 1,F1812
+46,Fuente 4,F1887
+48,Fuente 1,F1812
+48,Fuente 4,F1887
+53,Fuente 1,F1812
+53,Fuente 4,F1887
+54,Fuente 1,Nómina Inversiones en el Extranjero (EXTERIOR.DAT)
+55,Fuente 1,F1889
+56,Fuente 1,F1891
+57,Fuente 1,F1891
+59,Fuente 1,F1890
+62,Fuente 1,F1894
+63,Fuente 1,F1891
+64,Fuente 1,F1891
+65,Fuente 1,F22
+67,Fuente 1,"Nómina Cotizaciones Mensuales, Art. 20 D.L. Nº 3.500, de 1980 (COTIZAC_ISAPRE.DAT)"
+68,Fuente 1,CVC
+69,Fuente 1,CVC
+74,Fuente 1,F22
+77,Fuente 1,F1835
+81,Fuente 1,F1812
+81,Fuente 4,F1887
+82,Fuente 1,F1887
+83,Fuente 1,F1811
+84,Fuente 1,F1812
+84,Fuente 4,F1887
+86,Fuente 1,F1862
+87,Fuente 1,F1889
+88,Fuente 1,F1890
+89,Fuente 1,F1894
+92,Fuente 1,F22
+93,Fuente 1,F22
+95,Fuente 1,"Nómina Donaciones a Universidades e Inst. Profesionales, Ley Nº 18.681, de 1987 (DONAUNIV.DATAT-1)"
+97,Fuente 1,F22
+98,Fuente 1,F22
+99,Fuente 1,F22
+100,Fuente 1,F1870
+102,Fuente 1,Avaluaciones
+102,Fuente 2,F1897AT
+102,Fuente 3,F1897AT-1
+102,Fuente 4,F1897AT-2
+102,Fuente 5,F1897AT-3
+103,Fuente 1,Avaluaciones
+103,Fuente 2,F1897AT
+103,Fuente 3,F1897AT-1
+103,Fuente 4,F1897AT-2
+103,Fuente 5,F1897AT-3
+106,Fuente 1,F1837
+109,Fuente 1,F1837
+112,Fuente 1,F22
+112,Fuente 4,CVC
+113,Fuente 1,F29
+114,Fuente 1,F1811
+115,Fuente 1,F1812
+115,Fuente 4,F1887
+116,Fuente 1,F1887
+117,Fuente 1,"Nómina Cotizaciones Mensuales, Art. 18 D.L. Nº 3.500, de 1980 (COTIZAC_AFP.DAT)"
+118,Fuente 1,F1894
+120,Fuente 1,F22
+120,Fuente 4,CVC
+121,Fuente 1,F22
+122,Fuente 1,F22
+123,Fuente 1,F22Sociedad
+123,Fuente 4,CVC
+123,Fuente 5,Vector RentaSociedad
+124,Fuente 1,F50
+127,Fuente 1,F1889
+128,Fuente 1,F22
+128,Fuente 4,CVC
+129,Fuente 1,F1811
+130,Fuente 1,Nómina Declaración Jurada de Adquisición de Viviendas Nuevas DFL2
+132,Fuente 1,CVC
+132,Fuente 4,F22Sociedad
+136,Fuente 1,F22
+136,Fuente 4,CVC
+137,Fuente 1,Avaluaciones
+137,Fuente 2,F1897AT
+137,Fuente 3,F1897AT-1
+137,Fuente 4,F1897AT-2
+137,Fuente 5,F1897AT-3
+138,Fuente 1,Avaluaciones
+138,Fuente 2,F1897AT
+138,Fuente 3,F1897AT-1
+138,Fuente 4,F1897AT-2
+138,Fuente 5,F1897AT-3
+140,Fuente 1,Avaluaciones
+141,Fuente 1,CVC
+145,Fuente 1,F1890
+146,Fuente 1,F1890
+147,Fuente 1,Nómina Presencia Bursátil de Acciones en Bolsa (ACCIONES.DAT)
+148,Fuente 1,F1879
+149,Fuente 1,F1879
+156,Fuente 1,F1822
+157,Fuente 1,F1822
+160,Fuente 1,Nómina de Gastos de Capacitación SENCE (SENCE.DAT) ó Declaración Jurada sobre Nomina Sence (F4500)
+161,Fuente 1,Nómina Transferencias de Vehículos Nuevos (VEHICULO_NUEVO.DAT)
+161,Fuente 4,Tabla Valor Moneda
+162,Fuente 1,Nómina Transferencias de Vehículos Usados (VEHICULO_USADO.DAT)
+163,Fuente 1,Avaluaciones
+164,Fuente 1,Avaluaciones
+165,Fuente 1,Nómina de Naves Marítimas (o Artefacto Naval) (TRANSFERENCIA_NAVES.DAT)
+165,Fuente 4,Tabla de Moneda
+165,Fuente 5,Tabla de Cambios
+166,Fuente 1,Nómina de Inscripción y Transferencias de Aeronaves (TRANSFERENCIA_AERONAVES.DAT)
+166,Fuente 4,Tabla de Moneda
+166,Fuente 5,Tabla de Cambios
+168,Fuente 1,F1894
+170,Fuente 1,CVC
+171,Fuente 1,CVC
+172,Fuente 1,Nómina de Fiscalización
+173,Fuente 1,CVC
+174,Fuente 1,CVC
+175,Fuente 1,CVC
+176,Fuente 1,"Nómina de Renta Efectiva: Contribuyentes Agricultores, Mineros y Transportistas (CAMT.DAT)"
+179,Fuente 1,Nómina Devolución de PPM por Término de Giro (PPM.DAT)
+180,Fuente 1,CVC
+181,Fuente 1,F22
+182,Fuente 1,CVC
+182,Fuente 4,"Nómina Superficie de Explotación Forestal Acogidos al D.L. Nº 701, de 1974 (FORESTAL.DAT)"
+183,Fuente 1,CVC
+183,Fuente 4,Nómina SDF
+184,Fuente 1,F22
+184,Fuente 4,CVC
+186,Fuente 1,F1822
+188,Fuente 1,Nómina Transferencias de Vehículos Usados (VEHICULO_USADO.DAT)
+189,Fuente 1,Avaluaciones
+190,Fuente 1,F1894
+192,Fuente 1,F1896
+195,Fuente 1,F22AT-1
+197,Fuente 1,F22
+200,Fuente 1,F1822
+201,Fuente 1,CVC
+203,Fuente 1,F1822
+204,Fuente 1,CVC
+205,Fuente 1,CVC
+207,Fuente 1,F1879
+208,Fuente 1,F1812
+208,Fuente 4,F1887
+210,Fuente 1,F1898
+211,Fuente 1,Nómina Declaracíon Jurada de Renuncia 
+212,Fuente 1,DJS Ley 19.840 (55 bis)
+212,Fuente 4,Avaluaciones
+213,Fuente 1,"F29 (SIN FILTROS: Considerar todos los F29 presentados por el contribuyente, sin validar las anotaciones vigentes o el pago de los giros) "
+214,Fuente 1,F29 
+216,Fuente 1,F22
+236,Fuente 1,F22  
+236,Fuente 4,CVC
+236,Fuente 5,F1890
+237,Fuente 1,F22 
+237,Fuente 4,CVC
+237,Fuente 5,F1890
+238,Fuente 1,F22 
+238,Fuente 4,CVC
+238,Fuente 5,F1890
+239,Fuente 1,F22 
+239,Fuente 4,CVC
+239,Fuente 5,F1890
+240,Fuente 1,F22
+240,Fuente 4,CVC
+240,Fuente 5,F1894
+241,Fuente 1,F22 
+241,Fuente 4,CVC
+241,Fuente 5,F1894
+242,Fuente 1,Vector Renta
+248,Fuente 1,F50
+249,Fuente 1,F1898
+251,Fuente 1,F1896
+251,Fuente 4,Avaluaciones
+252,Fuente 1,F50
+253,Fuente 1,F50
+254,Fuente 1,Vector Renta
+256,Fuente 1,F1898
+258,Fuente 1,F50
+260,Fuente 1,F22
+262,Fuente 1,F1887
+269,Fuente 1,F1822
+270,Fuente 1,F50
+271,Fuente 1,F1894
+273,Fuente 1,F22 
+274,Fuente 1,CVC
+279,Fuente 1,Vector Renta
+280,Fuente 1,Vector Renta
+281,Fuente 1,Vector Renta
+282,Fuente 1,Vector Renta
+283,Fuente 1,Vector Renta
+284,Fuente 1,Vector Renta
+285,Fuente 1,Vector Renta
+286,Fuente 1,Vector Renta
+287,Fuente 1,Vector Renta
+288,Fuente 1,Vector Renta
+289,Fuente 1,Vector Renta
+290,Fuente 1,Vector Renta
+292,Fuente 1,Vector Renta
+293,Fuente 1,Vector Renta
+294,Fuente 1,Vector Renta
+295,Fuente 1,Vector Renta
+296,Fuente 1,Vector Renta
+297,Fuente 1,Vector Renta
+298,Fuente 1,Vector Renta
+299,Fuente 1,Vector Renta
+300,Fuente 1,Vector Renta
+301,Fuente 1,Vector Renta
+304,Fuente 1,Vector Renta
+308,Fuente 1,Vector Renta
+313,Fuente 1,F22
+314,Fuente 1,F1811
+315,Fuente 1,F1812
+315,Fuente 4,F1887
+317,Fuente 1,F1812
+317,Fuente 4,F1887
+318,Fuente 1,Vector Renta
+319,Fuente 1,F22
+320,Fuente 1,F22
+326,Fuente 1,F1822
+330,Fuente 1,F22
+331,Fuente 1,Vector Renta
+334,Fuente 1,F1891
+335,Fuente 1,F1891
+336,Fuente 1,Vector Renta
+337,Fuente 1,Vector Renta
+338,Fuente 1,Avaluaciones
+339,Fuente 1,Vector Renta
+340,Fuente 1,Vector Renta
+341,Fuente 1,F1894
+343,Fuente 1,Vector Renta
+344,Fuente 1,F1812
+344,Fuente 4,F1887
+345,Fuente 1,F22
+350,Fuente 1,Vector Renta
+351,Fuente 1,F1899
+352,Fuente 1,F1899
+354,Fuente 1,F1899
+355,Fuente 1,F1899
+356,Fuente 1,F1899
+357,Fuente 1,F1890
+358,Fuente 1,F1890
+373,Fuente 1,F1895
+381,Fuente 1,F1879
+382,Fuente 1,F1879
+383,Fuente 1,F1879
+384,Fuente 1,Avaluaciones
+384,Fuente 2,F1897AT
+384,Fuente 3,F1897AT-1
+384,Fuente 4,F1897AT-2
+384,Fuente 5,F1897AT-3
+385,Fuente 1,Avaluaciones
+385,Fuente 2,F1897AT
+385,Fuente 3,F1897AT-1
+385,Fuente 4,F1897AT-2
+385,Fuente 5,F1897AT-3
+386,Fuente 1,Avaluaciones
+386,Fuente 2,F1897AT
+386,Fuente 3,F1897AT-1
+386,Fuente 4,F1897AT-2
+386,Fuente 5,F1897AT-3
+387,Fuente 1,Avaluaciones
+387,Fuente 2,F1897AT
+387,Fuente 3,F1897AT-1
+387,Fuente 4,F1897AT-2
+387,Fuente 5,F1897AT-3
+393,Fuente 1,Nómina “Compra de acciones acogidas al artículo 18 TER”
+395,Fuente 1,F1898
+396,Fuente 1,F1898
+397,Fuente 1,F1898
+397,Fuente 4,DJS Ley 19.840 (55 bis)
+398,Fuente 1,F22
+399,Fuente 1,F22
+400,Fuente 1,Avaluaciones
+401,Fuente 1,Vector Renta
+405,Fuente 1,Vector Renta
+409,Fuente 1,F1889
+412,Fuente 1,F1891
+413,Fuente 1,F1894
+415,Fuente 1,F1896
+417,Fuente 1,F1822
+419,Fuente 1,F1929
+421,Fuente 1,F1929
+423,Fuente 1,F1929
+427,Fuente 1,RIAC
+435,Fuente 1,CVC
+436,Fuente 1,F1812
+436,Fuente 4,F1887
+437,Fuente 1,Nómina OTEC Querellada
+438,Fuente 1,Nómina OTEC Revocados (OTEC.DAT)
+446,Fuente 1,F22 
+446,Fuente 4,Vector Renta
+447,Fuente 1,Nómina Mandato Especial e Irrevocable SENCE (MANDATOS.DAT)
+448,Fuente 1,Nómina Mandato Especial e Irrevocable SENCE (MANDATOS.DAT)
+454,Fuente 1,F1896
+455,Fuente 1,F1898
+456,Fuente 1,F1899
+459,Fuente 1,F29
+460,Fuente 1,Nómina OTEC Revocados (OTEC.DAT)
+461,Fuente 1,F22
+463,Fuente 1,F22
+463,Fuente 4,F1898
+464,Fuente 1,Declaración Jurada Simple Beneficiario de Rebaja de Impuesto por Crédito Hipotecario 
+465,Fuente 1,F1899
+468,Fuente 1,CVC
+469,Fuente 1,F1929
+474,Fuente 1,CVC
+474,Fuente 4,Nómina SDF
+476,Fuente 1,F29
+479,Fuente 1,F1812
+480,Fuente 1,F1879
+481,Fuente 1,F1887
+485,Fuente 1,F1890
+486,Fuente 1,F1890
+490,Fuente 1,Nómina de Proyectos Donaciones Sociales (DON_SOC.DAT)
+492,Fuente 1,Vector Renta
+493,Fuente 1,F1835
+494,Fuente 1,F1896
+497,Fuente 1,F1828
+504,Fuente 1,F1822
+507,Fuente 1,F1811
+508,Fuente 1,Vector Renta
+510,Fuente 1,F50
+514,Fuente 1,F29
+517,Fuente 1,F29
+519,Fuente 1,Vector Renta
+520,Fuente 1,F1832
+522,Fuente 1,"Nómina Donaciones a Universidades e Inst. Profesionales, Ley Nº 18.681, de 1987 (DONAUNIV.DAT)"
+522,Fuente 4,Vector Renta
+523,Fuente 1,Vector Renta
+524,Fuente 1,F22
+525,Fuente 1,Vector RentaAT-1
+526,Fuente 1,Vector Renta
+527,Fuente 1,Vector Renta
+528,Fuente 1,F1832
+532,Fuente 1,F22
+534,Fuente 1,F22
+535,Fuente 1,F22
+536,Fuente 1,F22
+537,Fuente 1,CVC
+538,Fuente 1,Vector Renta
+539,Fuente 1,Vector Renta
+542,Fuente 1,F1894
+544,Fuente 1,Vector RentaAT-2
+545,Fuente 1,Vector Renta
+546,Fuente 1,Vector Renta
+546,Fuente 4,F22
+547,Fuente 1,Vx010546
+563,Fuente 1,Vector Renta
+570,Fuente 1,Nómina de Proyectos Donaciones Sociales (DON_SOC.DAT)
+572,Fuente 1,Nómina Donaciones Para Fines Deportivos (DEPORTIVOS.DAT)
+572,Fuente 4,Nómina Proyectos Deportivos Aprobados por el SII (PROYAPROBADO.DAT)
+581,Fuente 1,RCIVIL
+591,Fuente 1,F22AT-1
+592,Fuente 1,F22
+599,Fuente 1,CVC
+605,Fuente 1,"F29 (SIN FILTROS: Considerar todos los F29 presentados por el contribuyente, sin validar las anotaciones vigentes o el pago de los giros)"
+606,Fuente 1,"F29 (SIN FILTROS: Considerar todos los F29 presentados por el contribuyente, sin validar las anotaciones vigentes o el pago de los giros)"
+607,Fuente 1,"F29 (SIN FILTROS: Considerar todos los F29 presentados por el contribuyente, sin validar las anotaciones vigentes o el pago de los giros)"
+608,Fuente 1,CVC
+618,Fuente 1,Declaración Jurada sobre Nomina Sence (F4500)
+619,Fuente 1,Declaración Jurada sobre Nomina Sence (F4500)
+620,Fuente 1,CVC
+621,Fuente 1,F1896
+621,Fuente 4,Avaluaciones
+624,Fuente 1,Nómina Pescadores Artesanales (PESCA_ARTESANAL.DAT)
+625,Fuente 1,F1898
+626,Fuente 1,Avaluaciones
+627,Fuente 1,F1887
+629,Fuente 1,F1887
+629,Fuente 4,Vector Renta
+633,Fuente 1,CVC
+634,Fuente 1,CVC
+635,Fuente 1,CVC
+636,Fuente 1,F22
+637,Fuente 1,F1896
+637,Fuente 4,Avaluaciones
+638,Fuente 1,Declaración Jurada sobre Nomina Sence (F4500)
+644,Fuente 1,CVC
+645,Fuente 1,F1832
+646,Fuente 1,F1832
+647,Fuente 1,F1832
+653,Fuente 1,F1834
+655,Fuente 1,F1834
+659,Fuente 1,F1812
+663,Fuente 1,Nómina Donaciones Para Fines Deportivos (DEPORTIVOS.DAT)
+664,Fuente 1,Nómina Donaciones Para Fines Deportivos (DEPORTIVOS.DAT)
+665,Fuente 1,Nómina de Cónyuge e Hijos
+665,Fuente 4,CVC
+666,Fuente 1,Vx010563
+666,Fuente 4,Vx010665
+667,Fuente 1,"Nómina de Cónyuge e Hijos, CVC"
+668,Fuente 1,Vx010546
+668,Fuente 2,Vx010665
+672,Fuente 1,Avaluaciones
+672,Fuente 4,F1835
+673,Fuente 1,Avaluaciones 
+673,Fuente 4,F1835
+674,Fuente 1,F22
+675,Fuente 1,F18XX
+675,Fuente 4,F19XX
+676,Fuente 1,Vector RentaAT-1
+677,Fuente 1,F22
+678,Fuente 1,F22
+679,Fuente 1,F22
+680,Fuente 1,F22
+681,Fuente 1,F22
+682,Fuente 1,F22
+683,Fuente 1,F22
+694,Fuente 1,F1929
+702,Fuente 1,F1929
+703,Fuente 1,F1929
+715,Fuente 1,F50
+718,Fuente 1,F50
+725,Fuente 1,F22
+727,Fuente 1,Declaración Jurada sobre Nomina Sence (F4500)
+731,Fuente 1,F50
+733,Fuente 1,F50
+734,Fuente 1,F50
+740,Fuente 1,F1929
+742,Fuente 1,F1929
+761,Fuente 1,F22
+762,Fuente 1,F22
+765,Fuente 1,F22
+768,Fuente 1,Nómina DGC
+769,Fuente 1,CVC
+770,Fuente 1,F22
+771,Fuente 1,F1879
+772,Fuente 1,F29
+778,Fuente 1,F1891
+784,Fuente 1,F1879
+785,Fuente 1,F1879
+795,Fuente 1,F50
+796,Fuente 1,Nómina Pescadores Artesanales (PESCA_ARTESANAL.DAT)
+797,Fuente 1,Nómina Pescadores Artesanales (PESCA_ARTESANAL.DAT)
+798,Fuente 1,Aplicación Pago Diferido
+799,Fuente 1,Aplicación Pago Diferido
+807,Fuente 1,F1887
+808,Fuente 1,F1887
+809,Fuente 1,F1896
+810,Fuente 1,F1896
+810,Fuente 4,Avaluaciones
+811,Fuente 1,Avaluaciones 
+811,Fuente 4,F1835
+812,Fuente 1,F22
+813,Fuente 1,F22
+814,Fuente 1,F22
+816,Fuente 1,F1887
+817,Fuente 1,BHE
+818,Fuente 1,F1862
+819,Fuente 1,F1862
+820,Fuente 1,F1862
+821,Fuente 1,F1862
+822,Fuente 1,F1811 
+825,Fuente 1,CVC
+826,Fuente 1,CVC
+827,Fuente 1,BHE
+827,Fuente 4,Timbraje de Documentos
+828,Fuente 1,CVC
+829,Fuente 1,F1879
+829,Fuente 4,Validaciones DDJJ
+829,Fuente 5,Vector RentaRut2
+830,Fuente 1,F1879
+830,Fuente 4,Validaciones DDJJ
+831,Fuente 1,Avaluaciones
+835,Fuente 1,F29
+836,Fuente 1,Timbraje de Documento
+837,Fuente 1,F29
+849,Fuente 1,F22
+849,Fuente 4,Vector Renta
+849,Fuente 5,CVC
+850,Fuente 1,CVC
+850,Fuente 4,Vector Renta
+851,Fuente 1,F1879
+852,Fuente 1,F1879
+852,Fuente 4,Prevector
+854,Fuente 1,F22AT-1
+855,Fuente 1,Validaciones DDJJ
+856,Fuente 1,F1879
+857,Fuente 1,F1879
+860,Fuente 1,F29
+861,Fuente 1,F29
+862,Fuente 1,F1879
+864,Fuente 1,Nómina RUT Observados traspasado a Selectiva
+865,Fuente 1,F22
+866,Fuente 1,F22
+867,Fuente 1,F22
+868,Fuente 1,F22
+869,Fuente 1,F29
+870,Fuente 1,F29
+872,Fuente 1,F22
+873,Fuente 1,F22
+874,Fuente 1,F22
+875,Fuente 1,F22
+876,Fuente 1,Vector Renta
+877,Fuente 1,Vector Renta
+899,Fuente 1,F22
+900,Fuente 1,Nómina Presencia Bursátil de Acciones en Bolsa (ACCIONES.DAT)
+900,Fuente 4,F1891
+901,Fuente 1,Nómina de Proyectos Donaciones Sociales (DON_SOC.DAT)
+901,Fuente 4,Nómina Proyectos Donaciones Sociales en Revisión (PROYECTODONSOCIAL.DAT)
+902,Fuente 1,Nómina de Proyectos Donaciones Sociales (DON_SOC.DAT)
+902,Fuente 4,Nómina Proyectos Donaciones Sociales en Revisión (PROYECTODONSOCIAL.DAT)
+903,Fuente 1,Nómina de Proyectos Donaciones Sociales (DON_SOC.DAT)
+908,Fuente 1,F1822
+909,Fuente 1,F22 
+909,Fuente 4,CVC
+909,Fuente 5,F1822
+919,Fuente 1,Vector Renta
+920,Fuente 1,Vector Renta
+934,Fuente 1,F22 
+934,Fuente 4,CVC
+934,Fuente 5,F1890
+936,Fuente 1,Vector Renta
+939,Fuente 1,RIAC
+954,Fuente 1,F1822
+958,Fuente 1,F22
+959,Fuente 1,F22
+960,Fuente 1,F22
+961,Fuente 1,F22
+968,Fuente 1,Vector Renta
+971,Fuente 1,F1812
+971,Fuente 4,F1887
+971,Fuente 5,CVC
+972,Fuente 1,Vector Renta
+972,Fuente 4,CVC
+972,Fuente 5,F1890
+973,Fuente 1,F1890
+974,Fuente 1,F1890
+975,Fuente 1,F1890
+976,Fuente 1,CVC
+976,Fuente 4,Vector Renta
+977,Fuente 1,F1890
+978,Fuente 1,Vector Renta
+978,Fuente 4,CVC
+978,Fuente 5,F1894
+979,Fuente 1,F1894
+980,Fuente 1,F1890
+985,Fuente 1,F1890
+986,Fuente 1,F1811
+992,Fuente 1,Vector Renta
+992,Fuente 4,CVC
+992,Fuente 5,F1890
+993,Fuente 1,F22 
+993,Fuente 4,CVC
+993,Fuente 5,F1890
+993,Fuente 6,Vector Renta
+995,Fuente 1,Vector Renta
+995,Fuente 4,CVC
+995,Fuente 5,F1890
+1009,Fuente 1,Vector Renta
+1009,Fuente 4,CVC
+1010,Fuente 1,Vector Renta
+1010,Fuente 4,CVC
+1010,Fuente 5,F1890
+1011,Fuente 1,Vector Renta
+1011,Fuente 4,CVC
+1011,Fuente 5,F1890
+1012,Fuente 1,F1890
+1013,Fuente 1,Vector Renta
+1013,Fuente 4,CVC
+1013,Fuente 5,F1890
+1014,Fuente 1,Vector Renta
+1014,Fuente 4,CVC
+1014,Fuente 5,F1890
+1015,Fuente 1,Vector Renta
+1015,Fuente 4,CVC
+1015,Fuente 5,F1890
+1016,Fuente 1,Vector Renta
+1016,Fuente 4,CVC
+1016,Fuente 5,F1890
+1018,Fuente 1,F22
+1018,Fuente 4,CVC
+1018,Fuente 5,Vx011017
+1019,Fuente 1,Vector Renta
+1019,Fuente 4,F22
+1019,Fuente 5,CVC
+1020,Fuente 1,F22 
+1020,Fuente 4,Vector Renta
+1020,Fuente 5,CVC
+1023,Fuente 1,F22
+1023,Fuente 4,Vector Renta
+1023,Fuente 5,CVC
+1027,Fuente 1,F1823
+1027,Fuente 4,F1888
+1028,Fuente 1,F22
+1031,Fuente 1,F22 
+1032,Fuente 1,F22 
+1033,Fuente 1,F22
+1034,Fuente 1,F22
+1035,Fuente 1,Avaluaciones
+1035,Fuente 4,F1897
+1038,Fuente 1,F22
+1038,Fuente 4,CVC
+1038,Fuente 5,F1822
+1038,Fuente 6,Vector Renta
+1041,Fuente 1,F22
+1041,Fuente 4,CVC
+1041,Fuente 5,F1822
+1041,Fuente 6,Vector Renta
+1044,Fuente 1,Nómina de Naves Marítimas (o Artefacto Naval) (TRANSFERENCIA_NAVES.DAT)
+1044,Fuente 4,Tabla de Moneda
+1044,Fuente 5,Tabla de Cambios
+1045,Fuente 1,Nómina de Inscripción y Transferencias de Aeronaves (TRANSFERENCIA_AERONAVES.DAT)
+1045,Fuente 4,Tabla de Moneda
+1045,Fuente 5,Tabla de Cambios
+1046,Fuente 1,Vector Renta
+1047,Fuente 1,Vector Renta
+1050,Fuente 1,Avaluaciones
+1050,Fuente 4,F1897
+1051,Fuente 1,F22
+1052,Fuente 1,Avaluaciones
+1052,Fuente 4,F1897
+1053,Fuente 1,Avaluaciones
+1053,Fuente 4,F1897
+1054,Fuente 1,F22
+1055,Fuente 1,F22
+1055,Fuente 4,"Nómina Renta efectiva agricultores, mineros y transportistas (CAMT.DAT)"
+1055,Fuente 5,RIAC
+1055,Fuente 6,Avaluaciones
+1057,Fuente 1,F22
+1058,Fuente 1,F22
+1060,Fuente 1,F22
+1061,Fuente 1,F22
+1068,Fuente 1,CVC
+1070,Fuente 1,CVC
+1078,Fuente 1,CVC
+1081,Fuente 1,CVC
+1083,Fuente 1,CVC
+1084,Fuente 1,F22
+1085,Fuente 1,"F29 (SIN FILTROS: Considerar todos los F29 presentados por el contribuyente, sin validar las anotaciones vigentes o el pago de los giros)"
+1086,Fuente 1,CVC
+1088,Fuente 1,F22 
+1089,Fuente 1,F22bis
+1090,Fuente 1,F1895
+1091,Fuente 1,F1895
+1092,Fuente 1,F1895
+1093,Fuente 1,F1895
+1094,Fuente 1,F1895
+1095,Fuente 1,F1895 
+1096,Fuente 1,F1895 
+1097,Fuente 1,F1895
+1098,Fuente 1,F1895
+1099,Fuente 1,F1895
+1100,Fuente 1,F1895
+1103,Fuente 1,F1895AT-1
+1104,Fuente 1,F1895AT-1
+1105,Fuente 1,F1895
+1106,Fuente 1,F1895
+1107,Fuente 1,F1895
+1108,Fuente 1,F1895
+1109,Fuente 1,F1895
+1110,Fuente 1,F1895
+1111,Fuente 1,F1895
+1112,Fuente 1,F1895
+1113,Fuente 1,Nómina SDF
+1116,Fuente 1,F1895
+1117,Fuente 1,F1895AT-1
+1118,Fuente 1,F1895 
+1119,Fuente 1,CVC
+1120,Fuente 1,CVC
+1121,Fuente 1,CVCAT-1
+1121,Fuente 2,Vector Renta
+1121,Fuente 3,F22Sociedad_AT-1
+1121,Fuente 4,AvaluacionesAT-1
+1121,Fuente 5,F1897Sociedad_AT-1
+1121,Fuente 6,F1897Sociedad_AT-2
+1121,Fuente 7,F1897Sociedad_AT-3
+1122,Fuente 1,CVCAT-1
+1122,Fuente 2,Vector Renta
+1122,Fuente 3,F22Sociedad_AT-1
+1122,Fuente 4,AvaluacionesAT-1
+1122,Fuente 5,F1897Sociedad_AT-1
+1122,Fuente 6,F1897Sociedad_AT-2
+1122,Fuente 7,F1897Sociedad_AT-3
+1123,Fuente 1,F22
+1123,Fuente 4,CVC
+1123,Fuente 5,Vector Renta
+1124,Fuente 1,F22
+1124,Fuente 4,CVC
+1124,Fuente 5,Vector Renta
+1125,Fuente 1,F22
+1125,Fuente 4,CVC
+1125,Fuente 5,Vector Renta
+1126,Fuente 1,F22
+1126,Fuente 4,CVC
+1126,Fuente 5,Vector Renta
+1127,Fuente 1,F22 
+1128,Fuente 1,F22
+1129,Fuente 1,F22
+1129,Fuente 4,CVC
+1129,Fuente 5,Vector Renta
+1130,Fuente 1,Nómina entregada por Fiscalización
+1131,Fuente 1,F1895AT-1
+1134,Fuente 1,CVC
+1135,Fuente 1,CVC
+1136,Fuente 1,F29
+1139,Fuente 1,CVC
+1139,Fuente 2,F22Sociedad
+1139,Fuente 3,Avaluaciones
+1139,Fuente 4,F1897AT
+1139,Fuente 5,F1897AT-1
+1139,Fuente 6,F1897AT-2
+1139,Fuente 7,F1897AT-3
+1140,Fuente 1,CVC
+1140,Fuente 4,Avaluaciones
+1140,Fuente 5,F1897
+1141,Fuente 1,Avaluaciones
+1141,Fuente 4,F1897
+1142,Fuente 1,Avaluaciones
+1142,Fuente 4,F1897
+1143,Fuente 1,Avaluaciones
+1143,Fuente 4,F1897
+1144,Fuente 1,Nómina RUT en auditoría Selectiva S02 
+1145,Fuente 1,Avaluaciones
+1145,Fuente 4,F1897
+1146,Fuente 1,F22
+1147,Fuente 1,F1887
+1148,Fuente 1,F1812
+1149,Fuente 1,F1899
+1150,Fuente 1,F1899
+1151,Fuente 1,F1899
+1152,Fuente 1,F1899
+1153,Fuente 1,F1899
+1154,Fuente 1,F1899
+1155,Fuente 1,F1899
+1156,Fuente 1,F1899
+1157,Fuente 1,F1899
+1158,Fuente 1,F1871
+1159,Fuente 1,CVC
+1159,Fuente 4,F22Sociedad
+1159,Fuente 5,Vector Renta
+1164,Fuente 1,Nómina Donaciones Para Fines Deportivos (DEPORTIVOS.DAT)
+1164,Fuente 4,Nómina Proyectos Deportivos aprobados por el SII (PROYAPROBADO.DAT)
+1165,Fuente 1,Nómina Donaciones Para Fines Deportivos (DEPORTIVOS.DAT)
+1165,Fuente 4,Nómina Proyectos Deportivos Aprobados por el SII (PROYAPROBADO.DAT)
+1166,Fuente 1,Nómina Donaciones Para Fines Deportivos (DEPORTIVOS.DAT)
+1166,Fuente 4,Nómina Proyectos Deportivos Aprobados por el SII (PROYAPROBADO.DAT)
+1167,Fuente 1,Información de los Centros de Investigación y Desarrollo o Patrocinante y de los Contratos de I+D (CORFO.DAT)
+1168,Fuente 1,F22
+1169,Fuente 1,F22
+1170,Fuente 1,F29
+1178,Fuente 1,F22
+1179,Fuente 1,F22
+1180,Fuente 1,F22
+1181,Fuente 1,F22
+1182,Fuente 1,F22
+1183,Fuente 1,F22
+1184,Fuente 1,F22
+1185,Fuente 1,F22
+1186,Fuente 1,F22
+1187,Fuente 1,F22
+1188,Fuente 1,FISCALIZACIÓN
+1189,Fuente 1,F22 
+1189,Fuente 4,Vector Renta
+1190,Fuente 1,F1899
+1191,Fuente 1,CVC
+1192,Fuente 1,F29
+1193,Fuente 1,F29
+1195,Fuente 1,F29
+1196,Fuente 1,nómina de eventos de capital DCV  
+1197,Fuente 1,Nómina de Proyectos Donaciones Sociales (DON_SOC.DAT)
+1198,Fuente 1,F29
+1199,Fuente 1,F1887
+1200,Fuente 1,F1887
+1201,Fuente 1,RIAC
+1201,Fuente 4,F22
+1205,Fuente 1,RIAC
+1205,Fuente 4,F22
+1210,Fuente 1,Vector Renta
+1211,Fuente 1,Vector Renta
+1212,Fuente 1,RIAC
+1212,Fuente 4,F22
+1213,Fuente 1,F22
+1214,Fuente 1,F22
+1215,Fuente 1,RIAC
+1215,Fuente 4,F22
+1217,Fuente 1,RIAC
+1217,Fuente 4,F22
+1217,Fuente 5,VX
+1218,Fuente 1,CVC
+1224,Fuente 1,Nómina FNR Hacienda
+1225,Fuente 1,Nómina FNR Hacienda
+1227,Fuente 1,F1828
+1228,Fuente 1,F1828
+1229,Fuente 1,F1828
+1230,Fuente 1,F1828
+1231,Fuente 1,Nómina FNR Hacienda
+1232,Fuente 1,Nómina FNR Hacienda
+1234,Fuente 1,"F29 (SIN FILTROS: Considerar todos los F29 presentados por el contribuyente, sin validar las anotaciones vigentes o el pago de los giros)"
+1234,Fuente 4,F22
+1235,Fuente 1,"F29 (SIN FILTROS: Considerar todos los F29 presentados por el contribuyente, sin validar las anotaciones vigentes o el pago de los giros)"
+1235,Fuente 4,F22
+1237,Fuente 1,Nómina FNR Hacienda
+1238,Fuente 1,Nómina FNR Hacienda
+1239,Fuente 1,Nómina FNR Hacienda
+1240,Fuente 1,Nómina FNR Hacienda
+1241,Fuente 1,Nómina FNR Hacienda
+1242,Fuente 1,Nómina FNR Hacienda
+1247,Fuente 1,Nómina de Proyectos Donaciones Sociales (DON_SOC.DAT)
+1248,Fuente 1,F1828
+1249,Fuente 1,F29
+1250,Fuente 1,F29
+1251,Fuente 1,Nómina de Proyectos Donaciones Sociales (DON_SOC.DAT)
+1252,Fuente 1,Nómina de Proyectos Donaciones Sociales (DON_SOC.DAT)
+1255,Fuente 1,F1828
+1256,Fuente 1,F1879
+1257,Fuente 1,F1887
+1258,Fuente 1,F1887
+1259,Fuente 1,F1889
+1260,Fuente 1,F1889
+1261,Fuente 1,F3324
+1262,Fuente 1,Avaluaciones
+1263,Fuente 1,CVC
+1264,Fuente 1,CVC
+1265,Fuente 1,Departamento De Atención y Asistencia De Contribuyentes
+1266,Fuente 1,Nómina de Proyectos Donaciones Sociales (DON_SOC.DAT)
+1267,Fuente 1,Nómina de Proyectos Donaciones Sociales (DON_SOC.DAT)
+1268,Fuente 1,Nómina Subdirección de Fiscalización (Nómina Donaciones Vx011268)
+1269,Fuente 1,Nómina subdirección de fiscalización
+1270,Fuente 1,CVC
+1271,Fuente 1,Vector Renta
+1272,Fuente 1,F29
+1273,Fuente 1,F29
+1274,Fuente 1,F29
+1275,Fuente 1,F29
+1276,Fuente 1,F29
+1277,Fuente 1,F29
+1278,Fuente 1,F29
+1279,Fuente 1,F29
+1280,Fuente 1,F29
+1281,Fuente 1,F29
+1282,Fuente 1,RIAC 
+1283,Fuente 1,RIAC
+1285,Fuente 1,RIAC 
+1286,Fuente 1,ObservacionesAT-1
+1286,Fuente 4,F22AT-1
+1286,Fuente 5,F22AT-2
+1287,Fuente 1,ObservacionesAT-1
+1287,Fuente 2,ObservacionesAT-2
+1287,Fuente 4,F22AT-1
+1287,Fuente 5,F22AT-2
+1288,Fuente 1,Observaciones
+1290,Fuente 1,ObservacionesAT-1
+1290,Fuente 2,ObservacionesAT-2
+1290,Fuente 3,ObservacionesAT-3
+1290,Fuente 4,F22AT-1
+1290,Fuente 5,F22AT-2
+1290,Fuente 6,F22AT-3
+1291,Fuente 1,F22
+1292,Fuente 1,Validaciones
+1310,Fuente 1,F1847
+1311,Fuente 1,F1847
+1312,Fuente 1,F1847
+1313,Fuente 1,Nómina SDF
+1314,Fuente 1,F29
+1321,Fuente 1,F1873
+1322,Fuente 1,F1873
+1329,Fuente 1,F1835
+1329,Fuente 4,F22Sociedad
+1329,Fuente 5,CVC
+1329,Fuente 6,VectorSociedad
+1330,Fuente 1,Vector Renta
+1330,Fuente 4,F1835
+1330,Fuente 5,CVC
+1330,Fuente 6,Avaluaciones
+1331,Fuente 1,Vector Renta
+1331,Fuente 4,F1835
+1331,Fuente 5,CVC
+1332,Fuente 1,Vector Renta
+1332,Fuente 4,F1835
+1332,Fuente 5,F1909
+1333,Fuente 1,Vector Renta
+1333,Fuente 4,F22
+1333,Fuente 5,CVC
