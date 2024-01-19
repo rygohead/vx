@@ -1,0 +1,2010 @@
+﻿vx_vector;6
+vx_nombre_vector;Capacitación SENCE aprobada AT a controlar
+vx_descripcion;Liquidaciones visadas por el SENCE.
+vx_vector;7
+vx_nombre_vector;Retenciones de Honorarios Tasa 10,75%
+vx_descripcion;Sumatoria, por Receptor, de la proporción de Renta de Honorarios y Otros (Art. 42 N° 2), Tasa 10,75%, que corresponde a lo que se obtiene dividiendo los honorarios por el total declarado en F1879 y multiplicado por la diferencia entre el total declarado y el monto observado por la observación R08.
+vx_vector;9
+vx_nombre_vector;Retenciones de Segunda Cat. (Cód. 151)
+vx_descripcion;Sumatoria de los códigos [151] de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;10
+vx_nombre_vector;F1879 Retenciones Tasa 10,75% y 10% directores por Declarante
+vx_descripcion;Sumatoria por declarante de Montos Retenidos por honorarios y otros (Tasa 10,75%) y directores (Tasa 10%).
+vx_vector;11
+vx_nombre_vector;PPM de Segunda Categoría (Cód. 152) con Proporcionalidad de Giros No Pagados
+vx_descripcion;Sumatoria de los códigos [152] de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;12
+vx_nombre_vector;PPM por Asesorías Técnicas (Cód. 159)
+vx_descripcion;Sumatoria de los códigos [159] de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;14
+vx_nombre_vector;Retenciones a Direc. y Consejeros S.A. (Cód. 153)
+vx_descripcion;Sumatoria de los códigos [153] de Enero a Diciembre AT Anterior de código [15]. 
+vx_vector;16
+vx_nombre_vector;Retenc. 1a Categoría y Mineros (Cód. 50-56)
+vx_descripcion;Sumatoria de los códigos [50] y [56] de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;17
+vx_nombre_vector;PPM artesanales u obreros (Cód. 70) con Proporcionalidad de Giros No Pagados
+vx_descripcion;Sumatoria de los códigos [70] de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;18
+vx_nombre_vector;Rentas Acc. Ene-Abr
+vx_descripcion;Monto de Declarante por Rentas Accesorias Pagadas entre Enero y Abril declaradas en F1887 del AT. a controlar. 
+vx_vector;19
+vx_nombre_vector;Mayor Retención Solicitada por Declarante
+vx_descripcion;Sumatoria por DECLARANTE de la Mayor Retención Solicitada (Art. 88 L.I.R.). 
+vx_vector;20
+vx_nombre_vector;PPM con proporción de giros No Pagados
+vx_descripcion;Sumatoria de los F29 vigentes de los PPM pagados y declarados, códigos [62], [66], [70], [122], [123], [152] y [703], de Enero a Diciembre de AT Anterior de código [15].
+vx_vector;21
+vx_nombre_vector;Cumple con requisito art. 14 Ley 20.351 (pre-contrato)
+vx_descripcion;"Si el contribuyente mantuvo el número de trabajadores contratados a abril, e informados en F1887, durante los mese de julio a diciembre, informados también en F1887, todos del año comercial anterior; entonces puede hacer uso del beneficio del art. 14 Ley 20.351 (pre-contrato)."
+vx_vector;22
+vx_nombre_vector;Remanente de Cotización Adicional (Cód. 73)
+vx_descripcion;Código [73] declarado en período Diciembre AT-1.
+vx_vector;24
+vx_nombre_vector;Anotación Operación IVA (4301 ó 4302)
+vx_descripcion;Anotación de Operación IVA (4301 .o. 4302), vigentes al 31.12.AT-1. 
+vx_vector;25
+vx_nombre_vector;Donaciones educacionales
+vx_descripcion;Sumatoria, por informado, del monto anual actualizado de la donación valorizada en dinero cuando la columna “Norma Legal Bajo la Cual se Efectúa la Donación” sea igual a 4.
+vx_vector;26
+vx_nombre_vector;Donaciones a Univ. e Institutos
+vx_descripcion;Sumatoria, por Donante, del monto de las donaciones a Universidades e Institutos Profesionales (Ext. Mineduc, Art. 69 Ley Nº18.681/87).
+vx_vector;27
+vx_nombre_vector;Donaciones a Ley N° 16.271, Ley de Impuesto a las Herencias, Asignaciones y Donaciones
+vx_descripcion;Sumatoria, por informado, del monto anual actualizado de la donación valorizada en dinero cuando la columna “Norma Legal Bajo la Cual se Efectúa la Donación” sea igual a 5.
+vx_vector;29
+vx_nombre_vector;Beneficio Tributario regiones extremas
+vx_descripcion;Porcentaje de beneficio tributario de contribuyentes de segunda categoría y con inicio de actividad en regiones 1, 11, 12 y Provincia de Chiloé (Unidades 10401, 10402, 10403, 10404, 10405, 10406, 10407, 10408, 10410, 10415), vigente registrado al 25.01.AT, obtenido desde Tabla Zona Extrema, de acuerdo a comuna registrada en Ciclo de Vida.
+vx_vector;31
+vx_nombre_vector;Tasa Promedio Art. 57 bis (AT 2001)
+vx_descripcion;Código [706] del AT 2001, sin actualizar.
+vx_vector;32
+vx_nombre_vector;Créd. Emp. Constructoras (Cód. 130 )
+vx_descripcion;Código [130] declarado en período Diciembre AT-1.
+vx_vector;33
+vx_nombre_vector;CONAF (D.L. 701)
+vx_descripcion;Toma valor 1 si el RUT del contribuyente viene informado en la nómina Superficie de Explotación Forestal Acogidos al D.L. Nº 701, de 1974.
+vx_vector;34
+vx_nombre_vector;F1870 Inversiones en moneda extranjera
+vx_descripcion;Sumatoria, por informado, del monto total de las compras de valores transados en moneda extranjera, considerando las facturas de compras y notas de débito, y descontando las notas de crédito.
+vx_vector;35
+vx_nombre_vector;Nro. Soc. con Cont. Simplif.
+vx_descripcion;Número de Sociedades con Contabilidad Simplificada en que es Socio (Rut Socio < 50.000.000).
+vx_vector;36
+vx_nombre_vector;Remanente Ahorro Positivo Ejercicio Sigte. (AT 1998)
+vx_descripcion;Corresponde al código [362] declarado en el AT1998.
+vx_vector;37
+vx_nombre_vector;Impto. 1a Cat. Rentas Efectivas AT Anterior (Cód. 20)
+vx_descripcion;Corresponde al código [20] declarado en el AT Anterior.
+vx_vector;38
+vx_nombre_vector;Impto. 1a Cat. Rentas Presuntas (Cód. 189)
+vx_descripcion;Corresponde al código [189] declarado en el AT Anterior, actualizado por el factor de Abril a Diciembre del AT.
+vx_vector;42
+vx_nombre_vector;Categoría de Personas Naturales con Activ. Econ. Vigente
+vx_descripcion;Personas naturales con actividad económica vigente registrada al 25.01.AT en Ciclo de Vida (Ruts menores a 48.000.000), con inicio de actividades y sin término de giro (Anotación 37, 5001, 50 o 60).
+vx_vector;44
+vx_nombre_vector;Nro. Declaraciones Juradas Observadas
+vx_descripcion;Número de Declaraciones Juradas (F18XX) Observadas por Operación Vector, por declarante, del AT actual.
+vx_vector;46
+vx_nombre_vector;Rentas netas simultaneas
+vx_descripcion;Sumatoria, por receptor, de la Renta Total Neta Simultaneamente pagada. 
+vx_vector;48
+vx_nombre_vector;Impuesto Único Retenido.
+vx_descripcion;Sumatoria, por receptor, de la proporción de Impuesto Único Retenido que corresponde.
+vx_vector;53
+vx_nombre_vector;F1812/F1887 Renta Total Neta Pagada.
+vx_descripcion;Sumatoria, por contribuye, de la Renta Total Neta Pagada. Construir con registros no observados y observados
+vx_vector;54
+vx_nombre_vector;Nómina Inversiones en el Extranjero
+vx_descripcion;Sumatoria, por informado, del monto de inversiones en el exterior actualizado ($).
+vx_vector;55
+vx_nombre_vector;Rentabilidad positiva de Retiros
+vx_descripcion;Sumatoria por afiliado de Rentabilidad Positiva Anual Actualizada de los Retiros Efectuados (AFP’s) cuando el retiro se ha efectuado desde una cuenta de Ahorro Voluntarios acogidos a la norma generales de la Ley de la Renta.
+vx_vector;56
+vx_nombre_vector;Compra Dólares
+vx_descripcion;"Sumatoria por operante del Monto Total POSITIVO de COMPRAS con FACTURA u OTRO (Tipo Documento {""F"" .o. “33”} {""O"" u “34”}) más NOTAS de DEBITO (Tipo Documento {""D"" .o. “56”}) menos NOTAS de CREDITOS (Tipo Documento {""C"" .o. “61”}), en los tres tipos referentes a DOLARES (Tipo Transacción ""02""). "
+vx_vector;57
+vx_nombre_vector;Venta Dólares
+vx_descripcion;"Sumatoria por OPERANTE del Monto Total POSITIVO de VENTAS con FACTURA u OTRO (Tipo Documento {""F"" .o. “33”}, {""O"" u “34”}) más NOTAS de DEBITO (Tipo Documento {""D"" .o. “56”}) menos NOTAS de CREDITOS (Tipo Documento {""C"" .o. “61”}), en los tres tipos referentes a DOLARES (Tipo Transacción ""02""). "
+vx_vector;59
+vx_nombre_vector;Intereses Reales u Otras Rtas. por Op. de Cap Posit.
+vx_descripcion;Sumatoria por Inversionista de Intereses Reales u Otras Rentas Positivas por Operaciones de Captación de Cualquier Naturaleza. 
+vx_vector;62
+vx_nombre_vector;Monto Pos. según Porc. Accionario, cuotas adquiridas hasta el 19.04.2001
+vx_descripcion;Sumatoria por INVERSIONISTA de los Montos Positivos que se obtienen de la RESTA del MAYOR Valor Actualizado con el MENOR Valor Actualizado MULTIPLICADO por el FACTOR que le corresponde (0%, 3% .ó. 5%) según el Porcentaje Accionario. Construir sólo con registros no observados.
+vx_vector;63
+vx_nombre_vector;F1891 Compra Acciones
+vx_descripcion;"Sumatoria por OPERANTE del Monto Total POSITIVO de COMPRAS con FACTURA (Tipo Documento {""F"" .o. “33”}) más NOTAS de DEBITO (Tipo Documento {""D"" .o. “56”}) menos NOTAS de CREDITOS (Tipo Documento {""C"" .o. “61”}), en los tres tipos referentes a ACCIONES (Tipo Transacción ""01""). "
+vx_vector;64
+vx_nombre_vector;F1891 Venta Acciones o Cuotas de Fondos de Inversión
+vx_descripcion;"Sumatoria por OPERANTE del Monto Total POSITIVO de VENTAS con FACTURAS Tipo Documento {""F"" .o. “33”}) más NOTAS de DEBITO (Tipo Documento {""D"" .o. “56”}) menos NOTAS de CREDITOS (Tipo Documento {""C"" .o. “61”}) en los tres tipos referentes a ACCIONES o CUOTAS DE FONDOS DE INVERSIÖN (Tipo Transacción ""01"" .o. “08”). "
+vx_vector;65
+vx_nombre_vector;Devolución Anterior Leyet
+vx_descripcion;Contribuyentes beneficiados con Leyet y Monto asociado.
+vx_vector;67
+vx_nombre_vector;Cotizaciones ISAPRE
+vx_descripcion;Monto por Contribuyente de Cotizaciones Pagadas, si Tipo Cotizante=I.
+vx_vector;68
+vx_nombre_vector;Mes de Término de Giro
+vx_descripcion;Número de Mes en que los Contribuyentes hicieron el último Término de Giro durante el Año Tributario Anterior. 
+vx_vector;69
+vx_nombre_vector;Mes de Inicio Actividades.
+vx_descripcion;Número de Mes en que los Contribuyentes hicieron su último Inicio de Actividades durante el año anterior. 
+vx_vector;74
+vx_nombre_vector;Saldo crédito ex Art. 21 AT Anterior (Cod. 238)
+vx_descripcion;Sumatoria de los códigos [238], [239] y [240] del F22 AT Anterior, actualizados.
+vx_vector;77
+vx_nombre_vector;Renta por Arriendo de Bienes Raíces No Agrícolas.
+vx_descripcion;Sumatoria, por Propietario o Usufructuario del Bien Raíz NO Agrícola, del Monto Arriendo.
+vx_vector;81
+vx_nombre_vector;Renta Neta Declarante
+vx_descripcion;Sumatoria por Declarante de la Renta Total Neta Pagada Actualizada. 
+vx_vector;82
+vx_nombre_vector;Remuneración Imponible Declarante
+vx_descripcion;Monto por Declarante del Total de Remuneración Imponible para efectos Previsionales Actualizada Pagada a los Trabajadores.
+vx_vector;83
+vx_nombre_vector;Retenciones del Art. 73
+vx_descripcion;Sumatoria por RECEPTOR de las Retenciones del Articulo 73. Construir sólo con registros no observados
+vx_vector;84
+vx_nombre_vector;Mayor retención solicitada.
+vx_descripcion;Sumatoria por PERSONA de la Mayor Retención Solicitada. Construir sólo con registros no observados
+vx_vector;86
+vx_nombre_vector;Monto en pesos de Fondos disponibles en el exterior
+vx_descripcion;Sumatoria por Rut informado del “Monto en pesos” de Fondos disponibles en el exterior.  
+vx_vector;87
+vx_nombre_vector;Rentabilidad negativa
+vx_descripcion;Sumatoria por AFILIADO de Rentabilidad Negativa Anual Actualizada de los Retiros (AFP's) cuando el retiro se ha efectuado desde una cuenta de Ahorro Voluntarios acogidos a la norma generales de la Ley de la Renta.
+vx_vector;88
+vx_nombre_vector;Intereses Reales u Otras Rtas. por Op. de Cap Neg.  
+vx_descripcion;Sumatoria por Inversionista de Intereses Reales u Otras Rentas Negativas por Operaciones de Captación de Cualquier Naturaleza. 
+vx_vector;89
+vx_nombre_vector;Menor valor Fondos Mutuos.
+vx_descripcion;Columna {Mayor o Menor Valor Actualizado / Menor Valor }
+vx_vector;92
+vx_nombre_vector;Créd. por Ahorro Neto Pos. de 1994 -1998. (Cód. 174)
+vx_descripcion;Sumatoria por contribuyente del código [174] desde el AT1994 hasta el AT1998 Actualizados al AT a controlar.
+vx_vector;93
+vx_nombre_vector;A.N.P. utilizado en el ejercicio de 1994 - 1998 (Cód. 361)
+vx_descripcion;Sumatoria por contribuyente del código [361] desde el AT1994 hasta el AT1998 actualizados al AT a controlar.
+vx_vector;95
+vx_nombre_vector;Donaciones a Univ. e Inst. Prof. AT Anterior
+vx_descripcion;Sumatoria, por Donante, del monto de las donaciones a Universidades e Institutos Profesionales (Ext. Mineduc, Art. 69 Ley Nº18.681/87) del AT anterior, actualizado.
+vx_vector;97
+vx_nombre_vector;Crédito por Donaciones a Univ. e Inst. Prof. AT anterior.
+vx_descripcion;Corresponde al código [609] declarado en el AT Anterior, actualizado.
+vx_vector;98
+vx_nombre_vector;Crédito por Donaciones Univ. E Inst. Prof. AT Anterior
+vx_descripcion;Corresponde al código [384] declarado en el AT Anterior, actualizado.
+vx_vector;99
+vx_nombre_vector;Créd. Donaciones Fines Culturales AT Anterior
+vx_descripcion;Corresponde al código [373] declarado en el AT Anterior.
+vx_vector;100
+vx_nombre_vector;F1870 Ventas de moneda extranjera
+vx_descripcion;Sumatoria, por informado, del monto total de las ventas de valores transados en moneda extranjera, considerando los documentos que amparen las ventas y notas de débito, y descontando las notas de crédito.
+vx_vector;102
+vx_nombre_vector;Contribuciones giradas por propietario de bien raíz agrícola
+vx_descripcion;Sumatoria actualizada, por Rut Propietario del bien raíz agrícola, del porcentaje de propiedad y adquisición correspondiente, de las cuatro cuotas nominales de contribuciones de bienes raíces giradas por el SII durante el AT anterior, de los bienes raíces que son destinados a la actividad, menos las contribuciones de las propiedades cedidas en usufructo según el F1897.
+vx_vector;103
+vx_nombre_vector;Contribuciones pagadas por propietario de bien raíz agricola
+vx_descripcion;Sumatoria, por Rut Propietario del bien raíz agrícola, del porcentaje de propiedad y adquisición correspondiente, del monto de impuesto territorial pagado actualizado, menos las contribuciones de las propiedades cedidas en usufructo según el F1897.
+vx_vector;106
+vx_nombre_vector;Monto Crédito o PPM puesto a disposición de los socios, por la Sociedad
+vx_descripcion;Por Declarante, Monto Crédito o PPM puesto a disposición de los socios, por la Sociedad. 
+vx_vector;109
+vx_nombre_vector;Monto Crédito o PPM puesto a disposición de los socios, según sus Sociedades
+vx_descripcion;Por informado, Monto Crédito o PPM puesto a disposición de los socios, según sus Sociedades. 
+vx_vector;112
+vx_nombre_vector;Participación en Soc. con Contab. Simpl. y Renta Presunta
+vx_descripcion;Sumatoria por Socio de Sociedades con Contabilidad Simplificada y Sociedades con Renta Presunta del porcentaje que le corresponde a él del código [1039] y [189] del F22 del AT Anterior de la Sociedad.
+vx_vector;113
+vx_nombre_vector;Retención Impto. Único (Cód. 48)
+vx_descripcion;Sumatoria de los códigos [48] de Enero a Diciembre de AT Anterior de código [15].  
+vx_vector;114
+vx_nombre_vector;Reten. Art. 73 y 74 N° 6  por Declarante
+vx_descripcion;Sumatoria por declarante de Rentas de Retención Art. 73 y Retención Art. 74 N° 6. 
+vx_vector;115
+vx_nombre_vector;Impto. Único por Declarante
+vx_descripcion;Sumatoria por Declarante del Impuesto Unico Retenido Actualizado. 
+vx_vector;116
+vx_nombre_vector;Rentas acc. Enero-Abril por Declarante
+vx_descripcion;Monto de declarante por Rentas Accesorias Pagadas entre Enero y Abril declaradas en F1887 del AT anterior. 
+vx_vector;117
+vx_nombre_vector;Cotizaciones Pagadas en el Año, Para Cotizante Independiente
+vx_descripcion;Sumatoria, por RUT del Cotizante, de las cotizaciones pagadas en el año AT-1 (Columna 18), cuando el cotizante es independiente (Columna 17 = I).
+vx_vector;118
+vx_nombre_vector;Mayor valor actualizado.
+vx_descripcion;Sumatoria por inversionista del Mayor Valor Actualizado (Fondos Mutuos). 
+vx_vector;120
+vx_nombre_vector;Participación en Soc. Renta Presunta
+vx_descripcion;Sumatoria por Socio, de Sociedades con Renta Presunta, del porcentaje que le corresponde del código [189] del F22 del presente AT de la Sociedad. 
+vx_vector;121
+vx_nombre_vector;Créditos AT Anterior (Cód. 365,368,382,761,392)
+vx_descripcion;Suma de los códigos [365], [368], [382], [761] y [392] del AT Anterior, actualizado.
+vx_vector;122
+vx_nombre_vector;Base Imponible Impto. 1a Cat. AT Anterior
+vx_descripcion;Código [18] del AT Anterior, actualizado.
+vx_vector;123
+vx_nombre_vector;Participación en Soc. Cont. Simplificada
+vx_descripcion;Sumatoria por Socio, de Sociedades con Contabilidad Simplificada, del porcentaje que le corresponde a él del código [1037] del F22 del presente AT de la Sociedad.
+vx_vector;124
+vx_nombre_vector;Rentas Esporádicas de 1a Cat. (Cod. 125)
+vx_descripcion;Sumatoria de los códigos [125] (Otras Rentas Esporádicas) de Enero a Diciembre de AT Anterior, código [15]. 
+vx_vector;127
+vx_nombre_vector;Monto Anual Nominal Retiros.
+vx_descripcion;Sumatoria por AFILIADO del Monto Anual NOMINAL de los RETIROS en Cuenta de Ahorro Voluntario y Retiros de Ahorro Previsional Voluntario acogidos al inciso segundo del Art.42 bis de la LIR. 
+vx_vector;128
+vx_nombre_vector;Participación en Soc. Prof. de 2a Cat.
+vx_descripcion;Sumatoria por Socio, de Sociedades de Profesionales de Segunda Categoría, al 25.01.AT inclusive, del porcentaje que le corresponde a él del código [618] del F22 del presente AT de la Sociedad. Excluyendo sociedades que posean Anotación 72 vigente al 25.01.AT inclusive.
+vx_vector;129
+vx_nombre_vector;Retenc. Art. 74 N° 6
+vx_descripcion;Sumatoria por RECEPTOR de las Retenciones del Art. 74 N 6. Construir sólo con registros no observados
+vx_vector;130
+vx_nombre_vector;Decl. Viviendas Nuevas DFL 2
+vx_descripcion;Nómina de Contribuyentes que realizaron Declaración Jurada de Adquisición de Viviendas Nuevas DFL2.
+vx_vector;132
+vx_nombre_vector;Número de sociedades con renta presunta donde es socio
+vx_descripcion;Número de sociedades con renta presunta donde es socio.
+vx_vector;136
+vx_nombre_vector;Partic.  de Soc. Prof. de 2a Cat. (Gastos Efectivos )
+vx_descripcion;Sumatoria por Socio, de Sociedades de Profesionales de Segunda Categoría, al 25.01.AT inclusive, del porcentaje que le corresponde a él del código [465] del F22 del presente AT de la Sociedad. Excluyendo sociedades que posean Anotación 72 vigente al 25.01.AT inclusive.
+vx_vector;137
+vx_nombre_vector;Contribuciones pagadas por usufructuario de bien raíz agrícola
+vx_descripcion;Sumatoria, por Rut Usufructuario del bien raíz agrícola, del porcentaje de propiedad y adquisición correspondiente, del monto de impuesto territorial pagado actualizado del propietario del Rol registrado en Avaluaciones.
+vx_vector;138
+vx_nombre_vector;Contribuciones giradas por usufructuario de bien raíz agrícola
+vx_descripcion;Sumatoria actualizada, por Rut Usufructuario del bien raíz agrícola, del porcentaje de propiedad y adquisición correspondiente, de las cuatro cuotas nominales de contribuciones de bienes raíces giradas por el SII al propietario del Rol registrado en Avaluaciones, durante el año anterior, de los bienes raíces que son destinados a la actividad.
+vx_vector;140
+vx_nombre_vector;Contribuciones giradas por propietario de bien raíz agrícola
+vx_descripcion;"Sumatoria actualizada, por Rut Propietario, del porcentaje de propiedad y adquisición correspondiente, de las cuatro cuotas nominales de contribuciones de bienes raíces con destino igual a ""A"", ""B"" o ""F"", giradas por el SII durante el año anterior, de los bienes raíces que son destinados a la actividad."
+vx_vector;141
+vx_nombre_vector;N° de Sociedades de 2a cat. donde es Socio
+vx_descripcion;Número de Sociedades de 2ª Categoría en que es Socio (RUT Socio < 50.000.000).
+vx_vector;145
+vx_nombre_vector;Intereses reales pos. por Dep. de Cualquier Nat.
+vx_descripcion;Sumatoria por INVERSIONISTA de Intereses Reales POSITIVOS por DEPOSITOS de Cualquier Naturaleza. 
+vx_vector;146
+vx_nombre_vector;Int. reales Negativos por Dep. de Cualquier Nat. 
+vx_descripcion;Sumatoria por INVERSIONISTA de Intereses Reales NEGATIVOS por DEPOSITOS de Cualquier Naturaleza. 
+vx_vector;147
+vx_nombre_vector;S.A. que transan en cualquier Bolsa del país
+vx_descripcion;Toma valor 1 cuando la Sociedad Anónima transa en cualquier Bolsa del país.
+vx_vector;148
+vx_nombre_vector;Retención Directores 10%
+vx_descripcion;Sumatoria por RECEPTOR de la proporción de Remuneraciones Directores (Tasa del 10%) que corresponde, la cual se obtiene dividiendo los honorarios por el total declarado en F1879 y multiplicado por la diferencia entre el total declarado y el monto observado por la observación R09.
+vx_vector;149
+vx_nombre_vector;Retenciones Directores 35%
+vx_descripcion;Sumatoria por RECEPTOR de Remuneraciones de Directores con tasa del 35%, excepto aquellos Formularios 1879 observados con R69.
+vx_vector;156
+vx_nombre_vector;Retiro afecto al Impto G. Compl.
+vx_descripcion;Sumatoria por Inversionista del Monto del Retiro con cargo a Utilidades Tributables Afectas al Impuesto GC o Adicional. 
+vx_vector;157
+vx_nombre_vector;F1822 Créditos con derecho a devolución por impuesto de primera categoría (DDJJ no observadas)
+vx_descripcion;Sumatoria, por informado, de créditos con derecho a devolución por impuesto de primera categoría asociado a los retiros tributables.
+vx_vector;160
+vx_nombre_vector;Veces informado por SENCE
+vx_descripcion;Contribuyentes Personas Naturales informados en nómina Sence ó F4500 los 3 Años Tributarios anteriores al AT Actual (n-1, n-2 y n-3). 
+vx_vector;161
+vx_nombre_vector;Compras Autos Nuevos
+vx_descripcion;Sumatoria, por RUT del comprador, del valor pagado por vehículo en pesos ($), informado en la nómina Transferencias de Vehículos Nuevos emitida por el Registro Civil.
+vx_vector;162
+vx_nombre_vector;Compras Autos Usados
+vx_descripcion;Sumatoria, por RUT del comprador, del valor pagado por vehículo, informado en la nómina Transferencias de Vehículos Usados emitida por Tesorería.
+vx_vector;163
+vx_nombre_vector;Compras Bienes Raíces
+vx_descripcion;Sumatoria, por RUT adquiriente, del monto de compra de las transferencias de bienes raíces multiplicado por el factor resultante de la división del % de derechos para el RUT adquiriente y el % total de derechos adquiridos, con 6 decimales (si falta algún % se debe tomar la media).
+vx_vector;164
+vx_nombre_vector;Inversiones al Contado Transferencias Bienes Raíces
+vx_descripcion;Sumatoria, por RUT adquiriente, del monto de compra al contado de las transferencias de bienes raíces multiplicado por el factor resultante de la división del % de derechos para el RUT adquiriente y el % total de derechos adquiridos, con 6 decimales (si falta algún % se debe tomar la media). 
+vx_vector;165
+vx_nombre_vector;Compra de Embarcaciones Marítimas
+vx_descripcion;Sumatoria, por Rut Adquiriente,  del Monto de la transacción (Compra).
+vx_vector;166
+vx_nombre_vector;Compra de Aeronaves
+vx_descripcion;Sumatoria, por Rut Adquiriente, del Monto de la transacción (Compra).
+vx_vector;168
+vx_nombre_vector;Inversión Fondos Mutuos del Año
+vx_descripcion;Sumatoria por Inversionistas de la Inversión Nominal del Año. 
+vx_vector;170
+vx_nombre_vector;Nómina DIDET (Fecha de Inicio de Anotación 4103)
+vx_descripcion;Fecha de inicio de la anotación 4103 “Proceso Pendiente de Recopilacion de Antecedentes”, cuando dicha anotación se encuentra vigente a la fecha de generación del vector.
+vx_vector;171
+vx_nombre_vector;Nómina Jurídica (Fecha de Inicio de Anotación 4001, 4002, 4003 o 4004)
+vx_descripcion;Fecha de inicio de la anotación 4001 “Querellado”, 4002 “Procesado”, 4003 “Acusado” o 4004 “Sancionado Cumpliendo Pena”, cuando la anotación se encuentra vigente a la fecha de generación del vector.
+vx_vector;172
+vx_nombre_vector;Nómina de Fiscalización
+vx_descripcion;Toma valores según algoritmo si el RUT existe en la Nómina de Fiscalización.
+vx_vector;173
+vx_nombre_vector;Inconcurrentes O.R. AT Anterior
+vx_descripcion;"Inconcurrentes Operación Renta AT Anterior (""Folio"" terminado en último dígito año anterior) con Anotaciones 3500 .o. 3600 anotadas después del 1 de Mayo del AT Anterior y vigentes a la fecha de generación del vector, ó con Anotación 3502 considerando la misma fecha con “Folio iniciado con cuatro primeros dígitos en AT-1”"
+vx_vector;174
+vx_nombre_vector;Causales de Bloqueo Renta Personas Naturales
+vx_descripcion;Bloqueos usuales de timbraje para Personas Naturales (Rut menores de 50.000.000).
+vx_vector;175
+vx_nombre_vector;Causales de Bloqueo Renta Personas Jurídicas
+vx_descripcion;Bloqueos usuales de timbraje para Personas Jurídicas (Rut mayores de 50.000.000).
+vx_vector;176
+vx_nombre_vector;Nómina de Contribuyentes Ex - Renta Presunta que pasan a Renta Efectiva (agricultores, mineros y transportistas)
+vx_descripcion;Si RUT existe en la Nómina de Renta Efectiva: Contribuyentes Agricultores, Mineros y Transportistas (CAMT.DAT).
+vx_vector;179
+vx_nombre_vector;Ppm Término de Giro
+vx_descripcion;Monto devuelto por Término de Giro.
+vx_vector;180
+vx_nombre_vector;Fecha de Defunción Persona Natural
+vx_descripcion;Fecha de defunción de una personas natural hasta el 31/12/AT-1.
+vx_vector;181
+vx_nombre_vector;Activo Inmovilizado AT Anterior
+vx_descripcion;Código [647] del AT Anterior, actualizado.
+vx_vector;182
+vx_nombre_vector;Socios de Sociedades informadas por CONAF
+vx_descripcion;Toma valor 1 cuando el contribuyente es Socio de Sociedades informadas en la nómina Superficie de Explotación Forestal Acogidos al D.L. Nº 701, de 1974.
+vx_vector;183
+vx_nombre_vector;Categoría de Personas Jurídicas y Extranjeras con Activ. Econ. Vigente
+vx_descripcion;Personas jurídicas y extranjeras con actividad económica vigente registrada al 25.01.AT en Ciclo de Vida (Ruts mayores o iguales a 48.000.000), con inicio de actividades y sin término de giro (Anotación 37, 5001, 50 o 60).
+vx_vector;184
+vx_nombre_vector;Partc. en Soc. Renta Presunta
+vx_descripcion;Sumatoria por Socio, de Sociedades con Renta Presunta, del % que le corresponde del código [187] del F22 del AT Actual de la Sociedad (RUT Socio < 50.000.000).
+vx_vector;186
+vx_nombre_vector;Crédito tasa adicional.
+vx_descripcion;Sumatoria por Inversionista del Crédito Tasa Adicional. Construir sólo con registros no observados
+vx_vector;188
+vx_nombre_vector;Ventas Autos Usados
+vx_descripcion;Sumatoria, por RUT del vendedor, del valor pagado por vehículo, informado en la nómina Transferencias de Vehículos Usados emitida por Tesorería.
+vx_vector;189
+vx_nombre_vector;Ventas Bienes Raíces
+vx_descripcion;Sumatoria, por RUT enajenante, del monto de venta de las transferencias de bienes raíces multiplicado por el factor resultante de la división del % de derechos para el RUT enajenante y el % de derechos enajenados, con 6 decimales (si falta algún % se debe tomar la media). 
+vx_vector;190
+vx_nombre_vector;Rescate Fondos Mutuos.
+vx_descripcion;Sumatoria por Inversionista del Rescate Nominal de la Inversión.
+vx_vector;192
+vx_nombre_vector;Dividendos o aportes.
+vx_descripcion;Sumatoria por Beneficiario del Monto Actualizado de Dividendos o Aportes. 
+vx_vector;195
+vx_nombre_vector;Remanente Ahor. Neto Pos. AT anterior (Cód. 703)
+vx_descripcion;Corresponde al código [703] declarado en el AT anterior, actualizado.
+vx_vector;197
+vx_nombre_vector;Créd. bs. físicos de act. Inmovilizado. AT Anterior
+vx_descripcion;Corresponde al código [366] declarado en el AT anterior, actualizado.
+vx_vector;200
+vx_nombre_vector;Increm. por Impto. 1a Categoría
+vx_descripcion;Sumatoria por Inversionista del Incremento por Impuesto de Primera Categoría. 
+vx_vector;201
+vx_nombre_vector;Rentas de Socio de 2a Categoría
+vx_descripcion;Sumatoria por Socio de las Rentas que le corresponden por participación en Sociedades de 2da Categoría.
+vx_vector;203
+vx_nombre_vector;Retiro Exentos del Impto. Gl Complementario
+vx_descripcion;Sumatoria por Inversionista del Monto del Retiro con cargo a Utilidades Tributables Exentas del Impuesto Global Complementario. 
+vx_vector;204
+vx_nombre_vector;Inconcurrentes O.R. AT-2
+vx_descripcion;"Inconcurrentes Operación Renta AT-2 (""Folio"" terminado en último dígito AT-2) con Anotaciones 3500 .o. 3600 anotadas después del 1 de Mayo del AT-2 y vigentes a la fecha de generación del vector, ó con Anotación 3502 considerando la misma fecha con “Folio iniciado con cuatro primeros dígitos en AT-2”"
+vx_vector;205
+vx_nombre_vector;Inconcurrentes O.R.  AT-3
+vx_descripcion;"Inconcurrentes Operación Renta AT Anterior (""Folio"" terminado en último dígito AT-3) con Anotaciones 3500 .o. 3600 anotadas después del 1 de Mayo del AT-3 y vigentes a la fecha de generación del vector, ó con Anotación 3502 considerando la misma fecha con “Folio iniciado con cuatro primeros dígitos en AT-3”"
+vx_vector;207
+vx_nombre_vector;Retenciones Honorarios, tasa 10,75% (Obs y No obs)
+vx_descripcion;Sumatoria por PERSONA de Retenciones Honorarios, tasa 10,75%. Construir con registros no observados y observados.
+vx_vector;208
+vx_nombre_vector;Impuesto Único de Segunda Categoría Retenido
+vx_descripcion;Sumatoria, por Receptor de la Renta, del impuesto único de segunda categoría retenido. 
+vx_vector;210
+vx_nombre_vector;Intereses Pagados Dividendo
+vx_descripcion;Sumatoria por RUT Informado de la columna Monto Actualizado de los Intereses pagados en Dividendo.
+vx_vector;211
+vx_nombre_vector;Renuncia Beneficio DFL 2
+vx_descripcion;Nómina de Contribuyentes que realizaron Declaración Jurada de renuncia a la franquicia tributaria contenida en la Ley N  19.622 de 1999, en AT 2002.
+vx_vector;212
+vx_nombre_vector;Rol con Beneficio de Rebaja de Intereses por créditos hipotecarios
+vx_descripcion;Contribuyentes y roles en los cuales a sido declarado como único beneficiario de la rebaja por intereses, según el Art. 55 bis de la Ley de la Renta.
+vx_vector;213
+vx_nombre_vector;F29 Ingresos primera categoría del AT-1
+vx_descripcion;Sumatoria de los códigos [20], [142], [732], [720], [587], [502], [111], [759], [513], [510], [709], [517] y [501] de los F29 vigentes, de Enero a Diciembre de AT anterior de código [15].
+vx_vector;214
+vx_nombre_vector;Gastos 1a Categoría
+vx_descripcion;Sumatoria de los códigos [520], [528], [532], [535], [560], [521], [562], de Enero a Diciembre de AT Anterior de código [15].
+vx_vector;216
+vx_nombre_vector;Depreciación activo inmovilizado
+vx_descripcion;Valor informado por contribuyente como activo inmovilizado en su F22 de AT anterior y actual, sin actualizar. Depreciado a cinco años.
+vx_vector;236
+vx_nombre_vector;Porc. Intereses Pos. traspasado por Soc. Rta. Presunta
+vx_descripcion;Sumatoria, por RUT Informado, por Sociedades con Renta Presunta en CVC, de los Intereses Reales POSITIVOS por DEPOSITOS de Cualquier Naturaleza, informado para las Sociedades con Renta Presunta en el F1890, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC.
+vx_vector;237
+vx_nombre_vector;Porc. Intereses Neg. traspasado por Soc. Rta. Presunta
+vx_descripcion;Sumatoria, por RUT Informado, de los Intereses Reales Negativos por Depositos de Cualquier Naturaleza, informado para las Sociedades con Renta Presunta en el F1890, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC.
+vx_vector;238
+vx_nombre_vector;Porc.Intereses Reales Pos. traspasado por Soc. Rta. Presunta
+vx_descripcion;Sumatoria, por RUT Informado, de los Intereses Reales u Otras Rentas Positivas por Operaciones de Captación de Cualquier Naturaleza Actualizados, informado para las Sociedades con Renta Presunta en el F1890, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC.
+vx_vector;239
+vx_nombre_vector;Porc.Intereses Reales Neg. traspasado por Soc. Rta. Presunta
+vx_descripcion;Sumatoria, por RUT Informado, de los Intereses Reales u Otras Rentas Negativas por Operaciones de Captación de Cualquier Naturaleza Actualizados, informado para las Sociedades con Renta Presunta en el F1890, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC.
+vx_vector;240
+vx_nombre_vector;Porc.Mayor Valor traspasado por Soc. Rta. Presunta
+vx_descripcion;Sumatoria por RUT Informando, del Mayor Valor Actualizado, informado para las Sociedades con Renta Presunta en el F1894, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC.
+vx_vector;241
+vx_nombre_vector;Porc.Menor Valor traspasado por Soc. Rta. Presunta
+vx_descripcion;Sumatoria por RUT Informado, del Menor Valor Actualizado, informado para las Sociedades con Renta Presunta en el F1892-F1894, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC.
+vx_vector;242
+vx_nombre_vector;Ventas de moneda extranjera padres e hijos
+vx_descripcion;Sumatoria del monto total de las ventas de valores transados en moneda extranjera, considerando los documentos que amparen las ventas y notas de débito, descontando las notas de crédito, proveniente del padre y de los hijos menores de edad.
+vx_vector;248
+vx_nombre_vector;Retenc. Ases.- Act. técnicas extr.
+vx_descripcion;Sumatoria de los códigos [706], [707], [711] y [712] del F50 presentados entre 01/01/AT-1 y 31/12/AT-1.
+vx_vector;249
+vx_nombre_vector;Roles Multipropietarios
+vx_descripcion;Multipropietarios. 
+vx_vector;251
+vx_nombre_vector;Límite Beneficio de Dividendos DFL2
+vx_descripcion;Por informado en F1896, máximo del beneficio de dividendos por propiedad correspondiente a la suma de las cuotas al día (máximo 12) y cuotas atrasadas (máximo 12) por el número de UTM de acuerdo a la fecha de adquisición de la propiedad considerando la existencia de refinanciamiento.
+vx_vector;252
+vx_nombre_vector;Retenciones Impto. Adicional (Cod. 12-105-300-62)
+vx_descripcion;Sumatoria de los códigos [652], [655], [658], [661], [724], [761] y [764] de Enero a Diciembre de AT Anterior de Código [15]. 
+vx_vector;253
+vx_nombre_vector;PPM Voluntarios
+vx_descripcion;Sumatoria Anual del F50 del código [67] del Período Tributario 12.(AT-2) a 12.(AT-1), presentado entre 01.01.(AT-1) y 31.12.(AT-1). 
+vx_vector;254
+vx_nombre_vector;Inversiones en moneda extranjera padres e hijos
+vx_descripcion;Sumatoria del monto total de las compras de valores transados en moneda extranjera, considerando las facturas de compras y notas de débito, descontando las notas de crédito, proveniente del padre y de los hijos menores de edad.
+vx_vector;256
+vx_nombre_vector;Comuneros
+vx_descripcion;Por informado, si Número Único de Operación se repite más de una vez con distinto RUT entonces toma valor 1
+vx_vector;258
+vx_nombre_vector;Base Imponible Art. 58 N  1 (Cód. 650, 653, 759, 763)
+vx_descripcion;Sumatoria de los códigos [650], [653], [759] y [763] de Enero a Diciembre de AT Anterior, código [15]. 
+vx_vector;260
+vx_nombre_vector;Control de direcciones
+vx_descripcion;Número de veces que se repite el par Dirección-Comuna, declarado en F22 de un Contribuyente, con el resto de pares Dirección-Comuna de los otros F22.
+vx_vector;262
+vx_nombre_vector;Renta Neta por Declarante
+vx_descripcion;Sumatoria, por Declarante, de la Renta Total Neta Pagada. Construir sólo con registros no observados.
+vx_vector;269
+vx_nombre_vector;F1822 Créditos con derecho a devolución por impuesto de primera categoría e impuesto adicional (DDJJ observadas)
+vx_descripcion;Sumatoria, por declarante, de créditos con derecho a devolución por impuesto de primera categoría e impuesto adicional.
+vx_vector;270
+vx_nombre_vector;Retenc. intereses extranjero (Cod. 682-687-692-697-702-684-689-694-699-704)
+vx_descripcion;Sumatoria por declarante de retenciones, códigos [682], [687], [692], [697], [702], [684], [689], [694], [699] y [704], producto de pago de intereses al extranjero, de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;271
+vx_nombre_vector;Monto positivo según porc. accionario
+vx_descripcion;Sumatoria por Inversionista de los Montos Positivos que se obtienen de la RESTA del Mayor Valor Actualizado con el Menor Valor Actualizado multiplicado por el factor que le corresponde según el Porcentaje Accionario (0%, 3%, ó 5%). 
+vx_vector;273
+vx_nombre_vector;Menor de edad declara F22 y no debe hacerlo
+vx_descripcion;Menor de edad que declara F22 y no debe hacerlo. 
+vx_vector;274
+vx_nombre_vector;Padres que deben declarar rentas de sus hijos
+vx_descripcion;Nómina de Rut hijos con rentas que debe declarar el Padre. Rut1: Rut padre.
+vx_vector;279
+vx_nombre_vector;Remanente ahorro neto positivo AT anterior (Cód. 703) padres e hijos
+vx_descripcion;Sumatoria del código [703] actualizado (Remanente A.N.P. Ejercicio Siguiente) declarado en el AT anterior, proveniente del padre y de los hijos menores de edad.
+vx_vector;280
+vx_nombre_vector;Retenciones de honorarios tasa 10,75% padres e hijos
+vx_descripcion;Sumatoria de la proporción de retenciones de honorarios y otros (Art. 42 N° 2), tasa 10,75%, que corresponde a lo que se obtiene dividiendo las retenciones por el total declarado en el F1879 y multiplicado por la diferencia entre el total declarado y el monto observado por la observación R08, proveniente del padre y de los hijos menores de edad.
+vx_vector;281
+vx_nombre_vector;PPM de Segunda Categoría (Cód. 152) padres e hijos
+vx_descripcion;Sumatoria de los códigos [152] actualizados de Enero a Diciembre de AT anterior de código [15], proveniente del padre y de los hijos menores de edad.
+vx_vector;282
+vx_nombre_vector;Retención de Directores tasa 10% padres e hijos
+vx_descripcion;Sumatoria de la proporción de retenciones de Directores (tasa del 10%), la cual se obtiene dividiendo las retenciones por el total declarado en el F1879 y multiplicado por la diferencia entre el total declarado y el monto observado por la observación R09, proveniente del padre y de los hijos menores de edad.
+vx_vector;283
+vx_nombre_vector;Retención de Directores tasa 35% padres e hijos
+vx_descripcion;Sumatoria de retenciones de Directores (tasa del 35%), excepto aquellos Formularios 1879 observados con R69, proveniente del padre y de los hijos menores de edad.
+vx_vector;284
+vx_nombre_vector;Renta total neta pagada padres e hijos
+vx_descripcion;Sumatoria de la renta total neta pagada ($), proveniente del padre y de los hijos menores de edad.
+vx_vector;285
+vx_nombre_vector;Intereses reales u otras rentas positivas por operaciones de captación padres e hijos
+vx_descripcion;Sumatoria de intereses reales u otras rentas positivas por operaciones de captación de cualquier naturaleza, proveniente del padre y de los hijos menores de edad. 
+vx_vector;286
+vx_nombre_vector;Porcentaje de intereses reales positivos por operaciones de captación traspasado por sociedades con renta presunta padres e hijos
+vx_descripcion;Sumatoria del porcentaje de intereses reales u otras rentas positivas por operaciones de captación de cualquier naturaleza actualizados, traspasado por sociedades con renta presunta, proveniente del padre y de los hijos menores de edad.
+vx_vector;287
+vx_nombre_vector;Intereses reales positivos por depósitos de cualquier naturaleza padres e hijos
+vx_descripcion;Sumatoria de intereses reales positivos por depósitos de cualquier naturaleza, proveniente del padre y de los hijos menores de edad. 
+vx_vector;288
+vx_nombre_vector;Porcentaje de intereses reales positivos por depósitos traspasado por sociedades con renta presunta padres e hijos
+vx_descripcion;Sumatoria del porcentaje de intereses reales positivos por depósitos de cualquier naturaleza, traspasado por sociedades con renta presunta, proveniente del padre y de los hijos menores de edad.
+vx_vector;289
+vx_nombre_vector;Mayor valor actualizado (Fondos Mutuos) padres e hijos
+vx_descripcion;Sumatoria del mayor valor actualizado (Fondos Mutuos), proveniente del padre y de los hijos menores de edad.
+vx_vector;290
+vx_nombre_vector;Porcentaje del mayor valor traspasado por sociedades con renta presunta padres e hijos
+vx_descripcion;Sumatoria del porcentaje del mayor valor actualizado, traspasado por sociedades con renta presunta, proveniente del padre y de los hijos menores de edad.
+vx_vector;292
+vx_nombre_vector;Rentabilidad positiva anual actualizada de retiros (AFP) padres e hijos
+vx_descripcion;Sumatoria de la rentabilidad positiva anual actualizada de los retiros (AFP’s), cuando el retiro se ha efectuado desde una cuenta de ahorro voluntario acogido a las normas generales de la Ley de la Renta, proveniente del padre y de los hijos menores de edad.
+vx_vector;293
+vx_nombre_vector;Rentas esporádicas de Primera Categoría (Cod. 125) padres e hijos
+vx_descripcion;Sumatoria de los códigos [125] (Otras Rentas Esporádicas) de Enero a Diciembre de AT Anterior, código [15], proveniente del padre y de los hijos menores de edad.
+vx_vector;294
+vx_nombre_vector;Venta de acciones o cuotas de fondos de inversión padres e hijos
+vx_descripcion;Sumatoria del monto total positivo de ventas con facturas (Tipo Documento = F .o. 33) más notas de débito (Tipo Documento = D .o. 56) menos notas de crédito (Tipo Documento = C .o. 61) en los tres tipos referentes a acciones o cuotas de fondos de inversiön (Tipo Transacción = 01 .o. 08), ($), proveniente del padre y de los hijos menores de edad.
+vx_vector;295
+vx_nombre_vector;Intereses reales por operaciones de captación negativo padres e hijos
+vx_descripcion;Sumatoria de intereses reales u otras rentas negativas por operaciones de captación de cualquier naturaleza, actualizado, proveniente del padre y de los hijos menores de edad.
+vx_vector;296
+vx_nombre_vector;Porcentaje de intereses reales negativos traspasado por sociedades con renta presunta padres e hijos
+vx_descripcion;Sumatoria del porcentaje de los intereses reales u otras rentas negativas por operaciones de captación de cualquier naturaleza actualizados, traspasado por sociedades con renta presunta, proveniente del padre y de los hijos menores de edad.
+vx_vector;297
+vx_nombre_vector;Rentabilidad negativa padres e hijos
+vx_descripcion;Sumatoria de rentabilidad negativa anual actualizada de los retiros (AFP's) cuando el retiro se ha efectuado desde una cuenta de ahorros voluntarios acogidos a la norma generales de la Ley de la Renta, proveniente del padre y de los hijos menores de edad.
+vx_vector;298
+vx_nombre_vector;Menor valor Fondos Mutuos padres e hijos
+vx_descripcion;Sumatoria del menor valor actualizado (Fondos Mutuos), proveniente del padre y de los hijos menores de edad.
+vx_vector;299
+vx_nombre_vector;Porcentaje del menor valor traspasado por sociedades con renta presunta padres e hijos
+vx_descripcion;Sumatoria del porcentaje del menor valor actualizado, traspasado por sociedades con renta presunta, proveniente del padre y de los hijos menores de edad.
+vx_vector;300
+vx_nombre_vector;Intereses reales negativos por depósitos de cualquier naturaleza padres e hijos
+vx_descripcion;Sumatoria de intereses reales negativos por depósitos de cualquier naturaleza, proveniente del padre y de los hijos menores de edad.
+vx_vector;301
+vx_nombre_vector;Porcentaje de intereses reales negativos traspasado por sociedades con renta presunta padres e hijos
+vx_descripcion;Sumatoria del porcentaje de los intereses reales negativos por depósitos de cualquier naturaleza, traspasado por sociedades con renta presunta, proveniente del padre y de los hijos menores de edad.
+vx_vector;304
+vx_nombre_vector;Retiro afecto al Impuesto Global Complementario padres e hijos
+vx_descripcion;Sumatoria del retiro con cargo a utilidades tributables afectas al Impuesto GC o Adicional, proveniente del padre y de los hijos menores de edad.
+vx_vector;308
+vx_nombre_vector;Participación en sociedades con contabilidad simplificada padres e hijos
+vx_descripcion;Sumatoria del porcentaje de participación en sociedades con contabilidad simplificada, proveniente del padre y de los hijos menores de edad.
+vx_vector;313
+vx_nombre_vector;Participación en Soc. Renta Presunta proveniente de los padres e hijos
+vx_descripcion;Suma del monto por participación en Soc. Renta Presunta proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad
+vx_vector;314
+vx_nombre_vector;Retenciones del Art. 74 N  6 proveniente de los padres e hijos
+vx_descripcion;Suma de las Retenciones del Art. 74 N° 6 proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;315
+vx_nombre_vector;Impto. Único Retenido proveniente de padres e hijos
+vx_descripcion;Sumatoria, por contribuyente, de la proporción pagada de Impuesto Único Retenido, proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;317
+vx_nombre_vector;Mayor retención solicitada proveniente de padres e hijos
+vx_descripcion;Sumatoria, por contribuyente, de la MAYOR Retención Solicitada, proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;318
+vx_nombre_vector;Ventas Autos Usados proveniente de los padres e hijos
+vx_descripcion;Sumatoria del monto de venta por vehículo, informado en la nómina Transferencias de Vehículos Usados emitida por Tesorería, proveniente del padre y de los hijos menores de edad.
+vx_vector;319
+vx_nombre_vector;Activo Inmovilizado AT Anterior, proveniente de los padres e hijos
+vx_descripcion;Sumatoria por contribuyente del Código [647] del AT Anterior, proveniente del PADRE, y por el mismo concepto proveniente de los HIJOS.
+vx_vector;320
+vx_nombre_vector;Ahorro Neto Positivo de 1994-1998.
+vx_descripcion;Sumatoria por contribuyente del código [174] desde el AT1994 hasta el AT1998 actualizados al AT a controlar proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;326
+vx_nombre_vector;Incremento por Impuesto 1a Categoría proveniente de los padres e hijos
+vx_descripcion;Suma del monto (inversionista) del Incremento por Impuesto de Primera Categoría proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;330
+vx_nombre_vector;Participación en Soc. Prof. de 2a Categoría proveniente de los padres e hijos
+vx_descripcion;Suma del monto por participación en Sociedades de Profesionales de Segunda Categoría proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;331
+vx_nombre_vector;Rentas de Socio de Soc. de 2a Categoría proveniente de los padres e hijos
+vx_descripcion;Suma de las RENTAS que le corresponden por participación en Sociedades de 2da Categoría (% de Participación del Socio por (Vx010007+Vx010020)/P714 de la Sociedad en que participa) proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;334
+vx_nombre_vector;Compras Dólares proveniente de los padres e hijos
+vx_descripcion;Suma del Monto por compras de dólares proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;335
+vx_nombre_vector;Compras en acciones o cuotas de fondos de inversión proveniente de los padres e hijos
+vx_descripcion;Suma del Monto por compras en acciones o cuotas de fondos de inversión proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;336
+vx_nombre_vector;Compras Autos Nuevos proveniente de los padres e hijos
+vx_descripcion;Sumatoria del valor pagado por vehículo, informado en la nómina Transferencias de Vehículos Nuevos emitida por el Registro Civil, proveniente del padre y de los hijos menores de edad.
+vx_vector;337
+vx_nombre_vector;Compras Autos Usados proveniente de los padres e hijos
+vx_descripcion;Sumatoria del monto de compra por vehículo, informado en la nómina Transferencias de Vehículos Usados emitida por Tesorería, proveniente del padre y de los hijos menores de edad.
+vx_vector;338
+vx_nombre_vector;Inversiones al Contado Transferencias Bienes Raíces proveniente de los padres e hijos
+vx_descripcion;Suma del Monto de inversiones al Contado de las Transferencias de Bienes Raíces (Subdirección de Avaluaciones) proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;339
+vx_nombre_vector;Compra de Embarcaciones Marítimas proveniente de los padres e hijos
+vx_descripcion;Suma de las Inversiones Marítimas proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;340
+vx_nombre_vector;Aporte de Sociedades proveniente de los padres e hijos
+vx_descripcion;Sumatoria del monto del aporte realizado en Sociedades proveniente del padre y de los hijos menores de edad.
+vx_vector;341
+vx_nombre_vector;Inversiones Fondos Mutuos proveniente de los padres e hijos
+vx_descripcion;Suma del monto de la Inversión Nominal en Fondos Mutuos proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;343
+vx_nombre_vector;Monto Total operación Inversiones Aeronaves proveniente de los padres e hijos
+vx_descripcion;Suma de las Inversiones Aeronaves proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;344
+vx_nombre_vector;Renta Total Neta simultaneamente pagada proveniente de los padres e hijos
+vx_descripcion;Sumatoria, por receptor, de la Renta Total Neta simultaneamente pagada. Una Renta es Simultánea si para un mismo mes se recibe más de una. Construir con registros no observados y observados proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;345
+vx_nombre_vector;Gastos Efectivos (Partic.  de Soc. Prof. de 2a Cat. ) proveniente de los padres e hijos
+vx_descripcion;Suma de los Gastos Efectivos (Partic. de Soc. Prof. de 2a Cat. ) proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;350
+vx_nombre_vector;Contribuyentes menores de edad
+vx_descripcion;Hijos impúber (mujer  12 años y hombre  14 años) y menores adultos (12 años  mujer  18 años y 14 años  hombre  18 años) que no registren rentas del artículo 42 N° 1 y N° 2 (sueldos y honorarios tasa 10%). 
+vx_vector;351
+vx_nombre_vector;DAPV o Cotizaciones Voluntarias enterado en calidad de Trabajador dependiente del Art.42 N°1 de la LIR en UF, modalidad directa via trabajador, en Pesos ($)
+vx_descripcion;Sumatoria por Rut Trabajador de Cotizaciones Voluntarias y Depósitos de Ahorro Previsional Voluntario, enterado en calidad de trabajador dependiente, por vía directa, en PESOS (P87), Construir sólo con registros no observados.
+vx_vector;352
+vx_nombre_vector;DAPV o Cotizaciones Voluntarias enteradas en calidad de  trabajador independiente del Art. 42 N° 2 de la LIR, en  PESOS ($)
+vx_descripcion;Sumatoria por Rut Trabajador de Cotizaciones Voluntarias y Depósitos de Ahorro Previsional Voluntario, enterado en calidad de trabajador independiente, en PESOS (P87).
+vx_vector;354
+vx_nombre_vector;Monto del Retiro proveniente de Ahorros acogidos a beneficio tributario del inciso primero del Art. 42 bis de la LIR y/o retiro de ahorros del trabajador generados por aportes del empleador en $, trabajadores activos
+vx_descripcion;Sumatoria por Rut Trabajador  del Monto de los Retiros efectuados con cargo a los ahorros previsionales voluntarios del inciso primero del 42 bis (C16) considerando solo trabjadores activos . Es decir se debe sumar por informado, si solo si, se cumple que la columna C3 =1 (Activo)
+vx_vector;355
+vx_nombre_vector;Monto del Retiro proveniente de Ahorros acogidos a beneficio tributario del inciso primero del Art. 42 bis de la LIR y/o retiro de ahorros del trabajador generados por aportes del empleador en $, trabajador pensionado
+vx_descripcion;Sumatoria por Rut Trabajador  del Monto de los Retiros efectuados con cargo a los ahorros previsionales voluntarios del inciso primero del 42 bis (C16) considerando solo trabjadores pensionados . Es decir se debe sumar por informado, si solo si, se cumple que la columna C3 =2 (Pensionado)
+vx_vector;356
+vx_nombre_vector;Retención de Impuesto del 15% practicada sobre monto del retiro proveniente de Ahorros acogidos al beneficio tributario del inciso primero del Art.42 bis de la LIR y/o retiros de ahorro del trabajador generados por aportes del empleador, actualizados en $
+vx_descripcion;Sumatoria por Rut Trabajador  de la Retención de impuesto de 15% practicada sobre monto del retiro proveniente de Ahorros acogidos al beneficio tributario del inciso primero del Art.42 bis de la LIR y/o retiros de ahorro del trabajador generados por aportes del empleador (C17). 
+vx_vector;357
+vx_nombre_vector;Interés Real Pos. por Saldos en Cta. Cte.
+vx_descripcion;Sumatoria, por informado, de los intereses reales positivos por mantención de saldos en cuentas corrientes. 
+vx_vector;358
+vx_nombre_vector;Int. Reales Negativo por Saldos en Cta. Cte.
+vx_descripcion;Sumatoria, por informado, de los intereses reales negativos por mantención de saldos en cuentas corrientes. 
+vx_vector;373
+vx_nombre_vector;Titulares de retiro de Excedentes de libre disposición de las AFP.
+vx_descripcion;Rut del Titular de retiro informado en un F1895 en el AT en curso.
+vx_vector;381
+vx_nombre_vector;Renta de Honorarios Tasa 10,75%
+vx_descripcion;Sumatoria. por informado, del Monto Honorarios, tasa 10,75%, dividido por 10,75%, para conformar la Renta. 
+vx_vector;382
+vx_nombre_vector;Renta Directores, tasa 10%
+vx_descripcion;Sumatoria, por informado, del Remuneraciones Directores, tasa 10%, dividido por 10%, para conformar la Renta. 
+vx_vector;383
+vx_nombre_vector;F1879 Renta de Directores, tasa 35%
+vx_descripcion;Sumatoria, por informado, del monto retenido anual actualizado por remuneraciones de Directores, tasa 35%, dividido por 35%, para conformar la renta.
+vx_vector;384
+vx_nombre_vector;Contribuciones giradas por propietario de bien raíz no agrícola
+vx_descripcion;Sumatoria actualizada, por Rut Propietario del bien raíz no agrícola y que no es DFL2, del porcentaje de propiedad y adquisición correspondiente, de las cuatro cuotas nominales de contribuciones de bienes raíces giradas por el SII durante el AT anterior, de los bienes raíces que son destinados a la actividad, menos las contribuciones de las propiedades cedidas en usufructo según el F1897.
+vx_vector;385
+vx_nombre_vector;Contribuciones pagadas por propietario de bien raíz no agrícola
+vx_descripcion;Sumatoria, por Rut Propietario del bien raíz no agrícola y que no es DFL2, del porcentaje de propiedad y adquisición correspondiente, del monto de impuesto territorial pagado actualizado, menos las contribuciones de las propiedades cedidas en usufructo según el F1897.
+vx_vector;386
+vx_nombre_vector;Contribuciones pagadas por usufructuario de bien raíz no agrícola
+vx_descripcion;Sumatoria, por Rut Usufructuario del bien raíz no agrícola y que no es DFL2, del porcentaje de propiedad y adquisición correspondiente, del monto de impuesto territorial pagado actualizado del propietario del Rol registrado en Avaluaciones.
+vx_vector;387
+vx_nombre_vector;Contribuciones giradas por usufructuario de bien raíz no agrícola
+vx_descripcion;Sumatoria actualizada, por Rut Usufructuario del bien raíz no agrícola y que no es DFL2, del porcentaje de propiedad y adquisición correspondiente, de las cuatro cuotas nominales de contribuciones de bienes raíces giradas por el SII al propietario del Rol registrado en Avaluaciones, durante el año anterior, de los bienes raíces que son destinados a la actividad.
+vx_vector;393
+vx_nombre_vector;Acogido al 18 TER
+vx_descripcion;Si en Nómina “Compra de acciones acogidas al artículo 18 TER” está informado el RUT, entonces el vector debe tomar valor 1.
+vx_vector;395
+vx_nombre_vector;Roles en los que el Contribuyente no es Comunero
+vx_descripcion;Rut Informados y Roles, en los que el N° de Operación es único (no existe para otro RUT)
+vx_vector;396
+vx_nombre_vector;Monto de intereses a los que el contribuyente tiene derecho por provenir de un crédito en el que no es comunero.
+vx_descripcion;Si el Rut - Rol tienen un N° único de Operación, tomar del F1898 el monto actualizado de los intereses pagados en dividendo. Esto para un único declarante de F1898.
+vx_vector;397
+vx_nombre_vector;Monto de intereses a los que el contribuyente tiene derecho cedido por la DJ Simple 55 bis.
+vx_descripcion;Para los Rut - Rol informados en DJS Ley 19.840 (55 bis), tomar del F1898 el monto actualizado de los intereses pagados en dividendo.
+vx_vector;398
+vx_nombre_vector;Código 361 de AT 1994 a 1998, proveniente de los padres e hijos
+vx_descripcion;Sumatoria por contribuyente del código [361] desde el AT1994 hasta el AT1998 actualizados al AT a controlar proveniente del padre y por el mismo concepto proveniente de los hijos.
+vx_vector;399
+vx_nombre_vector;Tasa Promedio Art. 57 bis (AT 2001), proveniente de los padres e hijos
+vx_descripcion;
+vx_vector;400
+vx_nombre_vector;Venta Bienes Raíces
+vx_descripcion;Sumatoria por contribuyente del Monto de Venta de las Transferencias de Bienes Raíces proveniente del Padre, y de la sumtoria del mismo concepto proveniente de los Hijos menores de edad.
+vx_vector;401
+vx_nombre_vector;Número de sociedades con renta presunta donde es socio padres e hijos
+vx_descripcion;Número de sociedades con renta presunta donde es socio el padre y los hijos menores de edad.
+vx_vector;405
+vx_nombre_vector;F1822 Créditos con derecho a devolución por impuesto de primera categoría, padres e hijos (DDJJ no observadas)
+vx_descripcion;Sumatoria de créditos con derecho a devolución por impuesto de primera categoría asociado a los retiros tributables, proveniente del padre y de los hijos menores de edad.
+vx_vector;409
+vx_nombre_vector;Monto anual nominal de los retiros, proveniente de los padres e hijos
+vx_descripcion;Sumatoria por afiliado del Monto Anual nominal de los retiros en Cuenta de Ahorro Voluntario, proveniente del padre y por el mismo concepto proveniente de los hijos.
+vx_vector;412
+vx_nombre_vector;Ventas Dólares, proveniente de los padres e hijos
+vx_descripcion;"Sumatoria por OPERANTE del Monto Total POSITIVO de VENTAS con FACTURA (Tipo Documento ""F"" u ""O"") más NOTAS de DEBITO (Tipo Documento ""D"") menos NOTAS de CREDITOS (Tipo Documento ""C""), en los tres tipos referentes a DOLARES (Tipo Transacción ""02""), proveniente del padre y por el mismo concepto proveniente de los hijos"
+vx_vector;413
+vx_nombre_vector;Rescate Fondos Mutuos, proveniente de los padres e hijos
+vx_descripcion;Sumatoria por inversionista del Rescate Nominal, proveniente del padre y por el mismo concepto proveniente de los hijos
+vx_vector;415
+vx_nombre_vector;Dividendos o aportes, proveniente de los padres e hijos
+vx_descripcion;Sumatoria por beneficiario del Monto Actualizado de Dividendos o Aportes, proveniente del padre y por el mismo concepto proveniente de los hijos
+vx_vector;417
+vx_nombre_vector;Retiro exento, proveniente de los padres e hijos
+vx_descripcion;Sumatoria por Inversionista del Monto del Retiro con cargo a Utilidades Tributables Exentas del Impuesto Global Complementario, proveniente del padre y por el mismo concepto proveniente de los hijos.
+vx_vector;419
+vx_nombre_vector;Pérdidas en establecimiento permanente en el exterior.
+vx_descripcion;Sumatoria, por declarante de F1929, de la columna Pérdidas en el exterior, cuando el tipo de operación correspondan a un establecimiento permanente situado en el exterior.
+vx_vector;421
+vx_nombre_vector;Pérdidas asociadas a inversiones en el exterior.
+vx_descripcion;Sumatoria, por declarante de F19XX, de la columna Pérdidas en el exterior, cuando el tipo de operación corresponda al código 5, 9, 13 o 21.
+vx_vector;423
+vx_nombre_vector;Ganancias de capital.
+vx_descripcion;Sumatoria, por declarante de F1929, de la columna {Rentas del exterior/Rentas del exterior} cuando estas rentas correspondan a ganancias de capital.
+vx_vector;427
+vx_nombre_vector;Código de Actividad Económica de Constructora o Inmobiliaria
+vx_descripcion;Si registra {Código de Actividad Económica = 410010 .o. 410020 .o. 439000 .o. 433000 .o. 421000 .o. 422000 .o. 429000 .o. 681011 .o. 681012 .o. 681020 .o. 682000}, el vector toma valor 1.
+vx_vector;435
+vx_nombre_vector;Contribuyentes con contabilidad computacional
+vx_descripcion;Si contribuyente está autorizado para llevar contabilidad computacional, Anotación 7501, entonces toma valor 1.
+vx_vector;436
+vx_nombre_vector;Número de empleadores
+vx_descripcion;Si contribuyente presenta rentas simultáneas, es decir, si para un mismo período vienen informado en 2 o más F1812 ó F1887. El vector deberá entregar el número de empleadores que informan estas rentas, a partir del F1812 y 1887.
+vx_vector;437
+vx_nombre_vector;OTEC querellada
+vx_descripcion;Si OTEC se encuentra en nómina de querelladas, entonces vector toma valor 1
+vx_vector;438
+vx_nombre_vector;OTEC Revocada
+vx_descripcion;Si OTEC se encuentra en nómina de revocadas (OTEC.DAT), entonces el vector toma valor 1.
+vx_vector;446
+vx_nombre_vector;Renta Presunta
+vx_descripcion;Toma Valor 1 si vector Vx012602 de la sociedad es mayor a 0 y si no presenta información en el Recuadro N°3.
+vx_vector;447
+vx_nombre_vector;Contribuyentes con mandato según nómina de TGR SENCE
+vx_descripcion;Vector de doble RUT, donde:
+vx_vector;448
+vx_nombre_vector;Montos Mandatos Otec asociada impugnada
+vx_descripcion;Sumatoria para Rut del mandante de los montos de mandatos
+vx_vector;454
+vx_nombre_vector;Rebaja por Dividendos DFL2 observados en DDJJ presentada
+vx_descripcion;Sumatoria por declarante del monto de dividendos o aporte. Construir sólo con registros observados
+vx_vector;455
+vx_nombre_vector;Rebaja por Intereses Dividendos 55 bis observados en DDJJ presentada
+vx_descripcion;Sumatoria por declarante del monto de intereses de dividendos. Construir sólo con registros observados
+vx_vector;456
+vx_nombre_vector;Retención de Impuesto del 15% practicada sobre monto del retiro proveniente de Ahorros acogidos al beneficio tributario del inciso primero del Art.42 bis de la LIR y/o retiros de ahorro del trabajador generados por aportes del empleador, actualizados en $ observados en DDJJ presentada
+vx_descripcion;Sumatoria por Rut Declarante  de la Retención de impuesto de 15% practicada sobre monto del retiro proveniente de Ahorros acogidos al beneficio tributario del inciso primero del Art.42 bis de la LIR y/o retiros de ahorro del trabajador generados por aportes del empleador (C17). 
+vx_vector;459
+vx_nombre_vector;Ingresos declarados por contribuyentes de 1a Categoría Año 2002
+vx_descripcion;Corresponde al Vx010213 del AT 2002.
+vx_vector;460
+vx_nombre_vector;NOMINA FECHA REVOCACION PERMISO SENCE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+vx_descripcion;Fecha de revocación de la Otec que se encuentre en nómina de revocadas (OTEC.DAT)
+vx_vector;461
+vx_nombre_vector;Mantención ahorros 57 bis
+vx_descripcion;Si el código [174] del Formulario 22 ha tenido valor mayor a cero por cuatro años consecutivos, el vector toma valor 1. En caso contrario no se construye.
+vx_vector;463
+vx_nombre_vector;Comuneros Declarantes F22 AT 2002, usuarios de Beneficio tributario art. 55 bis
+vx_descripcion;Si Número Único de Operación se repite más de una vez con distinto RUT y [750] AT 2002 >0 , el vector toma el valor del cód. 750 del AT2002.
+vx_vector;464
+vx_nombre_vector;Fecha realización DJS
+vx_descripcion;Fecha en que se realizó la DJS. Si Fecha Declaración = 0, entonces considerar Fecha Sistema - 15 días corridos.
+vx_vector;465
+vx_nombre_vector;DAPV o Cotizaciones Voluntarias enterados en calidad de trabajador dependiente del Art. 42 N° 1 de la LIR, modalidad indirecta vía empleador, en pesos ($)
+vx_descripcion;Sumatoria, por Rut Trabajador, de Cotizaciones Voluntarias y Depósitos de Ahorro Previsional Voluntario, enterados en calidad de trabajador dependiente, por vía indirecta (empleador), en pesos (P87).
+vx_vector;468
+vx_nombre_vector;Categoría de transportistas
+vx_descripcion;Transportistas ( Código de actividad económica = 492120 .o. 492190 .o. 492290).
+vx_vector;469
+vx_nombre_vector;Dividendos del exterior.
+vx_descripcion;Sumatoria, por declarante de F1929, de la columna {Rentas del exterior/Rentas del exterior} cuando estas rentas correspondan a Rentas derivadas de las acciones, derechos, cuotas u otros títulos de participación en la propiedad, capital, utilidad, ingresos, votos, dirección o control de una entidad extranjera no controlada.
+vx_vector;474
+vx_nombre_vector;Sociedades de Profesionales que tributan en 1ª Categoría
+vx_descripcion;Si RUT posee Anotación 72 vigentes en el momento de generación del vector, entonces vector toma valor 1.
+vx_vector;476
+vx_nombre_vector;Sin movimiento F29
+vx_descripcion;Contribuyentes sin movimiento en F29, producto que no presentan valores en los códigos 20, 30, 39, 41, 42, 48, 50, 54, 56, 62, 66, 67, 70, 72, 91, 114, 123, 125, 135, 151, 152, 153, 155 ó 157 de Enero a Diciembre de AT Anterior de código [15].
+vx_vector;479
+vx_nombre_vector;Impuesto único retenido observados en DDJJ presentada.
+vx_descripcion;Sumatoria por Declarante, del Monto Anual Actualizado del Impuesto Unico Retenido. 
+vx_vector;480
+vx_nombre_vector;Retenciones de Honorarios y Remuneraciones de Directores observados en DDJJ presentada.
+vx_descripcion;Sumatoria por Declarante de los montos retenidos anuales actualizados por honorarios (Art. 42 N 2) y remuneraciones de directores (Tasa 10% y Tasa 35%). 
+vx_vector;481
+vx_nombre_vector;Impuesto único Retenido observados en DDJJ presentada.
+vx_descripcion;Sumatoria por DECLARANTE, del Monto Anual Actualizado del Impuesto Unico Retenido. 
+vx_vector;485
+vx_nombre_vector;Interés Real Positivo por Saldos en Cuenta Corriente, proveniente de los padres e hijos.
+vx_descripcion;Sumatoria, por informado, de los intereses reales positivos por mantención de saldos en cuentas corrientes, proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad. 
+vx_vector;486
+vx_nombre_vector;Interés Real Negativo por Saldos en Cuenta Corriente, proveniente de los padres e hijos.
+vx_descripcion;Sumatoria, por informado, de los intereses reales negativos por mantención de saldos en cuentas corrientes, proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;490
+vx_nombre_vector;Donaciones con Fines Sociales, proveniente de los padres e hijos.
+vx_descripcion;Monto, por informado, de Donaciones con Fines Sociales (Art. 1, Ley N 19.885/03), proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;492
+vx_nombre_vector;Donaciones con Fines Deportivos, proveniente de los padres e hijos.
+vx_descripcion;Monto por Donante para Fines Deportivos, proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;493
+vx_nombre_vector;Gasto Informado por Arriendo de Bienes Raíces
+vx_descripcion;Sumatoria, por Arrendatario del Bien Raíz, del Monto de Arriendo.
+vx_vector;494
+vx_nombre_vector;Gasto Informado por Dividendos de Crédito Hipotecario
+vx_descripcion;Sumatoria, por Beneficiario, del Monto Actualizado del Dividendo o Aporte enterados durante el año. 
+vx_vector;497
+vx_nombre_vector;Desembolso por Donaciones con Fines Deportivos y/o Sociales
+vx_descripcion;Sumatoria, por Donante, del Monto Total de las Donaciones con fines deportivos y /o sociales efectuadas durante el año.
+vx_vector;504
+vx_nombre_vector;Crédito tasa adicional,  proveniente de los padres e hijos.
+vx_descripcion;Sumatoria por Inversionista del Crédito Tasa Adicional, proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad. 
+vx_vector;507
+vx_nombre_vector;Retenciones del Art. 73, proveniente de los padres e hijos.
+vx_descripcion;Sumatoria por receptor de las Retenciones del art. 73, proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad. 
+vx_vector;508
+vx_nombre_vector;Retenciones Art. 73 y 74 por Declarante, proveniente de los padres e hijos.
+vx_descripcion;Sumatoria por DECLARANTE de Rentas de Retención Art. 73, Remesas al Exterior Art. 74 N 4 y Retención Art. 74 N 6, proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad. 
+vx_vector;510
+vx_nombre_vector;PPM por Asesorías Técnicas, proveniente de los padres e hijos.
+vx_descripcion;Sumatoria de los códigos [159] de Enero a Diciembre de AT Anterior de código [15]. Actualizados por Fecha de Pago (código [9906] ó [315]), proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;514
+vx_nombre_vector;Retenciones a 1a Categoría y Mineros, proveniente de los padres e hijos.
+vx_descripcion;Sumatoria de los códigos [50] y [56] de Enero a Diciembre de AT Anterior de código [15], proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad. Actualizados por Periodo Tributario (código [15]).
+vx_vector;517
+vx_nombre_vector;Ingresos declarados por contribuyentes de 1a Categoría, proveniente de los padres e hijos.
+vx_descripcion;Sumatoria de los códigos [108], [502], [513], [510], [517], [501],[111], [759], [112], [20] y [142], proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad. Sin actualizar.
+vx_vector;519
+vx_nombre_vector;CONAF (D.L. 701), Nómina con Información de padres e hijos
+vx_descripcion;Tiene valor cuando el RUT del padre y de los hijos menores de edad vienen informados en la nómina Superficie de Explotación Forestal Acogidos al D.L. Nº 701, de 1974 (FORESTAL.DAT).
+vx_vector;520
+vx_nombre_vector;Desembolso por Donaciones Ley de Rentas Municipales y Otras
+vx_descripcion;Sumatoria, por Donante, del Monto Actualizado de las Donaciones valorizadas en Dinero realizadas durante el año. 
+vx_vector;522
+vx_nombre_vector;Desembolso por Donaciones a Universidades e Institutos Profesionales
+vx_descripcion;Sumatoria, por Donante, del monto de las donaciones en dinero realizadas durante el año a Universidades e Institutos Profesionales.
+vx_vector;523
+vx_nombre_vector;Término de Giro de padres e hijos.
+vx_descripcion;Monto devuelto por Término de Giro a los padres y por el mismo concepto a los hijos.
+vx_vector;524
+vx_nombre_vector;Bienes adquiridos contrato Leasing
+vx_descripcion;Código [648] del AT Anterior, actualizado.
+vx_vector;525
+vx_nombre_vector;Gastos y desembolsos realizados en el AT-1 según Declaraciones Juradas
+vx_descripcion;Sumatoria de vectores de gastos y desembolsos del Año Tributario Anterior.
+vx_vector;526
+vx_nombre_vector;Donaciones educacionales, proveniente de los padres e hijos.
+vx_descripcion;Monto por Donante de Donaciones Educacionales, proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad. (Ext. Donatarios, Art. 3 Ley N 19.247/93).
+vx_vector;527
+vx_nombre_vector;Donaciones a las Universidades e Institutos Profesionales, proveniente de los padres e hijos
+vx_descripcion;Sumatoria del monto de las donaciones a Universidades e Institutos Profesionales (Ext. Mineduc, Art. 69 Ley Nº18.681/87), proveniente del padre y de los hijos menores de edad.
+vx_vector;528
+vx_nombre_vector;Donaciones a la Cultura, proveniente de los padres e hijos.
+vx_descripcion;Monto por Donante de Donaciones a la Cultura, proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad. (Ext. Donatarios, Art. 8 Ley Nº18.985/90).
+vx_vector;532
+vx_nombre_vector;Impuesto 1a Categoría. Rentas Efectivas. AT anterior, proveniente de los padres e hijos.
+vx_descripcion;Corresponde al código [20] declarado en el AT Anterior, proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;534
+vx_nombre_vector;Saldo crédito ex Art. 21 AT Anterior, proveniente de los padres e hijos.
+vx_descripcion;Sumatoria de los códigos [238], [239] y [240] del F22 AT Anterior, proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;535
+vx_nombre_vector;Participación en Soc. con Contab. Simpl. y Renta Presunta. AT anterior, proveniente de los padres e hijos.
+vx_descripcion;Sumatoria por Socio de Sociedades con Contabilidad Simplificada y Sociedades con Renta Presunta del porcentaje que le corresponde a él del código [20] y [189] del F22 del AT Anterior de la Sociedad.
+vx_vector;536
+vx_nombre_vector;Participación en Sociedades con Renta Presunta, proveniente de los padres e hijos.
+vx_descripcion;Sumatoria por Socio, de Sociedades con Renta Presunta, del porcentaje que le corresponde del código [189] del F22 del presente AT de la Sociedad, proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad. 
+vx_vector;537
+vx_nombre_vector;N° de Soc. de 2a cat. donde es Socio el padre y/o los hijos
+vx_descripcion;Número de Sociedades de 2ª Categoría en que es Socio (RUT Socio < 50.000.000) el padre y/o los hijos menores de edad.
+vx_vector;538
+vx_nombre_vector;Socios de Sociedades informadas por CONAF, en las que el padre y/o los hijos son Socios
+vx_descripcion;El padre y/o los hijos menores de edad son Socios de Sociedades informadas en la nómina Superficie de Explotación Forestal Acogidos al D.L. Nº 701, de 1974.
+vx_vector;539
+vx_nombre_vector;Inversiones en el Exterior proveniente de los padres e hijos
+vx_descripcion;Sumatoria del monto de inversiones en el exterior ($) proveniente del padre y de los hijos menores de edad, actualizado a la fecha de la inversión.
+vx_vector;542
+vx_nombre_vector;Monto positivo según porcentaje accionario, proveniente de los padres e hijos.
+vx_descripcion;Sumatoria por Inversionista de los Montos Positivos que se obtienen de la RESTA del MAYOR Valor Actualizado con el MENOR Valor Actualizado multiplicado por el factor que le corresponde (0%, 3%, ó 5%) según el Porcentaje Accionario.Se incluyen los provenientes del padre y por el mismo concepto proveniente de los hijos menores de edad. 
+vx_vector;544
+vx_nombre_vector;Gastos y desembolsos realizados en el AT-2 según Declaraciones Juradas
+vx_descripcion;Sumatoria de vectores de gastos y desembolsos del Año Tributario Ante Anterior.
+vx_vector;545
+vx_nombre_vector;Saldo disponible para realizar inversiones de AT anteriores 
+vx_descripcion;Corresponde al diferencial positivo de fondos disponibles con que cuenta el contribuyente y que proviene de años tributarios anteriores.
+vx_vector;546
+vx_nombre_vector;Justificación individual del origen de fondos para efectuar gastos, desembolsos o inversiones
+vx_descripcion;Resultado de descontar a las inversiones, gastos y desembolsos realizados durante el AT, los ingresos obtenidos.
+vx_vector;547
+vx_nombre_vector;Contribuyente sin justificación de Origen de Fondos
+vx_descripcion;Construir para todo contribuyente cuyo Vx010546 sea positivo.
+vx_vector;563
+vx_nombre_vector;Ingresos del AT
+vx_descripcion;Determinación de los ingresos del contribuyente para el AT en curso.
+vx_vector;570
+vx_nombre_vector;Monto donación social destino no rehabilitación 
+vx_descripcion;Si línea 6: destino de la donación=2 entonces sume el monto actualizado  de la donación total por donante registrado en línea 7 
+vx_vector;572
+vx_nombre_vector;Monto Donaciones con Fines Deportivos
+vx_descripcion;Monto por informado en la Nómina Donaciones para Fines Deportivos
+vx_vector;581
+vx_nombre_vector;Menores de edad sin Propuesta
+vx_descripcion;Si Fecha de Nacimiento es menor al 30.04.(AT-18) marcar con 1.
+vx_vector;591
+vx_nombre_vector;Cód. [645] AT Anterior
+vx_descripcion;Código [645] del F22 Año Tributario anterior (capital propio tributario positivo).
+vx_vector;592
+vx_nombre_vector;Cód. [646] AT anterior
+vx_descripcion;Código [646] F22 Año Tributario anterior (capital propio tributario negativo)
+vx_vector;599
+vx_nombre_vector;Subtipo de contribuyente persona natural y juridica, valor entre  111 y 999
+vx_descripcion;Subtipo de contribuyente valor entre 111 y 999.
+vx_vector;605
+vx_nombre_vector;F29 Ingresos primera categoría AT-2
+vx_descripcion;Sumatoria de los códigos [502], [513], [510], [517], [501], [111], [759], [20],  [142], [732], [587], [720] y [709] de los F29 vigentes, de Enero a Diciembre del AT-2 del código [15]. 
+vx_vector;606
+vx_nombre_vector;F29 Ingresos primera categoría AT-3
+vx_descripcion;Sumatoria de los códigos [502], [513], [510], [517], [501], [111], [759], [20], [142], [732], [587], [720] y [709] de los F29 vigentes, de Enero a Diciembre del AT-3 de código [15]. 
+vx_vector;607
+vx_nombre_vector;F29 Ingresos primera categoría AT-4
+vx_descripcion;Sumatoria de los códigos [502], [513], [510], [517], [501], [759], [111], [20], [142], [732], [587], [720] y [709] de los F29 vigentes, de Enero a Diciembre del AT-4 de código [15]. 
+vx_vector;608
+vx_nombre_vector;Capital Propio
+vx_descripcion;Capital de Contribuyente registrado en el CVC.
+vx_vector;618
+vx_nombre_vector;Cursos Efectuados por OTEC
+vx_descripcion;Sumatoria, por OTEC, del Valor Curso aprobado por SENCE informado en Declaración Jurada sobre Nomina Sence (F4500)
+vx_vector;619
+vx_nombre_vector;Aportes de OTIC informados por SENCE
+vx_descripcion;Sumatoria, por OTIC, de los Aportes informados al SII en Declaración Jurada sobre Nomina Sence (F4500)
+vx_vector;620
+vx_nombre_vector;Bloqueo Jefe de Fiscalización
+vx_descripcion;Anotación Vigente 52 (Preventivo del Jefe del Departamento).
+vx_vector;621
+vx_nombre_vector;Rol informado en F1896 que no es DFL2 según SII
+vx_descripcion;Si Rol informado en F1896 no es DFL2 según Avaluaciones.
+vx_vector;624
+vx_nombre_vector;Impuesto Único de Pescadores Artesanales
+vx_descripcion;Impuesto Único de acuerdo al tramo que le corresponde ($ pesos), si no es multipropietario (posee máximo 1 embarcación a su nombre).
+vx_vector;625
+vx_nombre_vector;Intereses Pagados Dividendo buenos y  malos
+vx_descripcion;Sumatoria, por Rut Informado, de la columna Monto Actualizado de los Intereses pagados en Dividendo. 
+vx_vector;626
+vx_nombre_vector;Posee propiedad habitacional en Avaluaciones
+vx_descripcion;Para cada RUT que posea un propiedad habitacional, generar vector indicando el Rol, de haber más de uno indicar el primero encontrado.
+vx_vector;627
+vx_nombre_vector;Rentas Acc. Ene-Abr, presentados hasta el 30 de Abril del AT a controlar
+vx_descripcion;Monto, por Declarante, de Rentas Accesorias Pagadas entre Enero y Abril declaradas en F1887 del AT. a controlar. 
+vx_vector;629
+vx_nombre_vector;Informado en el F1887 que debe rectificar su F22
+vx_descripcion;Vector de doble RUT, que se construye para Rut1, donde:
+vx_vector;633
+vx_nombre_vector;Actividad de renta presunta Agrícola en CVC
+vx_descripcion;Código de Actividad Ecónomica para Actividad de renta presunta Agrícola. 
+vx_vector;634
+vx_nombre_vector;Actividad de renta presunta Transportista en CVC
+vx_descripcion;Código de Actividad Ecónomica para Actividad de renta presunta Transportista (492120 .o. 492290 .o. 492300 .o. 492130 .o. 492190 .o. 492210 .o. 492220 .o. 492230 .o. 492240 .o. 492250)
+vx_vector;635
+vx_nombre_vector;Actividad de renta presunta Minera en CVC
+vx_descripcion;Código de Actividad Ecónomica para Actividad de renta presunta Minera (051000 .o. 052000 .o. 089200 .o. 061000 .o. 062000 .o. 071000 .o. 040000 .o. 072999 .o. 081000 .o. 089190 .o. 089900 .o. 089300 .o. 072100 .o. 072910 .o. 072991 .o. 072992 .o. 089110)
+vx_vector;636
+vx_nombre_vector;Vector de contribuyentes que efectivamente utilizaron Pago Diferido
+vx_descripcion;Si contribuyente utilizó el pago diferido (el código [98]F22 existe), entonces el vector toma el valor uno.
+vx_vector;637
+vx_nombre_vector;Intereses provenientes de F1896 de viviendas DFL2
+vx_descripcion;Por informado, para aquellos roles que SON DFL2, sumar Monto de Dividendo.
+vx_vector;638
+vx_nombre_vector;OTEC informada por SENCE
+vx_descripcion;Si Rut está informado como OTEC en Declaración Jurada sobre Nomina Sence (F4500), vector toma valor 1.
+vx_vector;644
+vx_nombre_vector;Nómina de No Condonables
+vx_descripcion;Si contribuyente tiene el atributo de No Condonable en CVC, entonces el vector toma valor 1.
+vx_vector;645
+vx_nombre_vector;Donaciones del Art. 46 del D.L. N  3.063.
+vx_descripcion;Monto, por informado, de donaciones cuando Norma Legal bajo la cual se efectúa la donación es igual a 1
+vx_vector;646
+vx_nombre_vector;Donaciones del N° 7 del Art. 31 de LIR
+vx_descripcion;Monto, por informado, de donaciones cuando Norma Legal bajo la cual se efectúa la donación es igual a 2
+vx_vector;647
+vx_nombre_vector;Donaciones del D.L. N° 45
+vx_descripcion;Monto, por informado, de donaciones cuando Norma Legal bajo la cual se efectúa la donación es igual a 3.
+vx_vector;653
+vx_nombre_vector;Renta por Seguros Dotales 
+vx_descripcion;Sumatoria por registro informado de la Parte de rescates y otras cantidades pagadas en el ejercicio afectas a impuesto a la renta, actualizada, C7, cuando lo informado corresponde a seguro dotal.
+vx_vector;655
+vx_nombre_vector;Retención por Retiros Seguros Dotales
+vx_descripcion;Sumatoria por informado de la Retención del 15% sobre renta percibida en cumplimiento del Seguro Dotal   las Retenciones de impuesto del ejercicio, actualizadas (Art. 17 N° 3 LIR, tasa 15%) cuando el monto corresponda a seguro dotal según código de columna C8  
+vx_vector;659
+vx_nombre_vector;Contribuyente (jubilado, pensionado o montepiado) informado en una DJ1812
+vx_descripcion;RUT de la Persona a Quien se le Pagó la Pensión o Jubilación 
+vx_vector;663
+vx_nombre_vector;Crédito por Donaciones con Fines Deportivos realizadas a las Cuotas del Fondo Nacional
+vx_descripcion;Sumatoria, por Donante, de los montos de crédito de acuerdo al Destino de la Donación, Costo del Proyecto y monto asignado a las Cuotas del Fondo Nacional.
+vx_vector;664
+vx_nombre_vector;Monto Donaciones Fines Deportivos
+vx_descripcion;Monto por Donante para Fines Deportivos realizadas a las Cuotas del Fondo Nacional.
+vx_vector;665
+vx_nombre_vector;Cónyuge del contribuyente
+vx_descripcion;Para todo contribuyente persona natural, que venga informado en nómina de cónyuges e hijos, asociar rut de persona natural al rut de cónyuge del contribuyente, donde:
+vx_vector;666
+vx_nombre_vector;Contribuyente que puede compensar inversiones, desembolsos y gastos con rentas de su cónyuge
+vx_descripcion;Si existe par de rut cónyuge para un contribuyente, debe adicionar los ingresos del AT, provenientes de nóminas y DDJJ, de su cónyuge a su ingreso del mismo origen. 
+vx_vector;667
+vx_nombre_vector;Cantidad de Hijos menores de edad que componen el grupo familiar
+vx_descripcion;Cuenta número de hijos que son menores de edad, donde:
+vx_vector;668
+vx_nombre_vector;Contribuyente sin justificación de Origen de Fondos (cónyuge)
+vx_descripcion;Si existe par de rut cónyuge para un contribuyente, debe asociar este Rut al propio y entregar el resultado de descontar a las inversiones, gastos y desembolsos realizados durante el AT, los ingresos obtenidos del cónyuge.
+vx_vector;672
+vx_nombre_vector;Renta Efectiva Arriendos Bs. Raíces No Agrícolas cuyo destino No es habitacional 
+vx_descripcion;Sumatoria por propietario informado en F1835 del Monto Arriendo, cuando la sumatoria de los Avalúos informados en Avaluaciones de los roles que No son DFL2 y cuyo destino  de arriendo no sea habitacional (1)
+vx_vector;673
+vx_nombre_vector;Renta Efectiva Arriendos Bs. Raíces No Agrícolas
+vx_descripcion;Sumatoria por propietario informado en F1835 del Monto Arriendo, cuando la sumatoria de los Avalúos informados en Avaluaciones de los roles que NO SON DFL2 informados en el F1835 multiplicado por 11% sea menor o igual a la sumatoria del monto de arriendo de dichos roles.
+vx_vector;674
+vx_nombre_vector;Total Pasivo AT-1 (Cód. 123)
+vx_descripcion;Código [123] del Formulario 22 del AT-1. Sin actualizar.
+vx_vector;675
+vx_nombre_vector;Contribuyente sólo Informado en F1879 o F1879bis
+vx_descripcion;Contribuyente está informado únicamente en un Formulario 1879 o F1879bis y en ninguna otra Declaración Jurada.
+vx_vector;676
+vx_nombre_vector;Ingresos según vectores AT-1
+vx_descripcion;Determinación de los ingresos del contribuyente para el AT anterior.
+vx_vector;677
+vx_nombre_vector;Ingresos según vectores AT -2
+vx_descripcion;Sumatoria de vectores de ingresos del Año Tributario ante Anterior.
+vx_vector;678
+vx_nombre_vector;Ingresos por ventas según vectores AT -1
+vx_descripcion;Sumatoria de vectores de ingresos por ventas del Año Tributario Anterior.
+vx_vector;679
+vx_nombre_vector;Ingresos por ventas según vectores AT -2
+vx_descripcion;Sumatoria de vectores de ingresos por ventas del Año Tributario ante Anterior.
+vx_vector;680
+vx_nombre_vector;Inversiones realizadas según vectores AT -1
+vx_descripcion;Sumatoria de vectores de inversiones del Año Tributario Anterior.
+vx_vector;681
+vx_nombre_vector;Inversiones realizadas según vectores AT -2
+vx_descripcion;Sumatoria de vectores de inversiones del Año Tributario ante Anterior.
+vx_vector;682
+vx_nombre_vector;Ingresos declarados en F22 AT -1
+vx_descripcion;Sumatoria de ingresos declarados en el F22 del Año Tributario Anterior.
+vx_vector;683
+vx_nombre_vector;Ingresos declarados en F22 AT -2
+vx_descripcion;Sumatoria de ingresos declarados en el F22 del Año Tributario ante Anterior. Sin Actualizar.
+vx_vector;694
+vx_nombre_vector;Tope Créd. por Impto. Pagado en el Extranjero Sin Convenio por dividendos.
+vx_descripcion;Sumatoria por DECLARANTE del tope de los créditos del Ejercicio sin convenios de doble tributación por Rentas derivadas de las acciones, derechos, cuotas u otros títulos de participación en la propiedad, capital, utilidad, ingresos, votos, dirección o control de una entidad extranjera no controlada.
+vx_vector;702
+vx_nombre_vector;Tope Crédito por Impuesto Pagado en el Extranjero Con Convenio por dividendos.
+vx_descripcion;Sumatoria por DECLARANTE del tope de los créditos del Ejercicio con convenios de doble tributación por Rentas derivadas de las acciones, derechos, cuotas u otros títulos de participación en la propiedad, capital, utilidad, ingresos, votos, dirección o control de una entidad extranjera no controlada.
+vx_vector;703
+vx_nombre_vector;Tope Crédito por Impuesto Pagado o Adeudado en el Extranjero Con Convenio, por rentas de establecimiento permanente situado en el exterior.
+vx_descripcion;Sumatoria por DECLARANTE de los créditos del Ejercicio con convenios de doble tributación, cuando el tipo de operación corresponde a 5 (establecimiento permanente situado en el exterior).
+vx_vector;715
+vx_nombre_vector;Sumatoria del Impuesto Adicional
+vx_descripcion;Sumatoria, por declarante, de retenciones del Art. 74 N°4, códigos [782] de Enero a Diciembre de AT Anterior de código [15].
+vx_vector;718
+vx_nombre_vector;Retenciones efectuadas de Arts. 58 N 1, 14 bis, 60 inc 1  y 61
+vx_descripcion;Sumatoria, por Declarante, de los Cód. [652], [655], [658], [661], [724] y [761], [764] (Arts. 58 N 1, 14 bis, 60 inc 1  y 61), de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;725
+vx_nombre_vector;F63 AT-1 revisada (concurrecia, liberación, rectificada o liquidada o resuelta por unidad)
+vx_descripcion;Si folio AT-1 posee observación F63 principal y su estado es de CONCURRENCIA (C), LIBERACIÓN (L), RECTIFICADA (R), LIQUIDADA O RESUELTA (U) toma valor 1.
+vx_vector;727
+vx_nombre_vector;Capacitación SENCE nueva Ley (Otec más Otic)
+vx_descripcion;Por cada Rut empresa informado en Declaración Jurada sobre Nomina Sence (F4500), sumar por Rut informado como beneficiario el valor del curso aprobado por Sence y Monto aporte OTIC, registrado en C4 {Valor del curso o Evaluación aprobado por sence}  y C8 {Monto aporte OTIC}.
+vx_vector;731
+vx_nombre_vector;Bases Imponibles de Arts. 58 N° 1, 14 bis, 60 inc 1 y 61.
+vx_descripcion;Sumatoria, por declaranete, de Bases Imponibles de Arts. 58 N° 1, 14 bis, 60 inc 1 y 61 del F50 (Cód. [650], [653], [657], [660], [723], [759] y [763]) de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;733
+vx_nombre_vector;Base Imponible de Art. 58 N 2
+vx_descripcion;Sumatoria, por Declarante, de los códigos [650], [653], [657], [660], [759] y [763] (Base Imponible de Art. 58 N 2) de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;734
+vx_nombre_vector;Bases Imponibles de Arts. 58 N°1, 14 bis, 60 inc 1  y 61
+vx_descripcion;Sumatoria, por DECLARANTE, de los códigos [650], [653], [657], [660], [723], [759] y [763] (Bases Imponibles de Arts. 58 N 1, 14 bis, 60 inc 1  y 61) de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;740
+vx_nombre_vector;Rentas de establecimiento permanente en el exterior ubicado en países con los cuales Chile no posee convenios para evitar la doble tributación.
+vx_descripcion;Sumatoria, por declarante de F1929, de la columna {Rentas del exterior/Rentas del exterior} cuando estas rentas correspondan a Rentas atribuidas a un establecimiento permanente situado en países con los cuales Chile no posee convenios para evitar doble tributación.
+vx_vector;742
+vx_nombre_vector;Rentas de establecimiento permanente en el exterior, ubicado en países con los cuales Chile posee convenios para evitar doble tributación.
+vx_descripcion;Sumatoria, por declarante de F1929, de la columna {Rentas del exterior/Rentas del exterior} cuando estas rentas correspondan a Rentas atribuidas a un establecimiento permanente situado en el exterior y este se encuentre ubicado en un país con el cual Chile posee convenio para evitar la doble tributación.
+vx_vector;761
+vx_nombre_vector;G47 AT-1 revisada (concurrecia, liberación, rectificada o liquidada o resuelta por unidad)
+vx_descripcion;Si folio AT-1 posee observación G47 y su estado es CONCURRENCIA (C), LIBERACIÓN (L), RECTIFICADA (R), LIQUIDADA O RESUELTA (U) toma valor 1.
+vx_vector;762
+vx_nombre_vector;G47 AT-2 revisada (concurrecia, liberación, rectificada o liquidada o resuelta por unidad)
+vx_descripcion;Si folio AT-2 posee observación G47 y su estado es CONCURRENCIA (C), LIBERACIÓN (L), RECTIFICADA (R), LIQUIDADA O RESUELTA (U), toma valor 1.
+vx_vector;765
+vx_nombre_vector;Capital Efectivo AT-1 (Cód. [102])
+vx_descripcion;Código [102] del año tributario anterior (Capital Efectivo).
+vx_vector;768
+vx_nombre_vector;Unidad Grandes Contribuyentes
+vx_descripcion;Contribuyentes de nómina entregada por Grandes Contribuyentes que corresponde a todos sus contribuyentes.
+vx_vector;769
+vx_nombre_vector;Actividad de Renta Presunta Transportista de carga en RIAC
+vx_descripcion;Contribuyentes que su Código de Actividad Ecónomica es de Renta Presunta Transportista de carga (492300). 
+vx_vector;770
+vx_nombre_vector;Revisado por T17 en los últimos 3 años
+vx_descripcion;Si para AT-1 .o. AT-2 .o. AT-3, [07]F22 posee observación T17 y su estado es  CONCURRENCIA (C), LIBERACIÓN (L), RECTIFICADA (R), LIQUIDADA O RESUELTA (U)
+vx_vector;771
+vx_nombre_vector;Revisado por R69 y ha sido Liberada 
+vx_descripcion;Si folio del declarante F1879 del AT posee observación R69 y fue liberada
+vx_vector;772
+vx_nombre_vector;Importaciones del giro del AT en Pesos
+vx_descripcion;Sumatoria por declarante de los códigos [535], [560], de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;778
+vx_nombre_vector;Declarante F1891
+vx_descripcion;"Si Rut es declarante de F1891 vigente; entonces marcar 1 Construir vector para todo Formulario F1891, independiente  de si se encuentra observado o no."
+vx_vector;784
+vx_nombre_vector;Retenciones Directores, tasa 10% (Validos e impugnados)
+vx_descripcion;Sumatoria, por receptor, de Retenciones Directores, tasa 10%. Construir con registros no observados y observados.
+vx_vector;785
+vx_nombre_vector;Retenciones Directores, tasa 35% (Validos e impugnados)
+vx_descripcion;Sumatoria, por receptor, de Retenciones Directores, tasa 35%. Construir con registros no observados y observados.
+vx_vector;795
+vx_nombre_vector;Impuesto Único Segunda Categoría enterado al fisco por el propio trabajador . (Cód. 271)
+vx_descripcion;Sumatoria de los códigos [271] de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;796
+vx_nombre_vector;Multipropietarios de Embarcaciones
+vx_descripcion;N° de Rut repetido en la Nómina Pescadores Artesanales que tiene más de 2 embarcaciones.
+vx_vector;797
+vx_nombre_vector;TRG Calculado
+vx_descripcion;"Si el TRG está informado, toma el valor que aparece en la nómina; sino, calcula el TRG según formula."
+vx_vector;798
+vx_nombre_vector;Contribuyente Autorizado Pago Diferido
+vx_descripcion;Contribuyentes que fueron autorizados por la Unidad del SII a pagar un valor menor del monto de impuesto adeudado. 
+vx_vector;799
+vx_nombre_vector;Monto autorizado a Diferir ( Pago Diferido)
+vx_descripcion;Monto por RUT autorizado a diferir, por las Unidades del SII. 
+vx_vector;807
+vx_nombre_vector;F1887 Renta total no gravada
+vx_descripcion;Sumatoria, por informado, de la renta total no gravada.
+vx_vector;808
+vx_nombre_vector;Rebaja por zonas extremas
+vx_descripcion;Sumatoria, por recpetor, de la rebaja por zonas extremas. Construir con registros no observados y observados
+vx_vector;809
+vx_nombre_vector;Informado en 1896 con uno o más Roles desafectados de DFL2 (No todos)
+vx_descripcion;Por informado en F1896 posee más de un Rol y al menos uno pero no todos se encuentran desafectados de DFL2, no cumplen con ser DFL2 según SII.
+vx_vector;810
+vx_nombre_vector;Informado en 1896 con todos Roles siendo DFL2
+vx_descripcion;Por informado en F1896 todos son DFL2 según SII.
+vx_vector;811
+vx_nombre_vector;Renta Efectiva Arriendos Bs. Raíces No Agrícolas (Destino del Arriendo del Bien Raíz es Habitacional)
+vx_descripcion;Sumatoria por propietario informado en F1835 del Monto Arriendo, cuando la sumatoria de los Avalúos informados en las bases del SII (Avaluaciones) de los roles que no son DFL2 y cuyo destino de arriendo sea habitacional, informados en el F1835 multiplicado por 11% (P215) sea mayor a la sumatoria del monto de arriendo de dichos roles.
+vx_vector;812
+vx_nombre_vector;Remanente Crédito Ley Arica
+vx_descripcion;Remanente de crédito disponible para este AT, generado en períodos anteriores.
+vx_vector;813
+vx_nombre_vector;Remanente Crédito Ley Austral
+vx_descripcion;Remanente de crédito disponible para este AT, generado en períodos anteriores
+vx_vector;814
+vx_nombre_vector;Indica si la inversión por Ley Austral es posterior al AT2004.
+vx_descripcion;Si la inversión Ley Austral fue posterior al AT2004, el vector toma valor 1, sino toma valor 0. 
+vx_vector;816
+vx_nombre_vector;Contribuyente informado en un 1887 cuyo declarante posee cuerpo de Rut en el rango 60.000.000 - 69.499.999.
+vx_descripcion;Vector que se construye para informado en F1887.
+vx_vector;817
+vx_nombre_vector;Honorarios Sin Retención Boletas Honorarios Electrónicas (BHE)
+vx_descripcion;Monto de “Retención Contribuyente” por Honorarios Sin Retención, proveniente de las Boletas de Honorarios Electrónicas (BHE).
+vx_vector;818
+vx_nombre_vector;Monto en pesos para Intereses de bonos y Pagarés adquiridos en el exterior.
+vx_descripcion;Sumatoria, por Rut  informado, del “Monto en pesos $” de la operación de intereses de bonos y Pagarés  adquiridos en el exterior (Código de concepto “11221” = Retorno de intereses de bonos y pagarés adquiridos en el exterior) donde código de país es distinto de 224 (argentina) 
+vx_vector;819
+vx_nombre_vector;Monto en pesos para Intereses de inversiones en renta fija en el exterior
+vx_descripcion;Sumatoria por Rut  informado del “Monto en pesos” de la operación de intereses por inversiones en renta fija en el exterior (Código de concepto “11231”) donde código de país es distinto de 224 (argentina).
+vx_vector;820
+vx_nombre_vector;Monto en pesos para Intereses de depósitos constituidos en el exterior
+vx_descripcion;Sumatoria por Rut  informado del “Monto en pesos” de la operación de intereses de depósitos constituidos en el exterior (Código de concepto “11251”) donde código de país es distinto de “224” (argentina). 
+vx_vector;821
+vx_nombre_vector;Monto en pesos para Retorno de utilidades de Inversiones en el exterior en otros activos financieros.
+vx_descripcion;Sumatoria por Rut  informado del “Monto en pesos” de la operación del Retorno de utilidades de Inversiones en el exterior en otros activos financieros. (Código de concepto “11261”) donde código de país es distinto de “224” (argentina). 
+vx_vector;822
+vx_nombre_vector;Retenciones del  Art. 73 y del Art. 74 N°6
+vx_descripcion;Sumatoria por Declarante de Rentas de Retención Art. 73 y Retención Art. 74 N°6.
+vx_vector;825
+vx_nombre_vector;Fecha Nacimiento Hombre menor a 18 años
+vx_descripcion;Fecha de Nacimiento Personas Naturales. 
+vx_vector;826
+vx_nombre_vector;Fecha Nacimiento Mujer menor a 18 años
+vx_descripcion;Fecha de Nacimiento Personas Naturales.
+vx_vector;827
+vx_nombre_vector;Existe timbraje de boletas
+vx_descripcion;Si contribuyente tiene BHE emitidas antes del 01.01.AT o existen boletas de honorarios timbradas antes del 01.01.AT, entonces marcar 1.
+vx_vector;828
+vx_nombre_vector;Posibles trabajos menores de edad
+vx_descripcion;Actividades Económicas posibles que pueden realizar menores de edad.
+vx_vector;829
+vx_nombre_vector;F1879 Retenedor de honorarios cuestionado
+vx_descripcion;Vector de doble RUT, que se le construye a Rut1, donde:
+vx_vector;830
+vx_nombre_vector;Monto Impugnado del F1879 de la Sociedad
+vx_descripcion;Vector de doble RUT, que se le construye a Rut1, donde:
+vx_vector;831
+vx_nombre_vector;Sumatoria del Avalúo Fiscal de Bienes Raices no Agricolas
+vx_descripcion;Sumatoria por propietario informado en Avaluaciones del avalúo fiscal de todos sus bienes raíces no agrícolas.
+vx_vector;835
+vx_nombre_vector;Base imponible 14 bis (Código [563] AT anterior)
+vx_descripcion;Sumatoria por contribuyente del Monto de Base imponible 14 bis Código [563] del F29, de Enero a Diciembre de AT Anterior de código [15].
+vx_vector;836
+vx_nombre_vector;Existe timbraje de Facturas
+vx_descripcion;Si en el registro de Timbraje de Documentos, el Código = 30 (Facturas), entonces marcar 1.
+vx_vector;837
+vx_nombre_vector;PPM Explotador Minero Art. 84 h)
+vx_descripcion;Sumatoria Anual del F29 vigentes de los PPM´s pagados y declarados, código [703].
+vx_vector;849
+vx_nombre_vector;Socio de Renta Presunta AT-1
+vx_descripcion;RUT socio de Sociedades con Renta Presunta el AT-1.
+vx_vector;850
+vx_nombre_vector;Socio de Sociedad con Contabilidad Simplificada AT-1
+vx_descripcion;Número de Sociedades con Contabilidad Simplificada en que es Socio (RUT Socio < 50.000.000) en el AT-1.
+vx_vector;851
+vx_nombre_vector;Honorarios recibidos impugnados con R69
+vx_descripcion;Sumatoria, por receptor, de honorarios recibidos cuyo declarante se encuentre observado con R69.
+vx_vector;852
+vx_nombre_vector;Honorarios Recibidos Art. 42 N° 2 Impugnados con V175 o V176
+vx_descripcion;Sumatoria, por receptor, de honorarios recibidos (Art. 42 N° 2), cuando el registro está observado con V175 o V176.
+vx_vector;854
+vx_nombre_vector;F51 AT-1
+vx_descripcion;Si contribuyente tiene la observación F51 en el F22 AT-1 vigente y el estado de la declaración es Impugnado (IXX), entonces el vector toma valor 1
+vx_vector;855
+vx_nombre_vector;Declarante Impugnado con R69, V175, R74, R75
+vx_descripcion;Contribuyente tiene validaciones de F18xx R69, V175, R74, R75.
+vx_vector;856
+vx_nombre_vector;Contribuyente informado sólo con honorarios y un solo declarante para el AT-1
+vx_descripcion;En AT-1, contribuyente está informado únicamente en un Formulario 1879 y en ninguna otra Declaración Jurada.
+vx_vector;857
+vx_nombre_vector;Honorarios recibidos impugnados con R74
+vx_descripcion;Sumatoria, por receptor, de honorarios recibidos cuyo declarante se encuentre observado con R74. 
+vx_vector;860
+vx_nombre_vector;Monto de Cred. Patentes de Agua imputado en F29
+vx_descripcion;Monto de Credito Patentes de Agua declarados en F29 [706] menos remanente [707] de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;861
+vx_nombre_vector;Monto de Cotizacion Adicional imputado en F29 
+vx_descripcion;Monto de Cotizacion Adicional declarados en F29 [570] menos remanente [73] de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;862
+vx_nombre_vector;Honorarios recibidos impugnados con R75
+vx_descripcion;Sumatoria, por receptor, de honorarios recibidos cuyo declarante se encuentre observado con R75. 
+vx_vector;864
+vx_nombre_vector;Impugnados traspasado a Selectiva
+vx_descripcion;Si se encuentra en Nómina toma valor 1
+vx_vector;865
+vx_nombre_vector;Monto devuelto en F22 AT-1
+vx_descripcion;Monto devuelto en F22 AT-1
+vx_vector;866
+vx_nombre_vector;Monto devuelto en F22 AT-2
+vx_descripcion;Monto devuelto en F22 AT-2
+vx_vector;867
+vx_nombre_vector;Monto Pagado en F22 AT-1
+vx_descripcion;Monto Pagado en F22 AT-1 
+vx_vector;868
+vx_nombre_vector;Monto Pagado en F22 AT-2
+vx_descripcion;Monto Pagado en F22 AT-2
+vx_vector;869
+vx_nombre_vector;Monto Pagado en F29 AT-1
+vx_descripcion;Monto Pagado en F29 AT-1, de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;870
+vx_nombre_vector;Monto Pagado en F29 AT-2
+vx_descripcion;Monto Pagado en F29 AT-2, de Enero a Diciembre AT Anterior de código [15]. 
+vx_vector;872
+vx_nombre_vector;Crédito generado por concepto Ley Arica en AT-1
+vx_descripcion;Crédito generado por concepto Ley Arica en AT-1
+vx_vector;873
+vx_nombre_vector;Crédito generado por concepto Ley Austral en AT-1
+vx_descripcion;Crédito generado por concepto Ley Austral en AT-1
+vx_vector;874
+vx_nombre_vector;Crédito utilizado por concepto Ley Arica en AT-1
+vx_descripcion;Crédito utilizado por concepto Ley Arica en AT-1
+vx_vector;875
+vx_nombre_vector;Crédito utilizado por concepto Ley Austral en AT-1
+vx_descripcion;Crédito utilizado por concepto Ley Austral en AT-1
+vx_vector;876
+vx_nombre_vector;Numero de tipos de inversión realizadas
+vx_descripcion;Contar vectores de inversión
+vx_vector;877
+vx_nombre_vector;Número de tipos de renta percibida
+vx_descripcion;Contar vectores de renta percibida.
+vx_vector;899
+vx_nombre_vector;F63 AT-2 revisada (concurrecia, liberación, rectificada o liquidada o resuelta por unidad) 
+vx_descripcion;Si folio AT-2 posee observación F63 principal y su estado es de CONCURRENCIA (C), LIBERACIÓN (L), RECTIFICADA (R), LIQUIDADA O RESUELTA (U), toma valor 1.
+vx_vector;900
+vx_nombre_vector;Venta de acciones y cuotas de fondos de inversión con presencia bursátil
+vx_descripcion;Sumatoria, por Informado, del monto total positivo de ventas de acciones y cuotas de fondos de inversión declarados en el F1891, cuando el nemotécnico viene informado en la nómina Presencia Bursátil de Acciones en Bolsa (ACCIONES.DAT), el tipo de documento es factura (“F”) y tiene presencia bursátil en la fecha de la operación, es nota de crédito (“C”) o nota de débito (“D”),  fecha de documento (C4) es hasta el día  01-09-2022 (dd-mm-aaaa)
+vx_vector;901
+vx_nombre_vector;Crédito por Donación Fines Sociales
+vx_descripcion;Sumatoria por Donante de los montos de crédito, para aquellos proyectos en que el código del proyecto de la DON_SOC.DAT (Nómina de Proyectos Donaciones Sociales) es igual al código del proyecto en la PROYECTODONSOCIAL.DAT (Nómina Proyectos Donaciones Sociales en Revisión).
+vx_vector;902
+vx_nombre_vector;Crédito Donaciones con Fines Sociales
+vx_descripcion;Monto Donaciones Fines Sociales, para aquellos proyectos en que el código del proyecto de la DON_SOC.DAT (Nómina de Proyectos Donaciones Sociales) es igual al código del proyecto en la PROYECTODONSOCIAL.DAT (Nómina Proyectos Donaciones Sociales en Revisión).
+vx_vector;903
+vx_nombre_vector;Monto Donaciones con Fines Sociales
+vx_descripcion;Monto por Donante para Fines Sociales realizadas al Fondo Mixto de Apoyo Social. 
+vx_vector;908
+vx_nombre_vector;Increm. por Impto. 1a Categoría
+vx_descripcion;Sumatoria por inversionista del incremento por Impuesto de Primera Categoría, cuando la enajenación de acciones NO fue  destinada a reinversión.
+vx_vector;909
+vx_nombre_vector;Porc. socio de Increm. traspasado por Soc. Rta. Presunta o con contabilidad simplificada
+vx_descripcion;Sumatoria por Rut informado, por Sociedades con Renta Presunta en CVC, del Incremento por Impto de 1era Categoría cuando la enajenación de acciones NO fue  destinada a reinversión, informado para las Sociedades con Renta Presunta o contabilidad simplificada en el F1822, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC.
+vx_vector;919
+vx_nombre_vector;Incremento por Impuesto de 1a Categoría proveniente de los padres e hijos.
+vx_descripcion;Suma del monto del Incremento por Impuesto de Primera Categoría proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;920
+vx_nombre_vector;Incremento por Impuesto de 1a Categoría proveniente de los padres e hijos.
+vx_descripcion;Suma del monto del Incremento por Impuesto de Primera Categoría proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;934
+vx_nombre_vector;Porc. Interés Real Positivo por Saldos en Cuenta Corriente traspasado por Soc. Rta. Presunta
+vx_descripcion;Sumatoria, por Rut Informado, por Sociedades con Renta Presunta en CVC, de los Intereses Reales Positivos por Saldos en Cuenta Corriente, informado para las Sociedades con Renta Presunta en el F1890, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC.
+vx_vector;936
+vx_nombre_vector;Interés Real Positivo por Saldos en Cuenta Corriente, proveniente de los padres e hijos traspasado por Soc. Rta. Presunta .
+vx_descripcion;Sumatoria por RUT INFORMADO, por Sociedades con Renta Presunta en CVC, de los Intereses Reales Positivos por Saldos en Cuenta Corriente, informado para las Sociedades con Renta Presunta en el F1890, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en el CVC y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;939
+vx_nombre_vector;Contribuyentes con atributo T14B “AUTORIZADO TRIBUTACION 14 BIS”
+vx_descripcion;Si contribuyente se acoge al beneficio del Artículo 14 bis, del Decreto Ley N° 824, sea éste durante el proceso de Iniciación de Actividades o posterior, detentando atributo T14B “AUTORIZADO TRIBUTACION 14 BIS”, entonces toma valor 1. 
+vx_vector;954
+vx_nombre_vector;F1822 Créditos con derecho a devolución por impuesto de primera categoría (DDJJ observadas)
+vx_descripcion;Sumatoria, por informado, de créditos con derecho a devolución por impuesto de primera categoría asociado a los retiros tributables.
+vx_vector;958
+vx_nombre_vector;Créditos por gasto de Capacitación y/o Créditos por rentas de Fondos Mututos con derecho a devolución (Cód. 769) en el AT Anterior.
+vx_descripcion;Corresponde a la sumatoria de los códigos [82] y [768] declarado en el AT Anterior, actualizado por el factor Reaj.  Art. 72 LIR de Abril del AT.
+vx_vector;959
+vx_nombre_vector;Créditos Empresas Constructoras y/o Reintegro parcial por Peajes (Cód. 612) en el AT Anterior.
+vx_descripcion;Corresponde a la sumatoria de los códigos [83] y [173] declarado en el AT Anterior, actualizado por el factor Reaj.  Art. 72 LIR de Abril del AT.
+vx_vector;960
+vx_nombre_vector;Pago Provisional Exportadores y/o Pago Provisional por Impto.  Primera Cat. de Ut. Absorbidas (Cód. 747) en el AT Anterior.
+vx_descripcion;Corresponde a la sumatoria de los códigos [181] y [167] declarado en el AT Anterior, actualizado por el factor Reaj.  Art. 72 LIR de Abril del AT.
+vx_vector;961
+vx_nombre_vector;Crédito puesto a disposición por la sociedad, con tope del total o saldo del impuesto adeudado (Cód. 58) en el AT Anterior.
+vx_descripcion;Corresponde al código [58] declarado en el AT Anterior, actualizado por el factor Reaj.  Art. 72 LIR de Abril del AT.
+vx_vector;968
+vx_nombre_vector;F1822 Créditos con derecho a devolución por impuesto de primera categoría, padres e hijos (DDJJ observadas)
+vx_descripcion;Sumatoria de créditos con derecho a devolución por impuesto de primera categoría asociado a los retiros tributables, proveniente del padre y de los hijos menores de edad.
+vx_vector;971
+vx_nombre_vector;Renta Total Neta pagada proveniente de sociedades donde participa y de su giro como empresario individual.
+vx_descripcion;Sumatoria, por Informado, de la Renta Total Neta Pagada, sólo para Formularios N°1812 y N°1887, cuyo declarante es una sociedad a la que él pertenece, según información de CVC, ó cuando el Rut Declarante es igual al Rut informado (empresario individual).
+vx_vector;972
+vx_nombre_vector;Porc. Intereses Reales Pos. traspasado por Soc. con Contabilidad Simplificada.
+vx_descripcion;Sumatoria, por Rut informado, por Sociedades con Contabilidad Simplificada en CVC, de los Intereses Reales Positivos por Depositos de Cualquier Naturaleza, informado para las Sociedades con Contabilidad Simplificada en el F1890, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC.
+vx_vector;973
+vx_nombre_vector;Porc. Intereses Reales Pos. traspasado por Soc. con Contabilidad Simplificada, proveniente de los padres e hijos.
+vx_descripcion;Sumatoria por RUT Informado, por Sociedades con Contabilidad Simplificada en CVC, de los Intereses Reales Positivos por Depositos de Cualquier Naturaleza, informado para las Sociedades con Contabilidad Simplificada en el F1890, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC, proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;974
+vx_nombre_vector;Interés Real Positivo por Saldos en Cuenta Corriente
+vx_descripcion;Sumatoria por Informado de los intereses reales positivos por mantención de saldos en cuentas corrientes. 
+vx_vector;975
+vx_nombre_vector;Interés Real Positivo por Saldos en Cuenta Corriente, proveniente de los padres e hijos
+vx_descripcion;Sumatoria por Informado de los intereses reales positivos por mantención de saldos en cuentas corrientes, proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;976
+vx_nombre_vector;Porc.Intereses Pos. traspasado por Soc. con Contabilidad Simplificada y/o Renta Presunta.
+vx_descripcion;Sumatoria por RUT INFORMADO, por Sociedades con Contabilidad Simplificada y/o Renta Presunta, de los Intereses Reales por mantención de saldos en cuentas corrientes , informado para las Sociedades con Contabilidad Simplificada y/o Renta Presunta en el F1890, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en el CVC.
+vx_vector;977
+vx_nombre_vector;Porc.Intereses Pos. traspasado por Soc. con Contabilidad Simplificada y/o Renta Presunta, proveniente de los padres e hijos
+vx_descripcion;Sumatoria, por Rut informado, por Sociedades con Contabilidad Simplificada y/o Renta Presunta en CVC, de los Intereses Reales por mantención de saldos en cuentas corrientes , informado para las Sociedades con Contabilidad Simplificada y/o Renta Presunta en el F1890, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC, proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;978
+vx_nombre_vector;Mayor valor actualizado, traspasado por Soc. acogidas al regimen simplificado.
+vx_descripcion;Sumatoria por Inversionista del Mayor Valor Actualizado (Fondos Mutuos). 
+vx_vector;979
+vx_nombre_vector;Mayor valor actualizado, traspasado por Soc. acogidas al regimen simplificado, proveniente de los padres e hijos
+vx_descripcion;Sumatoria por Inversionista del Mayor Valor Actualizado (Fondos Mutuos), proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;980
+vx_nombre_vector;Int. real u otras rentas Moneda Nacional o Extranjera valor nominal realizada por Inversionistas sin domicilio ni residencia en Chile
+vx_descripcion;Sumatoria por Inversionista sin domicilio ni residencia en Chile de Intereses Reales u Otras Rentas Moneda Nacional o Extranjera , Valor Nominal.
+vx_vector;985
+vx_nombre_vector;Intereses Reales u Otras Rtas. por Op. de Cap Negativo
+vx_descripcion;Sumatoria por Inversionista de Intereses Reales u Otras Rentas Negativas por Operaciones de Captación de Cualquier Naturaleza. 
+vx_vector;986
+vx_nombre_vector;Rentas asociadas a retenciones por capitales mobiliarios - Retenciones del Art. 73
+vx_descripcion;Sumatoria, por receptor, de las Rentas asociadas a retenciones del Articulo 73°.
+vx_vector;992
+vx_nombre_vector;Porc.Intereses Pos. por mantención de saldos en cuentas corrientes traspasado por Soc. con Cont. Simplificada.
+vx_descripcion;Sumatoria, por Rut Informado, por Sociedades con Contabilidad Simplificada en CVC, de los Intereses Reales por mantención de saldos en cuentas corrientes , informado para las Sociedades con Contabilidad Simplificada  en el F1890, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC.
+vx_vector;993
+vx_nombre_vector;Porc.Intereses Pos. por mantención de saldos en cuentas corrientes traspasado por Soc. con Renta Presunta.
+vx_descripcion;Sumatoria, por Rut informado, por Sociedades con Contabilidad  Renta Presunta en CVC, de los Intereses Reales por mantención de saldos en cuentas corrientes, informado para las Sociedades con Renta Presunta en el F1890, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC.
+vx_vector;995
+vx_nombre_vector;Porc. Interés Real Positivo por Saldos en Cuenta Corriente, traspasado por Soc. con contabilidad simplfificada.
+vx_descripcion;Sumatoria, por Rut Informado, por Sociedades con contabilidad simplificada en CVC, de los intereses reales positivos por mantención de saldos en cuentas corrientes, informado para las Sociedades con contabilidad simplificada, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC. 
+vx_vector;1009
+vx_nombre_vector;Porc. Intereses Reales u Otras Rtas. por Op. de Cap Posit. traspasado por Soc. con Contabilidad Simplificada.
+vx_descripcion;Sumatoria, por Rut informado, por Sociedades con Contabilidad Simplificada en CVC, de los Intereses Reales u Otras Rentas Positivas por Operaciones de captacion de Cualquier Naturaleza Actualizados, informado para las Sociedades con Contabilidad Simplificada en el F1890, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC.
+vx_vector;1010
+vx_nombre_vector;Porc. Intereses Reales u Otras Rtas. por Op. de Cap Negativo, traspasado por Soc. con Renta Presunta
+vx_descripcion;Sumatoria, por Rut informado, por Sociedades con  Renta Presunta en CVC, de los Intereses Reales u Otras Rentas Negativas por Operaciones de Captación de Cualquier Naturaleza, informado para las Sociedades con Renta Presunta en el F1890, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC.
+vx_vector;1011
+vx_nombre_vector;Porc. Intereses Reales u Otras Rtas. por Op. de Cap Negativo, traspasado por Soc. con Contabilidad Simplificada. 
+vx_descripcion;Sumatoria, por Rut informado, por Sociedades con  Contabilidad Simplificada en CVC,  de los Intereses Reales u Otras Rentas Negativas por Operaciones de captacion de Cualquier Naturaleza, informado para las Sociedades con Contabilidad Simplificada.en el F1890, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC.
+vx_vector;1012
+vx_nombre_vector;Intereses Reales por Depositos de Cualquier Naturaleza Negativos
+vx_descripcion;Sumatoria por Inversionista de Intereses Reales Negativos por Depositos de Cualquier Naturaleza. 
+vx_vector;1013
+vx_nombre_vector;Porc. Intereses Reales por Depositos de Cualquier Nat. Negativos, traspasado por Soc. con Renta Presunta.
+vx_descripcion;Sumatoria, por Rut informado, por Sociedades con  Renta Presunta en CVC, de los Intereses Reales Negativos por Depositos de Cualquier Naturaleza, informado para las Sociedades con Renta Presunta en el F1890, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC.
+vx_vector;1014
+vx_nombre_vector;Porc. Intereses reales negativos por Dep. de Cualquier Nat., traspasado por Soc. con Contabilidad Simplificada.
+vx_descripcion;Sumatoria, por Rut informado, por Sociedades con  Contabilidad Simplificada en CVC, de los Intereses Reales Negativos por Depositos de Cualquier Naturaleza, informado para las Contabilidad Simplificada en el F1890, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC.
+vx_vector;1015
+vx_nombre_vector;Porc. Intereses Reales negativos por Saldos en Cuenta Corriente, traspasado por Soc. con Renta Presunta.
+vx_descripcion;Sumatoria, por Rut informado, por Sociedades con  Renta Presunta en CVC, de los Intereses Reales Negativos por Saldos en Cuenta Corriente, informado para las Soc. con Renta Presunta en el F1890, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC.
+vx_vector;1016
+vx_nombre_vector;Porc. Intereses Reales negativos por Saldos en Cuenta Corriente, traspasado por Soc. con Contabilidad Simplificada
+vx_descripcion;Sumatoria, por Rut informado, por Sociedades con  Contabilidad Simplificada en CVC, de los Intereses Reales Negativos por Saldos en Cuenta Corriente, informado para las Soc. con Contabilidad Simplificada en el F1890, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC.
+vx_vector;1018
+vx_nombre_vector;Participación en EIRL acogida al 14 ter
+vx_descripcion;Sumatoria por Socio, de EIRL, del 100% que le corresponde a él del código [963] del F22 del presente AT de la Sociedad (RUT Socio < 50.000.000).
+vx_vector;1019
+vx_nombre_vector;Participación en Soc. Cont. Simplificada, de socios Renta Presunta
+vx_descripcion;Sumatoria por Socio, que declaran Renta Presunta en su F22, de Sociedades con Contabilidad Simplificada (CVC), del porcentaje que le corresponde al socio del código [1037] del F22 del presente AT de la Sociedad con Cont. Simpl.
+vx_vector;1020
+vx_nombre_vector;Porc. de Base Imponible de Impto. 1ra Cat. proveniente de otra soc. con cont. simpl. por participación en Soc. Renta Presunta.
+vx_descripcion;Sumatoria por Socio, de Sociedades Renta Presunta, del porcentaje que le corresponde al socio de las rentas (Cód. [1037] del F22) traspasadas por otra sociedad con cont. Simplificada a la Soc. Renta presunta de la que él es socio.
+vx_vector;1023
+vx_nombre_vector;Participación de  socio en Soc. Cont. Simplificada o Renta Presunta
+vx_descripcion;Sumatoria por Socio en Soc. con Renta Presunta o Contabilidad Simplificada (según CVC), del porcentaje que le corresponde a él del código [1037] y [187] del F22 del presente AT de la Sociedad.
+vx_vector;1027
+vx_nombre_vector;Ahorro neto posit. Post 01.08.98, AT Anteriores
+vx_descripcion;Sumatoria por informado en F1823 y/o F1888, del Monto de Ahorro Neto Positivo, a partir del 01/08/1998 hasta el AT-1. 
+vx_vector;1028
+vx_nombre_vector;Crédito por Ahorro Neto Positivo, AT Anteriores (Cód. 174)
+vx_descripcion;Sumatoria, por contribuyente, a partir del 01/08/1998 del código [174] hasta el AT-1.
+vx_vector;1031
+vx_nombre_vector;Crédito por inversiones Ley Arica AT Anterior
+vx_descripcion;Corresponde al código [390] declarado en el AT anterior, actualizado por P207.
+vx_vector;1032
+vx_nombre_vector;Crédito por inversiones Ley Austral AT Anterior
+vx_descripcion;Corresponde al código [742] declarado en el AT anterior, actualizado por P207.
+vx_vector;1033
+vx_nombre_vector;Rebaja al Impto. 1a Cat. AT Anterior
+vx_descripcion;Código [19] del AT Anterior, actualizado por P207.
+vx_vector;1034
+vx_nombre_vector;Crédito por contribuciones de bienes raíces, AT Anterior
+vx_descripcion;Código [365] del AT Anterior, actualizado por P207.
+vx_vector;1035
+vx_nombre_vector;Contribuciones Pagadas (Propietario), bien raíz NO agrícola, AT Anterior
+vx_descripcion;Corresponde al Vx010385 del AT-1
+vx_vector;1038
+vx_nombre_vector;Porc. socio de Retiro con cargo a Utilidades Tributables exentas traspasado por Soc. Rta. Presunta 
+vx_descripcion;Sumatoria por RUT Informado por Sociedades con Renta Presunta, de los Retiros con cargo a Utilidades Tributables Exentas del Impuesto Global Complementario, informado para las Sociedades con Renta Presunta, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC. 
+vx_vector;1041
+vx_nombre_vector;Porc. Socio Retiro Afecto traspasados por Soc. con renta presunta
+vx_descripcion;Sumatoria por RUT Informado, por Sociedades con renta presunta en CVC, de Retiros Afectos informado para las Sociedades con renta presunta en el F1822, multiplicado por el porcentaje de Participación de Utilidades del Rut Informado en CVC.
+vx_vector;1044
+vx_nombre_vector;Ventas de Embarcaciones Marítimas
+vx_descripcion;Sumatoria, por Rut Enajenante, del Monto de la transacción (Venta). 
+vx_vector;1045
+vx_nombre_vector;Ventas de Aeronaves
+vx_descripcion;Sumatoria, por Rut Enajenante, del Monto de la transacción (Venta).
+vx_vector;1046
+vx_nombre_vector;Ventas de Embarcaciones Marítimas proveniente de los padres e hijos
+vx_descripcion;Suma de las Ventas de Embarcaciones Marítimas proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;1047
+vx_nombre_vector;Ventas de Aeronaves proveniente de los padres e hijos
+vx_descripcion;Suma de las Ventas de Aeronaves proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;1050
+vx_nombre_vector;Contribuciones Pagadas (Usufructuario), bien raíz NO agrícola, AT Anterior
+vx_descripcion;Corresponde al Vx010386 del AT-1
+vx_vector;1051
+vx_nombre_vector;Rabaja Impto. 1ª categoría sobre Rentas presuntas, AT Anterior
+vx_descripcion;Código [188] del AT Anterior.
+vx_vector;1052
+vx_nombre_vector;Contribuciones Pagadas (Propietario), bien raíz Agrícola, AT Anterior.
+vx_descripcion;Corresponde al Vx010103 del AT-1
+vx_vector;1053
+vx_nombre_vector;Contribuciones Pagadas (Usufructuario), bien raíz Agrícola, AT Anterior
+vx_descripcion;Corresponde al Vx010137 del AT-1
+vx_vector;1054
+vx_nombre_vector;Base Imponible 1ª Cat. sobre Rentas presuntas, AT Anterior
+vx_descripcion;Código [187] del AT Anterior.
+vx_vector;1055
+vx_nombre_vector;Determinación Renta presunta de agricultores
+vx_descripcion;Sumatoria por Rut propietario Bien raíz agrícola del porcentaje de Propiedad y Adquisición.
+vx_vector;1057
+vx_nombre_vector;F63 AT-3 revisada (concurrecia, liberación, rectificada o liquidada o resuelta por unidad)
+vx_descripcion;Si folio AT-3 posee observación F63 principal y su estado es de CONCURRENCIA (C), LIBERACIÓN (L), RECTIFICADA (R), LIQUIDADA O RESUELTA (U) ,toma valor 1.
+vx_vector;1058
+vx_nombre_vector;F63 AT-4 revisada (concurrecia, liberación, rectificada o liquidada o resuelta por unidad)
+vx_descripcion;Si folio AT-4 posee observación F63 principal y su estado es de CONCURRENCIA (C), LIBERACIÓN (L), RECTIFICADA (R), LIQUIDADA O RESUELTA (U), toma valor 1.
+vx_vector;1060
+vx_nombre_vector;Renta Líquida Imponible del AT-3
+vx_descripcion;Código [643] F22 del AT-3  (el valor puede ser negativo). 
+vx_vector;1061
+vx_nombre_vector;Renta Líquida Imponible del AT-4
+vx_descripcion;Código [643] F22 del AT-4  (el valor puede ser negativo). 
+vx_vector;1068
+vx_nombre_vector;Causales de Bloqueo 
+vx_descripcion;Para los períodos comprendidos entre el 01/07/AT-3 al 31/12/AT-1 y que se encuentren vigente a la fecha de generación del vector.
+vx_vector;1070
+vx_nombre_vector;Causales de Bloqueo 
+vx_descripcion;Anotaciones Vigentes a la Fecha de generación del vector. 
+vx_vector;1078
+vx_nombre_vector;Causales de Bloqueo 
+vx_descripcion;Anotaciones Vigentes a la Fecha de generación del vector.
+vx_vector;1081
+vx_nombre_vector;Causales de Bloqueo 
+vx_descripcion;Anotación Vigente a la Fecha de generación del vector.
+vx_vector;1083
+vx_nombre_vector;Contribuyente con atributo AUTORIZADO CONT. SIMPLIFICADA 14 TER Vigente al 31 de diciembre del AT-1
+vx_descripcion;Contribuyente con el atributo AUTORIZADO CONT. SIMPLIFICADA 14 TER (CS14) Vigente al 31 de diciembre del AT-1.
+vx_vector;1084
+vx_nombre_vector;Existencia final declarada en el F22 código [129] Año Tributario Anterior
+vx_descripcion;Si existe monto en el código [129] del F22 del año tributario anterior, el vector toma el valor del código.
+vx_vector;1085
+vx_nombre_vector;F29 Ingresos primera categoría AT anterior
+vx_descripcion;Sumatoria de los códigos [502], [513], [510], [517], [501], [111], [759], [20], [142], [732], [587], [720] y [709] de los F29 vigentes, de Enero a Diciembre de AT-1 de código [15].
+vx_vector;1086
+vx_nombre_vector;Número de sociedades donde es socio
+vx_descripcion;Para el RUT informado, cuenta el número de sociedades donde es socio, cuando el Rut del socio no es igual al Rut de la sociedad.
+vx_vector;1088
+vx_nombre_vector;Ingresos declarado F22 códigos [628], [629], [651] del AT-3
+vx_descripcion;Toma el valor de la suma de los códigos [628], [629], [651] del AT-3
+vx_vector;1089
+vx_nombre_vector;Ingresos declarado F22 códigos [628], [629], [651] del AT-4
+vx_descripcion;Toma el valor de la suma de los códigos [628], [629], [651] del AT-4
+vx_vector;1090
+vx_nombre_vector;Contribuyente acogidos al Ex art. 71  y 42 TER (Exención 800 UTM)
+vx_descripcion;Contribuyentes que en su primer retiro vienen informados con régimen Ex art. 71 .y. Art. 42 TER (Exención 800 UTM).
+vx_vector;1091
+vx_nombre_vector;Contribuyente acogidos al Ex art. 71  y 42 TER (Exención 1200 UTM)
+vx_descripcion;Contribuyentes que en su primer retiro vienen informados con régimen Ex art. 71 .y. Art. 42 TER (Exención 1200 UTM).
+vx_vector;1092
+vx_nombre_vector;Contribuyente acogidos al 42 TER (Exención 800 UTM)
+vx_descripcion;Contribuyentes que en su primer retiro vienen informados con régimen Art. 42 TER (Exención 800 UTM).
+vx_vector;1093
+vx_nombre_vector;Contribuyente acogidos al 42 TER (Exención 1200 UTM)
+vx_descripcion;Contribuyentes que en su primer retiro vienen informados con régimen Art. 42 TER (Exención 1200 UTM).
+vx_vector;1094
+vx_nombre_vector;Contribuyente acogidos al Ex art. 71 DL N° 3.500
+vx_descripcion;Contribuyentes que en su primer retiro vienen informados con régimen Ex. Art.  71 D.L. N° 3.500.
+vx_vector;1095
+vx_nombre_vector;Monto Total del Retiro de Excedente de libre disposición 
+vx_descripcion;Sumatoria del monto total del Retiro de Excedente de libre disposición. 
+vx_vector;1096
+vx_nombre_vector;Monto de Imputación del Retiro de Excedente de Libre Disposición enterados antes del 7/11/2001 por Fondos originados por depósitos convenidos. 
+vx_descripcion;Sumatoria de todos los Retiros de Excedentes de libre disposición enterados antes del 7/11/2001 por Fondos originados por depósitos convenidos. ( C7)
+vx_vector;1097
+vx_nombre_vector;Monto de Imputación del Retiro de Excedente de Libre Disposición enterados antes del 7/11/2001 por Fondos originados por cotizaciones obligatorias.
+vx_descripcion;Sumatoria de todos los Retiros de Excedentes de libre disposición enterados antes del 7/11/2001 por Fondos originados por cotizaciones obligatorias. (C2)
+vx_vector;1098
+vx_nombre_vector;Monto de Imputación del Retiro de Excedente de Libre Disposición enterados antes del 7/11/2001 por Fondos originados por cotizaciones voluntarias
+vx_descripcion;Sumatoria de todos los Retiros de Excedentes de libre disposición enterados antes del 7/11/2001 por Fondos originados por cotizaciones voluntarias. 
+vx_vector;1099
+vx_nombre_vector;Monto de Imputación del Retiro de Excedente de Libre Disposición enterados entre el 07/11/2001 y el 31/12/2010 por Fondos originados por depósitos convenidos
+vx_descripcion;Sumatoria de todos los Retiros de Excedentes de libre disposición enterados  entre el 07/11/2001 y el 31/12/2010 por Fondos originados por depósitos convenidos.
+vx_vector;1100
+vx_nombre_vector;Monto de Imputación del Retiro de Excedente de Libre Disposición enterados a contar del 7/11/2001 por Fondos originados por cotizaciones obligatorias.
+vx_descripcion;Sumatoria de todos los Retiros de Excedentes de libre disposición enterados a contar del 7/11/2001 por Fondos originados por cotizaciones obligatorias. (C4)
+vx_vector;1103
+vx_nombre_vector;F1895 Imputación del retiro de excedentes de libre disposición enterados antes del 7/11/2001 por fondos originados por cotizaciones obligatorias del AT anterior
+vx_descripcion;Sumatoria de todos los retiros de excedentes de libre disposición enterados antes del 7/11/2001 por fondos originados por cotizaciones obligatorias de todos los F1895 donde el contribuyente venga informado en el AT anterior.
+vx_vector;1104
+vx_nombre_vector;F1895 Imputación del retiro de excedentes de libre disposición enterados a contar del 7/11/2001 por fondos originados por cotizaciones obligatorias del AT anterior
+vx_descripcion;Sumatoria de todos los retiros de excedentes de libre disposición enterados a contar del 7/11/2001 por fondos originados por cotizaciones obligatorias de todos los F1895 donde el contribuyente venga informado en el AT anterior.
+vx_vector;1105
+vx_nombre_vector;Monto de Imputación del Retiro de Excedente de Libre Disposición por Fondos con antigüedad igual o superior a 48 meses del AT Anterior.
+vx_descripcion;Sumatoria de todos los Retiros de Excedentes de libre disposición por Fondos originados por cotizaciones obligatorias y los fondos con antigüedad igual o superior a 48 meses de todos los F1895 donde el Contribuyente venga informado en el AT Anterior.
+vx_vector;1106
+vx_nombre_vector;Monto de Imputación del Retiro Histórico de Excedente de Libre Disposición enterados antes del 7/11/2001 por Fondos originados por cotizaciones obligatorias.
+vx_descripcion;Sumatoria de todos los Retiros de Excedentes de libre disposición enterados antes del 7/11/2001 por Fondos originados por cotizaciones obligatorias de todos los F1895 donde el Contribuyente venga informado EXCLUYENDO los del AT Actual.
+vx_vector;1107
+vx_nombre_vector;Monto de Imputación del Retiro Histórico de Excedente de Libre Disposición enterados a contar del 7/11/2001 por Fondos originados por cotizaciones obligatorias 
+vx_descripcion;Sumatoria de todos los Retiros de Excedentes de libre disposición enterados a contar del 7/11/2001 por Fondos originados por cotizaciones obligatorias de todos los F1895 donde el Contribuyente venga informado EXCLUYENDO los del AT Actual.
+vx_vector;1108
+vx_nombre_vector;Monto de Imputación del Retiro Histórico de Excedente de Libre Disposición por Fondos con antigüedad igual o superior a 48 meses.
+vx_descripcion;Sumatoria de todos los Retiros de Excedentes de libre disposición por Fondos originados por cotizaciones obligatorias y los fondos con antigüedad igual o superior a 48 meses de todos los F1895 donde el Contribuyente venga informado EXCLUYENDO los del AT Actual.
+vx_vector;1109
+vx_nombre_vector;Monto de Imputación del Retiro Histórico de Excedente de Libre Disposición enterados antes del 7/11/2001 por Fondos originados por cotizaciones obligatorias (sin AT anterior).
+vx_descripcion;Sumatoria de todos los Retiros de Excedentes de libre disposición enterados antes del 7/11/2001 por Fondos originados por cotizaciones obligatorias de todos los F1895 donde el Contribuyente venga informado EXCLUYENDO los del AT Actual y los del AT anterior.
+vx_vector;1110
+vx_nombre_vector;Monto de Imputación del Retiro Histórico de Excedente de Libre Disposición enterados a contar del 7/11/2001 por Fondos originados por cotizaciones obligatorias (sin AT anterior).
+vx_descripcion;Sumatoria de todos los Retiros de Excedentes de libre disposición enterados a contar del 7/11/2001 por Fondos originados por cotizaciones obligatorias de todos los F1895 donde el Contribuyente venga informado EXCLUYENDO los del AT Actual y los del AT anterior.
+vx_vector;1111
+vx_nombre_vector;Monto de Imputación del Retiro histórico de Excedente de Libre Disposición por Fondos con antigüedad igual o superior a 48 meses (sin AT anterior).
+vx_descripcion;Sumatoria de todos los Retiros de Excedentes de libre disposición por Fondos originados por cotizaciones obligatorias y los fondos con antigüedad igual o superior a 48 meses de todos los F1895 donde el Contribuyente venga informado EXCLUYENDO los del AT Actual y los del AT anterior.
+vx_vector;1112
+vx_nombre_vector;Contribuyente con Regimen de Tributación que no corresponde.
+vx_descripcion;Contribuyentes que en su primer retiro vienen mal informados en F1895.
+vx_vector;1113
+vx_nombre_vector;Nómina de Segmento Grandes y Medianas Empresas (excluyendo DGC).
+vx_descripcion;Si RUT se encuentra en Nómina, el vector toma valor 1.
+vx_vector;1116
+vx_nombre_vector;Monto de Imputación del Retiro de Excedentes de Libre Disposición por Fondos con antigüedad inferior a 48 meses originados por Depósitos de Ahorro Previsional Voluntario y Ahorro Previsional Voluntario Colectivo
+vx_descripcion;Sumatoria de todos los retiros de excedentes de libre disposición por fondos originados por depósitos de ahorro previsional voluntario o depósitos de ahorro previsional voluntario colectivo con antigüedad inferior a 48 meses desde la det. del ELD.
+vx_vector;1117
+vx_nombre_vector;F1895 Imputación del retiro de ELD por fondos con antigüedad inferior a 48 meses originados por depósitos de ahorro previsional voluntario y ahorro previsional voluntario colectivo del AT anterior
+vx_descripcion;Sumatoria de todos los retiros de excedentes de libre disposición por fondos originados por depósitos de ahorro previsional voluntario o ahorro previsional voluntario colectivo con antigüedad inferior a 48 meses desde la det. del ELD de todos los F1895 donde el contribuyente venga informado en el AT Anterior.
+vx_vector;1118
+vx_nombre_vector;Monto Total del Retiro de Excedente de libre disposición del AT-1
+vx_descripcion;Sumatoria del monto total del Retiro de Excedente de libre disposición de todos los F1895 donde el Contribuyente venga informado en el AT Anterior. 
+vx_vector;1119
+vx_nombre_vector;Contribuyentes acogidos al régimen de contabilidad simplificada 14 ter, con actividades en la Primera Categoría
+vx_descripcion;Identifica al contribuyente que ingresó al régimen de contabilidad simplificada del art. 14 ter de la LIR, durante el periodo 01.01 y 30.04 del año tributario en curso y ya declaraba contabilidad en la 1° Categoría. 
+vx_vector;1120
+vx_nombre_vector;Actividad de Sociedades de Inversion y Rentistas de Capitales Mobiliarios en General
+vx_descripcion;Código de Actividad Ecónomica para actividad de Intermediación Financiera (ITEM).
+vx_vector;1121
+vx_nombre_vector;Porcentaje del socio por contribuciones pagadas (propietario) de bien raíz agrícola, AT anterior, de sociedades con renta presunta en las cuales participa
+vx_descripcion;Sumatoria, por socio de sociedades con renta presunta, del porcentaje de propiedad y adquisición correspondiente, del monto de impuesto territorial pagado actualizado, menos las contribuciones de las propiedades cedidas en usufructo informado para la sociedad en el F1897 del AT-1, multiplicado por el porcentaje de participación de utilidades del Rut informado en CVC.
+vx_vector;1122
+vx_nombre_vector;Porcentaje del socio por contribuciones pagadas (usufructuario) de bien raíz agrícola, AT anterior, de sociedades con renta presunta en las cuales participa
+vx_descripcion;Sumatoria, por socio de sociedades con renta presunta, de las contribuciones pagadas (usufructuario) del bien raíz agrícola, informado para la sociedad en el F1897 del AT-1, multiplicado por el porcentaje de participación de utilidades del Rut informado en CVC.
+vx_vector;1123
+vx_nombre_vector;Porción del socio, del Crédito por contribuciones de bienes raíces declaradas en F22, AT Anterior, por sociedades que tributen con Renta Presunta.
+vx_descripcion;Sumatoria, por Socio de Sociedades con Renta Presunta, de la proporción del Código [365] del F22 del AT Anterior declarado por la Sociedad.
+vx_vector;1124
+vx_nombre_vector;Porción del socio, de la Rebaja Impto. 1ª categoría sobre Rentas presuntas, declaradas en F22 AT Anterior, por sociedades que tributen con Renta Presunta.
+vx_descripcion;Sumatoria, por Socio de Sociedades con Renta Presunta, de la proporción del Código [188] del F22 del AT Anterior declarado por la Sociedad.
+vx_vector;1125
+vx_nombre_vector;Participación en Soc. Renta Presunta AT-1
+vx_descripcion;Sumatoria, por Socio de Sociedades con Renta Presunta, de la proporción del Código [187] del F22 del AT Anterior declarado por la Sociedad.
+vx_vector;1126
+vx_nombre_vector;Participación en Soc. Cont. Simplificada AT-1
+vx_descripcion;Sumatoria por Socio, de Sociedades con Contabilidad Simplificada, del porcentaje que le corresponde al socio del código [1037] del F22 del AT anterior de la Sociedad.
+vx_vector;1127
+vx_nombre_vector;A-99 AT-1 revisada (concurrecia, liberación, rectificada o liquidada o resuelta por unidad)
+vx_descripcion;Si folio AT-1 posee observación A-99 principal y su estado es de CONCURRENCIA (C), LIBERACIÓN (L), RECTIFICADA (R), LIQUIDADA O RESUELTA (U),toma valor 1.
+vx_vector;1128
+vx_nombre_vector;Reajuste Art. 72  AT Anterior (Cód. 39)
+vx_descripcion;Valor de código [39] del AT Anterior.
+vx_vector;1129
+vx_nombre_vector;Reaj. Art. 72  AT Anterior (Cód. 39) por Participación en Soc. Renta Presunta
+vx_descripcion;Sumatoria por Socio, de Sociedades con Renta Presunta, del porcentaje que le corresponde del código [39] del F22 del AT-1 de la Sociedad.
+vx_vector;1130
+vx_nombre_vector;Nómina S07 Departamento de Medianas y Grandes Empresas e Internacional       
+vx_descripcion;Indica el Rut del contribuyente que se encuentra en la nómina entrega por el Departamento de Medianas y Grandes Empresas e Internacional.
+vx_vector;1131
+vx_nombre_vector;F1895 Imputación del retiro de excedentes de libre disposición enterados entre el 7/11/2001 y el 31/12/2010 por fondos originados por depósitos convenidos del AT anterior
+vx_descripcion;Sumatoria de todos los retiros de excedentes de libre disposición enterados entre el 7/11/2001 y el 31/12/2010 por fondos originados por depósitos convenidos informados el AT anterior.
+vx_vector;1134
+vx_nombre_vector;Contribuyentes con actividad económica construcción.
+vx_descripcion;Contribuyentes que su Código de Actividad Económica  es relacionada con la construcción (410010 .o. 439000 .o. 433000 .o. 4100120  .o. 422000 .o.  429000).
+vx_vector;1135
+vx_nombre_vector;Actividad económica Transporte de Pasajeros.
+vx_descripcion;Contribuyentes que su Código de Actividad Económica  es de Transporte de Pasajeros (492120 .o. 492250 .o. 492130 .o. 492210 .o. 492220 .o. 492290 .o. 492190 .o. 492230 .o. 492240).
+vx_vector;1136
+vx_nombre_vector;Crédito Peajes.
+vx_descripcion;Código [591] declarado en período Diciembre AT-1.
+vx_vector;1139
+vx_nombre_vector;Participación en contribuciones pagadas (propietario) de bien raíz no agrícola de sociedades con contabilidad simplificada o renta presunta
+vx_descripcion;Sumatoria de contribuciones pagadas (propietario) de bien raíz no agrícola y que no es DFL2, por socio de sociedades con contabilidad simplificada o renta presunta.
+vx_vector;1140
+vx_nombre_vector;Participación en Contribuciones Pagadas (Propietario), bien raíz NO agrícola de Soc. con Contab. Simpl. y Renta Presunta, padre e hijo
+vx_descripcion;Sumatoria de contribuciones Pagadas (Propietario), bien raíz NO agrícola por Socio de Sociedades con Contabilidad Simplificada y Sociedades con Renta Presunta proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;1141
+vx_nombre_vector;Contribuciones pagadas (Propietario) de bien raíz NO agrícola de padres e hijos
+vx_descripcion;Sumatoria por Rut propietario Bien raíz NO agrícola y que NO es DFL2, según Avaluaciones, del porcentaje de Propiedad y Adquisición correspondiente del Monto Impuesto Territorial Pagado Actualizado, menos las contribuciones de las propiedades entregadas en usufructo a través del F1897, proveniente de padres e hijos.
+vx_vector;1142
+vx_nombre_vector;Contribuciones pagadas (Usufructuario) de bien raíz NO agrícola de padre e hijo
+vx_descripcion;Suma de monto de Contribuciones pagadas actualizadas, en calidad de Usufructuario de Bienes Raíces NO Agricolas proveniente del padre e hijos menores de edad.
+vx_vector;1143
+vx_nombre_vector;Contribuciones pagadas en calidad de propietario de Bienes Raíces Agrícolas de padre e hijo
+vx_descripcion;Suma de monto de Contribuciones pagadas actualizadas, en calidad de Propietario de Bienes Raíces Agricolas proveniente del padre e hijos menores de edad.
+vx_vector;1144
+vx_nombre_vector;Nómina especial Selectiva S02
+vx_descripcion;Si se encuentra en Nómina toma valor 1
+vx_vector;1145
+vx_nombre_vector;Contribuciones pagadas (Usufructuario) de bien raíz agrícola de padre e hijo
+vx_descripcion;Suma de monto de Contribuciones pagadas actualizadas, en calidad de Usufructuario de Bienes Raíces Agricolas proveniente del padre e hijos menores de edad.
+vx_vector;1146
+vx_nombre_vector;Crédito utilizado por concepto Donaciones Universitarias en AT-1
+vx_descripcion;Crédito utilizado por concepto Donaciones Universitarias  en AT-1
+vx_vector;1147
+vx_nombre_vector;Número trabajadores informados
+vx_descripcion;Contar, por Declarante, el número de casos informados en F1887, en el recuadro “Datos de los Informados” (sección B). 
+vx_vector;1148
+vx_nombre_vector;F1812 Rebaja por concepto de APV acogido al inciso segundo del Art. 42 bis de la LIR y/u otras rebajas a la base imponible (DDJJ no observadas)
+vx_descripcion;Sumatoria, por informado, de la rebaja por concepto de APV acogido al inciso segundo del Art. 42 bis de la LIR y/u otras rebajas a la base imponible.
+vx_vector;1149
+vx_nombre_vector;Ahorro del Trabajador acogido al inciso primero del Art.42 bis de la LIR en UF, modalidad directa vía trabajador, en Pesos ($).
+vx_descripcion;Sumatoria por Rut Trabajador de Cotizaciones y Depósitos de Ahorro Voluntario, via directa trabajador dependiente, proveniente de APVC acogido al inciso primero. 
+vx_vector;1150
+vx_nombre_vector;Ahorro del Trabajador acogido al inciso primero del Art.42 bis de la LIR en UF, modalidad indirecta vía empleador, en Pesos ($).
+vx_descripcion;Sumatoria por Rut Trabajador de Cotizaciones y Depósitos de Ahorro Voluntario, indirecta via empleador, proveniente de APVC acogido al inciso primero. 
+vx_vector;1151
+vx_nombre_vector;Monto del retiro proveniente de Ahorros Acogidos a Beneficio Tributario del inciso segundo del Art. 42 bis de la L.I.R.
+vx_descripcion;Sumatoria por Rut Trabajador del Monto de los Retiros efectuados con cargo a los ahorros previsionales voluntarios del inciso segundo del 42 bis (C18) 
+vx_vector;1152
+vx_nombre_vector;Aporte del Empleador
+vx_descripcion;Sumatoria por Rut Empleador de los aportes efectuados a trabajadores (C7).
+vx_vector;1153
+vx_nombre_vector;Traspaso Empleador
+vx_descripcion;Sumatoria por Rut Empleador de los traspasos  efectuados a trabajadores respecto de los aportes realizados. 
+vx_vector;1154
+vx_nombre_vector;Retiro Empleador
+vx_descripcion;Sumatoria por Rut Empleador de los retiros efectuados con cargo a las cuentas de aportes que no han sido traspasadas al trabajador (C9).
+vx_vector;1155
+vx_nombre_vector;Monto Retención 15%
+vx_descripcion;Sumatoria por Rut Empleador de la Retención de impuesto de 15% practicada sobre los retiros efectuados con cargo a los aportes de ahorros previsionales voluntarios colectivos. (C10)
+vx_vector;1156
+vx_nombre_vector;F1899 APV realizado en forma indirecta vía empleador proveniente de sociedades donde participa o de su giro como empresario individual
+vx_descripcion;Sumatoria, por Informado afiliado o pensionado que realice DAPV, sólo para Formularios 1899 en que el Rut del informado afiliado o pensionado sea igual al Rut del empleador (empresario individual), o bien, este último, sea una sociedad a la que pertenece el informado (según CVC).
+vx_vector;1157
+vx_nombre_vector;Ahorro del trabajador proveniente de aportes del empleador
+vx_descripcion;Sumatoria por Rut Trabajador afiliado o pensionado (Rut 2) de los aportes efectuados por el (los) empleador (es)
+vx_vector;1158
+vx_nombre_vector;Ahorros Previsionales Voluntarios acogidos al inciso segundo del Art. 42 bis.
+vx_descripcion;Sumatoria por Rut Informado del Monto de Ahorro Previsional Voluntario Colectivo (parte ahorro trabajador), Depósito de Ahorro Previsonal Voluntario y Cotizaciones Voluntarias acogidos al inciso segundo del 42 bis (C4+C5+C6). 
+vx_vector;1159
+vx_nombre_vector;Saldo FUT de las Sociedades en las que participa
+vx_descripcion;Sumatoria, por SOCIO, del saldo FUT de las Sociedades de Responsabilidad Limitada o EIRL en las que participa.
+vx_vector;1164
+vx_nombre_vector;Costo del Proyecto Deportivo
+vx_descripcion;Costo del Proyecto informado en DEPORTIVOS.DAT, siempre que el Identificador del Proyecto (DEPORTIVOS.DAT) corresponda al Código Proyecto (PROYAPROBADO.DAT .o. PROYECTO.DAT *).
+vx_vector;1165
+vx_nombre_vector;Destino Donaciones con Fines Deportivos
+vx_descripcion;Destino de la Donación informado en DEPORTIVOS.DAT, siempre que el Identificador del Proyecto (DEPORTIVOS.DAT) corresponda al Código Proyecto (PROYAPROBADO.DAT .o. PROYECTO.DAT*).
+vx_vector;1166
+vx_nombre_vector;Proyectos Deportivos
+vx_descripcion;Número de proyectos por donante.
+vx_vector;1167
+vx_nombre_vector;Monto de Contratos I+D Certificados
+vx_descripcion;Monto de gasto anual incurrido (Columna 26) por contratos de I+D certificados por CORFO (Columna 24 = X), Ley 20.241/2008.
+vx_vector;1168
+vx_nombre_vector;Crédito por Inversiones en Investigación y Desarrollo AT Anterior
+vx_descripcion;Corresponde al código [855] declarado en el AT Anterior.
+vx_vector;1169
+vx_nombre_vector;Crédito utilizado por bienes fisicos del activo inmovilizado del ejercicio en AT-1
+vx_descripcion;Crédito utilizado por bienes fisicos del activo inmovilizado del ejercicio en AT-1
+vx_vector;1170
+vx_nombre_vector;Facturas Activo Fijo (Cód. 525)
+vx_descripcion;Sumatoria de los códigos [525] de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;1178
+vx_nombre_vector;G47 AT-3 revisada (concurrecia, liberación, rectificada o liquidada o resuelta por unidad)
+vx_descripcion;Si folio AT-3 posee observación G47 y su estado es CONCURRENCIA ®, LIBERACIÓN (L), RECTIFICA®(R), LIQUIDADA O RESUELTA (U), toma valor 1.
+vx_vector;1179
+vx_nombre_vector;S05 AT-1 revisada (concurrecia, liberación, rectificada o liquidada o resuelta por unidad)
+vx_descripcion;Si folio AT-1 posee observación S05 y su estado es CONCURR®IA (C), LIBERACIÓN (L), REC®ICADA (R), LIQUIDADA O RESUELTA (U), toma valor 1.
+vx_vector;1180
+vx_nombre_vector;S05 AT-2 revisada (concurrecia, liberación, rectificada o liquidada o resuelta por unidad)
+vx_descripcion;Si folio AT-2 posee observación S05 y su estado es C®URRENCIA (C), LIBERACIÓN (L), RECTIFICADA (R), LIQUIDADA O RESUELTA (U), toma valor 1.
+vx_vector;1181
+vx_nombre_vector;S05 AT-3 revisada (concurrecia, liberación, rectificada o liquidada o resuelta por unidad)
+vx_descripcion;Si folio AT-3 posee observación S05 y su estado e®ONCURRENCIA (C), LIBERACIÓN®), RECTIFICADA (R), LIQUIDADA O RESUELTA (U), toma valor 1.
+vx_vector;1182
+vx_nombre_vector;F65 AT-1 revisada (concurrecia, liberación, rectificada o liquidada o resuelta por unidad)
+vx_descripcion;Si folio AT-1 posee observación F65 y su es®o es CONCURRENCIA (C), LIBE®IÓN (L), RECTIFICADA (R), LIQUIDADA O RESUELTA (U), toma valor 1.
+vx_vector;1183
+vx_nombre_vector;F65 AT-2 revisada (concurrecia, liberación, rectificada o liquidada o resuelta por unidad)
+vx_descripcion;Si folio AT-2 posee observación F65 y® estado es CONCURRENCIA (C)®IBERACIÓN (L), RECTIFICADA (R), LIQUIDADA O RESUELTA (U), toma valor 1.
+vx_vector;1184
+vx_nombre_vector;F65 AT-3 revisada (concurrecia, liberación, rectificada o liquidada o resuelta por unidad)
+vx_descripcion;Si folio AT-3 posee observación®5 y su estado es CONCURRENC®(C), LIBERACIÓN (L), RECTIFICADA (R), LIQUIDADA O RESUELTA (U), toma valor 1.
+vx_vector;1185
+vx_nombre_vector;S04 AT-1 revisada (concurrecia, liberación, rectificada o liquidada o resuelta por unidad)
+vx_descripcion;Si folio AT-1 posee obser®ión S04 y su estado es CONC®ENCIA (C), LIBERACIÓN (L), RECTIFICADA (R), LIQUIDADA O RESUELTA (U), toma valor 1.
+vx_vector;1186
+vx_nombre_vector;S04 AT-2 revisada (concurrecia, liberación, rectificada o liquidada o resuelta por unidad)
+vx_descripcion;Si folio AT-2 posee®servación S04 y su estado e®ONCURRENCIA (C), LIBERACIÓN (L), RECTIFICADA (R), LIQUIDADA O RESUELTA (U), toma valor 1.
+vx_vector;1187
+vx_nombre_vector;S04 AT-3 revisada (concurrecia, liberación, rectificada o liquidada o resuelta por unidad)
+vx_descripcion;Si folio AT-3®see observación S04 y su es®o es CONCURRENCIA (C), LIBERACIÓN (L), RECTIFICADA (R), LIQUIDADA O RESUELTA (U), toma valor 1.
+vx_vector;1188
+vx_nombre_vector;Nómina “ Retención N+1 AT2009”
+vx_descripcion;Nóminas de contribuyentes a lo cuales se les efectuarán retenciones a sus devoluciones solicitidas. Dicha nómina será entregada por Fiscalización para  el proceso N+1 del AT2009. 
+vx_vector;1189
+vx_nombre_vector;Contribuyente no declarante de FUT ni datos contables de balance
+vx_descripcion;Toma Valor 1 si no presenta información en el recuadro de FUT ni en el Recuadro N° 3 de datos contables de balance.
+vx_vector;1190
+vx_nombre_vector;Ahorro Previsional Voluntario, aporte empleador en Pesos ($)
+vx_descripcion;Sumatoria por Rut Trabajador del monto de Ahorro Previsional Voluntario Colectivo, como aportes empleador, en PESOS (P87). 
+vx_vector;1191
+vx_nombre_vector;Contribuyentes acogidos a régimen de tributación simplificada.
+vx_descripcion;Si RUT posee Anotación 73 vigente en el momento de generación del vector, entonces vector toma valor 1.
+vx_vector;1192
+vx_nombre_vector;Total Débitos declarados en Formulario 29
+vx_descripcion;Sumatoria de los F29 vigentes de los Montos de “Total Débitos” código [538] de Enero a Diciembre de AT Anterior por código [15]. 
+vx_vector;1193
+vx_nombre_vector;Total Créditos informados en Formulario 29
+vx_descripcion;Sumatoria de los F29 vigentes de los Montos de “Total Créditos” código [537] de Enero a Diciembre de AT Anterior por  código [15]. 
+vx_vector;1195
+vx_nombre_vector;Ingresos de Primera Categoría provenientes del Formulario 29
+vx_descripcion;Sumatoria de los códigos [20], [142], [587], [720], [529], [108], [502], [111], [759], [112], [513], [510], [709], [517], [501] de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;1196
+vx_nombre_vector;Informado en nómina de eventos de capital DCV 
+vx_descripcion;Sumatoria por persona de Retención 4% del artículo 74 N°7. 
+vx_vector;1197
+vx_nombre_vector;Número de Donatarios informados en nómina Fines Sociales
+vx_descripcion;El vector deberá entregar por donante el número de donatarios o instituciones receptoras de la donación, informados según nómina (DON_SOC.DAT).  
+vx_vector;1198
+vx_nombre_vector;Gasto de Capacitación según F29 [721] descontado el Crédito del Mes sin remanente de Diciembre [724] con Proporcionalid de Giros No Pagados
+vx_descripcion;Sumatoria de los F29 vigentes de los Montos de “Créditos del Mes” por concepto de capacitación, código [721] de Enero a Diciembre de AT Anterior de código [15], menos el Monto del código [724] “Remanente período siguiente” por concepto de capacitación sólo del período tributario Diciembre de AT Anterior de código [15].
+vx_vector;1199
+vx_nombre_vector;Total casos informados en F1887 en abril del AC-1
+vx_descripcion;Por Declarante de F1887 contabilizar la cantidad informados que posee “P” o “C” por Rut declarante el mes de abril del AC-1. (No interesa distinguir entre P y C, sólo contar)
+vx_vector;1200
+vx_nombre_vector;Total casos informados en F1887 a contar de julio a diciembre del AC-1
+vx_descripcion;Por Declarante de F1887 contabilizar la cantidad informados que posee “P” o “C” por Rut declarante los meses de julio a diciembre del AT-1. (No interesa distinguir entre P y C, sólo contar) y luego dividir ese monto por los períodos informados, considerando si alguno de los períodos de Julio a Diciembre está en blanco, asignar valor cero.
+vx_vector;1201
+vx_nombre_vector;Contribuyente de Primera Categoría sin Término de Giro.
+vx_descripcion;Identifica a los contribuyentes (Personas Naturales y Personas Jurídicas) con Actividad Económica Vigente en la Primera Categoría, vale decir, con Inicio de Actividades y sin Término de Giro (Anotación 37 .o. 50 .o. 5001 .o. 60).
+vx_vector;1205
+vx_nombre_vector;Contribuyentes Transportistas terrestre de pasajeros y carga por carretera con  Renta Líquida imponible menor 10 UTA.
+vx_descripcion;Identifica a los contribuyentes Transportistas terrestre de pasajeros y carga por carretera que tienen Renta Líquida imponible menor 10 UTA
+vx_vector;1210
+vx_nombre_vector;Marca que identifica a contribuyentes No declarante capital propio Tributario (Sin modificación Legal).
+vx_descripcion;Identifica a contribuyentes No declarante capital propio tributario
+vx_vector;1211
+vx_nombre_vector;Base imponible del Contribuyente para efectos del pago de patente municipal calculado utilizando Capital Propio Tributario [645] y [646] ambos del F22.
+vx_descripcion;Base Imponible para cálculo de Patente Municipal calculada a partir del Capital Propio Tributario [645] y [646] ambos del F22.
+vx_vector;1212
+vx_nombre_vector;Contribuyentes Sociedades de Profesionales, para efectos municipales.
+vx_descripcion;Identifica a los contribuyentes que son Sociedades de Profesionales, que tributan en la primera categoría para efectos.
+vx_vector;1213
+vx_nombre_vector;Contribuyente acogido al Régimen General
+vx_descripcion;Identifica a los contribuyentes que son de Régimen General. 
+vx_vector;1214
+vx_nombre_vector;Contribuyentes Talleres Artesanales, Pescadores Artesanales, Agricultores y de Contabilidad Simplificada.
+vx_descripcion;Identifica a los contribuyentes que son Talleres Artesanales, Pescadores Artesanales, Agricultores y de Contabilidad Simplificada.
+vx_vector;1215
+vx_nombre_vector;Contribuyentes 1° Categoría que no declaran F22 en el AT en curso
+vx_descripcion;Identifica a los contribuyentes que no declaran F22 el año tributario en curso, que tienen actividades en la primera categoría, y que han realizado inicio de actividades con anterioridad al 01.01.2010
+vx_vector;1217
+vx_nombre_vector;Contribuyentes Sociedades de Profesionales sin declaración de F22 en el AT en curso a la fecha de generación del vector.
+vx_descripcion;Identifica a los contribuyentes sin declaración a la fecha de F22 el año tributario en curso, que son sociedades de profesionales, y que han realizado inicio de actividades con anterioridad al 01.01.2010
+vx_vector;1218
+vx_nombre_vector;Contribuyente con atributo AUTORIZADO CONT. SIMPLIFICADA 14 TER o AUTORIZADO CONT. SIMPLIFICADA 14 TER MIPYME Vigente al 31 de diciembre del AT-1
+vx_descripcion;Contribuyente con el atributo AUTORIZADO CONT. SIMPLIFICADA 14 TER (CS14) o AUTORIZADO CONT. SIMPLIFICADA 14 TER MIPYME (CSMP) Vigente al 31 de diciembre del AT-1.
+vx_vector;1224
+vx_nombre_vector;Donaciones FNR Impuesto Global Complementario en dinero al fondo
+vx_descripcion;Monto por Donante de Donaciones efectuadas al Fondo Nacional de Reconstrucción, efectuadas por contribuyentes Impuesto Global Complementario dinero. (Art. 5 Inciso Segundo Ley 20.444).
+vx_vector;1225
+vx_nombre_vector;Donaciones FNR Impuesto Global Complementario en dinero, Obras Específicas.
+vx_descripcion;Monto por Donante de Donaciones efectuadas al Fondo Nacional de Reconstrucción, a Obras Específicas, efectuadas por contribuyentes Impuesto Global Complementario dinero. (Art. 9 N°2 Ley 20.444).
+vx_vector;1227
+vx_nombre_vector;Contribuyente Donantes de donaciones sociales
+vx_descripcion;Identifica al contribuyente que realiza donaciones para fines sociales. 
+vx_vector;1228
+vx_nombre_vector;F1828 Monto donaciones sociales con destino no rehabilitación
+vx_descripcion;Sumatoria, por informado, del monto total de la donación, cuando el tipo de donación es social y el destino del proyecto NO es para fines de rehabilitación.
+vx_vector;1229
+vx_nombre_vector;Contribuyente Donantes relacionado con donatario
+vx_descripcion;Si el donante tiene relación con el donatario y es informado como tal por el donatario marcando X en la columna “Relación Donante Donatario”
+vx_vector;1230
+vx_nombre_vector;Contribuyente Candidato a elección popular
+vx_descripcion;Si el donante es candidato a elección popular y es informado como tal por el donatario marcando X en la columna “Relación Donante Donatario”
+vx_vector;1231
+vx_nombre_vector;FNR Impuesto Global Complementario en moneda extranjera al fondo
+vx_descripcion;Monto por Donante de Donaciones efectuadas al Fondo Nacional de Reconstrucción, efectuadas por contribuyentes Impuesto Global Complementario en moneda extranjera (Art. 5 Inciso Segundo Ley 20.444).
+vx_vector;1232
+vx_nombre_vector;Donaciones FNR Impuesto Global Complementario en moneda extranjera, Obras Específicas.
+vx_descripcion;Monto por Donante de Donaciones efectuadas al Fondo Nacional de Reconstrucción, a Obras Específicas, efectuadas por contribuyentes Impuesto Global Complementario en moneda extranjera. (Art. 9 N°2 Ley 20.444).
+vx_vector;1234
+vx_nombre_vector;Ingresos totales del giro AT
+vx_descripcion;Máximo valor entre los ingresos declarados en el código [628] del F22 AT en curso y la sumatoria de los códigos [20], [142], [517], [720], [587], [502], [111], [513], [510], [709], [732] y [501] de los F29 vigentes, de Enero a Diciembre de AT Anterior de código [15].
+vx_vector;1235
+vx_nombre_vector;Ingresos totales del giro AT de los relacionados
+vx_descripcion;Por cada empresa relacionada (identificada a través del vector Vx011341), determina y suma el maximo valor entre los ingresos declarados en el código [628] del F22 del AT en curso y la sumatoria de los códigos [20], [142], [517], [720], [587], [502], [111], [759], [513], [510], [709], [732] y [501] de los F29 vigentes, de Enero a Diciembre de AT anterior de código [15].
+vx_vector;1237
+vx_nombre_vector;Donaciones FNR 1° Cat. en dinero al fondo
+vx_descripcion;Monto por Donante de Donaciones efectuadas al Fondo Nacional de Reconstrucción, efectuadas por contribuyentes de primera categoría en dinero y con fines generales. (Art. 4 Ley 20.444).
+vx_vector;1238
+vx_nombre_vector;Donaciones FNR 1° Cat.en dinero a obras específicas.
+vx_descripcion;Monto por Donante de Donaciones efectuadas al Fondo Nacional de Reconstrucción, efectuadas por contribuyentes primera categoria en dinero y con fines específicos. (Art. 9 Ley 20.444).
+vx_vector;1239
+vx_nombre_vector;Donaciones FNR 1° Cat. en especies al Fondo.
+vx_descripcion;Monto por Donante de Donaciones efectuadas al Fondo Nacional de Reconstrucción, efectuadas por contribuyentes primera categoria en especies y con fines generales. (Art. 4 Ley 20.444).
+vx_vector;1240
+vx_nombre_vector;Donaciones FNR 1° Cat. en especies a obras específicas.
+vx_descripcion;Monto por Donante de Donaciones efectuadas al Fondo Nacional de Reconstrucción, efectuadas por contribuyentes primera categoria en especies y con fines específicos. (Art. 4 Ley 20.444).
+vx_vector;1241
+vx_nombre_vector;Donaciones al fondo FNR Impuesto Adicional al fondo 
+vx_descripcion;Monto por Donante de Donaciones efectuadas al Fondo Nacional de Reconstrucción, efectuadas por contribuyentes Impuesto Adicional en dinero y con fines generales. (Art. 6 Ley 20.444).
+vx_vector;1242
+vx_nombre_vector;Donaciones al fondo FNR Impuesto Adicional Obras  Específicas
+vx_descripcion;Monto por Donante de Donaciones efectuadas en dinero para Obras  Específicas, realizadas por contribuyentes Impuesto Adicional (Art. 9 Ley 20.444).
+vx_vector;1247
+vx_nombre_vector;Monto donación social destino rehabilitación 
+vx_descripcion;Si línea 6: destino de la donación=1 entonces sume el monto actualizado  de la donación total por donante registrado en línea 
+vx_vector;1248
+vx_nombre_vector;F1828 Monto donaciones sociales con destino rehabilitación
+vx_descripcion;Sumatoria, por informado, del monto total de la donación, cuando el tipo de donación es social y el destino del proyecto es para fines de rehabilitación.
+vx_vector;1249
+vx_nombre_vector;Ventas métricas de cobre fino
+vx_descripcion;Sumatoria de los códigos [701] de Enero a Diciembre de AT Anterior Vigentes de código [15].  
+vx_vector;1250
+vx_nombre_vector;Crédito Sistemas Solares Térmicos (Cód. 728 )
+vx_descripcion;Código [728] declarado en período Diciembre AT-1.
+vx_vector;1251
+vx_nombre_vector;Parte de donación social no destinada a rehabilitación que supera las 1.000 UTM con aporte al fondo ≥ 33%
+vx_descripcion;Sumatoria por donante del monto actualizado de la donación total (Columna 7), cuando la donación no está destinada a rehabilitación (Columna 6 = 2) y el porcentaje que va al fondo, de aquella parte de la donación que supera las 1.000 UTM, es mayor o igual a 33% (Columna 8 ≥ 33).
+vx_vector;1252
+vx_nombre_vector;Monto donación social por sobre 1.000 UTM destinada a rehabilitación con aporte al FM ≥ 25%
+vx_descripcion;Sumatoria por donante del monto actualizado de la donación total (Columna 7), cuando la donación está destinada a rehabilitación (Columna 6 = 1) y el porcentaje que va al fondo, de aquella parte de la donación que supera las 1.000 UTM, es mayor o igual a 25% (Columna 8 ≥ 25).
+vx_vector;1255
+vx_nombre_vector;Donaciones Irrevocables
+vx_descripcion;Sumatoria por donante del “Monto Cuota Anual Donaciones Irrevocables”.
+vx_vector;1256
+vx_nombre_vector;Retenciones Tasa 35% por Declarante (No observados)
+vx_descripcion;Sumatoria por declarante de Montos Retenidos por directores (Tasa 35%).
+vx_vector;1257
+vx_nombre_vector;F1887 Renta total no gravada por declarante (DDJJ no observadas)
+vx_descripcion;Sumatoria, por declarante, de la renta total no gravada.
+vx_vector;1258
+vx_nombre_vector;F1887 Rebaja por zonas extremas DL 889 (DDJJ no observadas)
+vx_descripcion;Sumatoria, por declarante, de la rebaja por zonas extremas (Franquicia D.L. 889).
+vx_vector;1259
+vx_nombre_vector;F1889 Rentabilidad positiva de retiros provenientes de APV inciso segundo del Art. 42 bis de la LIR
+vx_descripcion;Sumatoria, por afiliado, de la rentabilidad positiva anual actualizada de los retiros efectuados (AFP’s) con cargo a APV inciso segundo del Art. 42 bis de la LIR.
+vx_vector;1260
+vx_nombre_vector;F1889 Rentabilidad negativa de retiros provenientes de APV inciso segundo del Art. 42 bis de la LIR
+vx_descripcion;Sumatoria, por afiliado, de la rentabilidad negativa anual actualizada de los retiros (AFP's) efectuados con cargo a cuentas de ahorro voluntario acogido a las normas generales de la Ley de la Renta.
+vx_vector;1261
+vx_nombre_vector;Monto Créditos informados en DJ3324
+vx_descripcion;Para cada Rut informado como deudor, sumar el monto de operación de crédito informada, afecta y exentas, proveniendes de Declaración Jurada 3324.  
+vx_vector;1262
+vx_nombre_vector;Inversiones en Transferencias Bienes Raíces proveniente de los padres e hijos
+vx_descripcion;Suma del Monto de enajención de Bienes Raíces (Subdirección de Avaluaciones) proveniente del padre y de la sumatoria por el mismo concepto proveniente de los hijos menores de edad.
+vx_vector;1263
+vx_nombre_vector;Contribuyentes con atributo “ Moneda Extranjera”
+vx_descripcion;Contribuyente autorizado para llevar contabilidad, declarar y pagar en moneda extranjera” o bien el atributo de “autorizado para llevar contabilidad y pagar en moneda extranjera.
+vx_vector;1264
+vx_nombre_vector;Contribuyentes Autorizados Contabilidad Moneda Extranjera.
+vx_descripcion;Si RUT posee Anotación 7505 vigente en el momento de generación del vector, entonces vector toma valor 1, si cumple con las condiciones señaladas:
+vx_vector;1265
+vx_nombre_vector;Contribuyentes que pueden rebajar PÉRDIDAS A CAUSA DEL TERREMOTO DEL 27.02.2010, conforme a lo establecido en la Circular 23 de 10.03.2010.
+vx_descripcion;Si contribuyente presentó solicitud y la Dirección Regional emitió un pronunciamiento al respecto, deberán informar la cuantía aceptada por rebaja a la RLI de primera categoría.  
+vx_vector;1266
+vx_nombre_vector;Monto Donación Social Destino No Rehabilitación Con Aporte al FM < 33%
+vx_descripcion;Sumatoria, por Donante, del monto actualizado de la donación total (Columna 7), cuando la donación no está destinada a rehabilitación (Columna 6 = 2) y el porcentaje que va al fondo, de aquella parte de la donación que supera las 1.000 UTM, es inferior a 33% (Columna 8 < 33).
+vx_vector;1267
+vx_nombre_vector;Monto Donación Social Destino Rehabilitación Con Aporte al FM < 25%
+vx_descripcion;Sumatoria, por Donante, del monto actualizado de la donación total (Columna 7), cuando la donación está destinada a rehabilitación (Columna 6 = 1) y el porcentaje que va al fondo, de aquella parte de la donación que supera las 1.000 UTM, es inferior a 25% (Columna 8 < 25).
+vx_vector;1268
+vx_nombre_vector;Nómina Donaciones Vx011268 (Techo para Chile y Chile Ayuda a Chile) 
+vx_descripcion;Construir para todo contribuyente informado en la nómina.
+vx_vector;1269
+vx_nombre_vector;Nomina Empresas del Estado que tributan según artículo 2° del Decreto Ley N° 2.398
+vx_descripcion;Construir para todo contribuyente informado en la nómina.
+vx_vector;1270
+vx_nombre_vector;Impugnados con Anotación 4310
+vx_descripcion;Toma valor 1, si existe la Anotación 4310 para algunos de los períodos comprendidos entre el 01/01/AT-1 y el 31/12/AT-1 y que se encuentre vigente a la fecha de generación del vector.
+vx_vector;1271
+vx_nombre_vector;Venta de acciones y cuotas de fondos de inversión con presencia bursátil, padres e hijos
+vx_descripcion;Sumatoria del monto total positivo de ventas de acciones y cuotas de fondos de inversión declarados en el F1891, cuando el nemotécnico viene informado en la nómina Presencia Bursátil de Acciones en Bolsa (ACCIONES.DAT), el tipo de documento es factura (“F”) y tiene presencia bursátil en la fecha de la operación, es nota de crédito (“C”) o nota de débito (“D”), proveniente del padre y de los hijos menores de edad, fecha de documento (C4) es hasta el día 01-09-2022 (dd-mm-aaaa) .
+vx_vector;1272
+vx_nombre_vector;Monto de IVA determinado, Cód. [89]
+vx_descripcion;Monto de IVA Determinado declarados en F29, código [89] de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;1273
+vx_nombre_vector;Retenciones Cambio de Sujeto, Código [596]
+vx_descripcion;Retenciones Cambio de Sujeto declaradas en F29, código [596] de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;1274
+vx_nombre_vector;Monto IVA determinado por concepto de tributación simplificada, código [409]
+vx_descripcion;Monto IVA determinado por concepto de tributación simplificada declarados en F29, código [409] de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;1275
+vx_nombre_vector;Monto de Impuesto adicional, código  [522], [526], [550], [506]
+vx_descripcion;Monto de Impuesto adicional declarados en F29, código [522], [526], [550], [506]  de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;1276
+vx_nombre_vector;Monto de Anticipo a Imputar, código  [598]
+vx_descripcion;Monto de Anticipo a Imputar declarados en F29, código [598]  de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;1277
+vx_nombre_vector;Monto de credito empresas constructoras imputados
+vx_descripcion;Monto de credito empresas constructoras declarados en F29, código [571]  menos remanente [130] de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;1278
+vx_nombre_vector;Monto de de recuperacion de peajes imputados
+vx_descripcion;Monto de recuperacion de peajes declarados en F29, código [590] menos remanente [591]de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;1279
+vx_nombre_vector;Monto Giro por Descuadratura F29, si existe anotacion 4303
+vx_descripcion;Contribuyentes con anotación 4303 y que poseen giro por descuadratura del F29
+vx_vector;1280
+vx_nombre_vector;Monto Giro por F29 ficticio fuera de plazo, si existe anotacion 4308 
+vx_descripcion;Contribuyentes con anotación 4308 y que poseen giro por F29 ficticio fuera de plazo 
+vx_vector;1281
+vx_nombre_vector;Monto PPM 1ra. Categoria Art. 84 a), Código [62]
+vx_descripcion;Monto de PPM del 1ra declarados en F29, código [62] de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;1282
+vx_nombre_vector;Contribuyente con atributo “AUTORIZADO 14 QUÁTER” (A14Q) vigente
+vx_descripcion;Contribuyente con atributo “AUTORIZADO 14 QUÁTER” (A14Q) vigente al 31/12/AT-1 inclusive (RIAC).
+vx_vector;1283
+vx_nombre_vector;Contribuyente con atributo “SOLICITA EXENCIÓN 14 QUÁTER” (R14Q) vigente
+vx_descripcion;Contribuyente con atributo “SOLICITA EXENCIÓN 14 QUÁTER” (R14Q) vigente al 31/12/AT-1 inclusive (RIAC).
+vx_vector;1285
+vx_nombre_vector;Contribuyente con atributo “NO CUMPLE REQUISITOS 14 QUÁTER” (N14Q) vigente
+vx_descripcion;Contribuyente con atributo “NO CUMPLE REQUISITOS 14 QUÁTER” (N14Q) vigente al 31/12/AT-1 inclusive (RIAC).
+vx_vector;1286
+vx_nombre_vector;Incumplimiento de requisitos Art. 14 quáter en AT-1 o AT-2
+vx_descripcion;Toma valor 1 cuando el folio del F22 AT-1 o AT-2 tiene vigente la observación F07 y su estado es impugnado.
+vx_vector;1287
+vx_nombre_vector;Control de requisitos tributación Art. 14 bis AT-1 o AT-2
+vx_descripcion;Toma valor 1 cuando el folio del F22 AT-1 o AT-2 tiene vigente la observación F86 y su estado es impugnado.
+vx_vector;1288
+vx_nombre_vector;Control contribuyente Renta Presunta AT-1
+vx_descripcion;Si contribuyente detenta la observación A12 y/o A41 el AT-1, el vector toma valor 1, en caso contrario toma valor 0
+vx_vector;1290
+vx_nombre_vector;Control de requisitos contribuyente Art. 14 ter
+vx_descripcion;Toma valor 1 cuando el folio del F22 AT-1, AT-2 o AT-3 tiene vigente la observación F90 y su estado es impugnado.
+vx_vector;1291
+vx_nombre_vector;Valor del código [839] del AT-1 actualizado
+vx_descripcion;Volor declarado en el F22 del AT-1 en el código [839]
+vx_vector;1292
+vx_nombre_vector;No declarante Declaraciones Juradas
+vx_descripcion;Contribuyente tiene validaciones de F18XX N01 .o. N02 .o. N03 .o. N04 .o. N05 .o. N124 .o. N125 .o. N127 .o. N128 .o. N129 .o. N130 .o. N164 .o. N168 .o. N169 .o. N170 .o. N171 .o. N172 .o. N173 .o. N174 .o. N201.
+vx_vector;1310
+vx_nombre_vector;Activos balance 8 columnas
+vx_descripcion;Sumatoria por TITULAR de Activo Sección C. 
+vx_vector;1311
+vx_nombre_vector;Pasivos balance 8 columnas
+vx_descripcion;Sumatoria por TITULAR de Pasivo Sección C. 
+vx_vector;1312
+vx_nombre_vector;Patrimonio financiero balance 8 columnas
+vx_descripcion;Sumatoria del monto de las cuentas patrimoniales detalladas en la sección C (C9), considerando aquellas cuentas cuyo Id. Cuenta según clasificador de cuentas (anexo 1) [C2] correspondan a patrimonio financiero
+vx_vector;1313
+vx_nombre_vector;Contribuyentes segmento “ Gran Empresa” o “Gran contribuyente”
+vx_descripcion;Contribuyente pertenecientes al segmento “Gran Empresa”.
+vx_vector;1314
+vx_nombre_vector;Monto de credito por sistemas solares térmicos imputado en F29
+vx_descripcion;Monto de credito por sistemas solares térmicos declarados en F29, código [727] menos remanente código [728] de Enero a Diciembre de AT Anterior de código [15]. 
+vx_vector;1321
+vx_nombre_vector;Renta de Reembolsos de Prestaciones Médicas
+vx_descripcion;Sumatoria por INFORMADO de rentas por reembolsos de prestaciones médicas, realizados por ISAPRES, cuando el “Tipo de Documento Tributario” corresponde a boletas de honorarios.
+vx_vector;1322
+vx_nombre_vector;Renta de Bonos de Atención de Salud por Prestaciones Médicas
+vx_descripcion;Sumatoria por INFORMADO de rentas por pagos realizados a prestadores médicos, por parte de afiliados a FONASA, cuando el “Tipo de Documento Tributario” corresponde a boletas de honorarios. 
+vx_vector;1329
+vx_nombre_vector;Arrendatario titular de una EIRL, socio de soc. de personas, socio de soc. de hecho, socio gestor de soc. CPA, accionista de SA, SpA o SCPA o comunero, informado por un tercero en F1835
+vx_descripcion;Identifica a contribuyentes informados en el F1835, que arriendan un bien raíz de propiedad de una empresa o sociedad de la cual el arrendatario es titular (de una E.I.R.L.), socio de sociedad de personas, socio de sociedad de hecho, socio gestor de sociedad C.P.A., accionista de una S.A., SpA o S.C.P.A o comunero.
+vx_vector;1330
+vx_nombre_vector;Presunción de beneficio por arriendo de bien raíz por un monto inferior al 11% del avalúo fiscal
+vx_descripcion;Para cada uno de los bienes raíces arrendados en su calidad de accionista, socio o propietario, se calcula el beneficio de acuerdo a lo establecido en el Artículo 21 de la LIR, proporcional a los meses de arriendo.
+vx_vector;1331
+vx_nombre_vector;Monto Arriendo pagado por arriendo de Bien Raíz
+vx_descripcion;Para cada uno de los Bienes Raíces arrendados en su calidad de socio, se suma el monto de los arriendos pagados de acuerdo a la información de la Declaración Jurada F1835.
+vx_vector;1332
+vx_nombre_vector;Diferencia de beneficio por uso o goce de bienes raíces no declarado en F1909
+vx_descripcion;Para cada socio que cumpla las condiciones del Vector Vx011329 o Vx011346, se calcula la parte del beneficio que no fue informada. Esta diferencia se calcula restando a la diferencia entre la presunción del beneficio del Art. 21 y el monto efectivamente pagado por concepto de arriendo, el monto del beneficio declarado en el F1909 por la sociedad propietaria del bien raíz.
+vx_vector;1333
+vx_nombre_vector;Porc. socio de Diferencia Retiro Presunto traspasado por Sociedad con contab. completa
+vx_descripcion;Para los socios Personas Jurídicas que poseen una Diferencia de Retiro Presunto de acuerdo al Vector Vx011332, se calcula para cada socio su porcentaje de participación sobre dicha diferencia.
